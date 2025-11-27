@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "title": "No Country for Old Men",
+    "year": 1965,
+    "genre": "Crime",
+    "rating": 8.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 2,
+    "title": "Braveheart",
+    "year": 2014,
+    "genre": "Animation",
+    "rating": 7.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 3,
+    "title": "The Shawshank Redemption",
+    "year": 1958,
+    "genre": "Sci-Fi",
+    "rating": 6.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 4,
+    "title": "Goodfellas",
+    "year": 2007,
+    "genre": "Drama",
+    "rating": 8.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 5,
+    "title": "Good Will Hunting",
+    "year": 2019,
+    "genre": "Horror",
+    "rating": 7.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 6,
+    "title": "Interstellar",
+    "year": 1978,
+    "genre": "Thriller",
+    "rating": 7.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 7,
+    "title": "Interstellar",
+    "year": 1984,
+    "genre": "Adventure",
+    "rating": 7.2,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 8,
+    "title": "No Country for Old Men",
+    "year": 1988,
+    "genre": "Thriller",
+    "rating": 7.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 9,
+    "title": "Toy Story",
+    "year": 1960,
+    "genre": "Sci-Fi",
+    "rating": 9.0,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 10,
+    "title": "Her",
+    "year": 1975,
+    "genre": "Drama",
+    "rating": 9.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 11,
+    "title": "Pulp Fiction",
+    "year": 1950,
+    "genre": "Drama",
+    "rating": 8.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 12,
+    "title": "Inception",
+    "year": 2009,
+    "genre": "Thriller",
+    "rating": 8.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 13,
+    "title": "Avatar",
+    "year": 2002,
+    "genre": "Action",
+    "rating": 8.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 14,
+    "title": "The Green Mile",
+    "year": 2009,
+    "genre": "Horror",
+    "rating": 9.2,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 15,
+    "title": "The Truman Show",
+    "year": 2008,
+    "genre": "Adventure",
+    "rating": 7.0,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 16,
+    "title": "The Silence of the Lambs",
+    "year": 1985,
+    "genre": "Sci-Fi",
+    "rating": 7.4,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 17,
+    "title": "No Country for Old Men",
+    "year": 1970,
+    "genre": "Crime",
+    "rating": 8.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 18,
+    "title": "Black Panther",
+    "year": 2024,
+    "genre": "Comedy",
+    "rating": 9.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 19,
+    "title": "Inception",
+    "year": 1956,
+    "genre": "Romance",
+    "rating": 6.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 20,
+    "title": "Django Unchained",
+    "year": 1990,
+    "genre": "Animation",
+    "rating": 7.7,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 21,
+    "title": "Moonlight",
+    "year": 1978,
+    "genre": "Action",
+    "rating": 7.0,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 22,
+    "title": "The Silence of the Lambs",
+    "year": 1979,
+    "genre": "Crime",
+    "rating": 7.0,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 23,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1970,
+    "genre": "Thriller",
+    "rating": 7.9,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 24,
+    "title": "The Matrix",
+    "year": 1973,
+    "genre": "Animation",
+    "rating": 7.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 25,
+    "title": "Rocky",
+    "year": 1993,
+    "genre": "Sci-Fi",
+    "rating": 6.5,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 26,
+    "title": "The Terminator",
+    "year": 1985,
+    "genre": "Thriller",
+    "rating": 6.5,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 27,
+    "title": "Joker",
+    "year": 1971,
+    "genre": "Comedy",
+    "rating": 7.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 28,
+    "title": "Jurassic Park",
+    "year": 1952,
+    "genre": "Romance",
+    "rating": 9.8,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 29,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Thriller",
+    "rating": 9.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 30,
+    "title": "The Pianist",
+    "year": 2021,
+    "genre": "Comedy",
+    "rating": 8.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 31,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2016,
+    "genre": "Crime",
+    "rating": 9.0,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 32,
+    "title": "Iron Man",
+    "year": 1966,
+    "genre": "Crime",
+    "rating": 9.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 33,
+    "title": "The Green Mile",
+    "year": 2023,
+    "genre": "Romance",
+    "rating": 9.1,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 34,
+    "title": "Her",
+    "year": 2008,
+    "genre": "Thriller",
+    "rating": 9.5,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 35,
+    "title": "Joker",
+    "year": 2002,
+    "genre": "Animation",
+    "rating": 7.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 36,
+    "title": "The Lord of the Rings",
+    "year": 1998,
+    "genre": "Drama",
+    "rating": 8.0,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 37,
+    "title": "2001: A Space Odyssey",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9.1,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 38,
+    "title": "Se7en",
+    "year": 1961,
+    "genre": "Action",
+    "rating": 9.2,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 39,
+    "title": "Joker",
+    "year": 1969,
+    "genre": "Animation",
+    "rating": 8.5,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 40,
+    "title": "The Departed",
+    "year": 1959,
+    "genre": "Action",
+    "rating": 7.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 41,
+    "title": "Iron Man",
+    "year": 1965,
+    "genre": "Sci-Fi",
+    "rating": 8.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 42,
+    "title": "Star Wars",
+    "year": 1997,
+    "genre": "Crime",
+    "rating": 7.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 43,
+    "title": "The Wolf of Wall Street",
+    "year": 1978,
+    "genre": "Action",
+    "rating": 9.3,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 44,
+    "title": "The Silence of the Lambs",
+    "year": 2014,
+    "genre": "Thriller",
+    "rating": 7.0,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 45,
+    "title": "Shutter Island",
+    "year": 1995,
+    "genre": "Adventure",
+    "rating": 9.3,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 46,
+    "title": "The Lion King",
+    "year": 1999,
+    "genre": "Thriller",
+    "rating": 8.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 47,
+    "title": "The Big Lebowski",
+    "year": 1956,
+    "genre": "Crime",
+    "rating": 8.2,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 48,
+    "title": "Toy Story",
+    "year": 1981,
+    "genre": "Romance",
+    "rating": 9.3,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 49,
+    "title": "Inception",
+    "year": 1995,
+    "genre": "Adventure",
+    "rating": 9.2,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 50,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 2016,
+    "genre": "Romance",
+    "rating": 9.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 51,
+    "title": "The Lord of the Rings",
+    "year": 2024,
+    "genre": "Drama",
+    "rating": 7.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 52,
+    "title": "Good Will Hunting",
+    "year": 1957,
+    "genre": "Comedy",
+    "rating": 7.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 53,
+    "title": "Fight Club",
+    "year": 1970,
+    "genre": "Comedy",
+    "rating": 8.1,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 54,
+    "title": "The Shawshank Redemption",
+    "year": 2013,
+    "genre": "Action",
+    "rating": 8.4,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 55,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1997,
+    "genre": "Crime",
+    "rating": 7.9,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 56,
+    "title": "The Pianist",
+    "year": 1969,
+    "genre": "Animation",
+    "rating": 8.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 57,
+    "title": "The Lion King",
+    "year": 2016,
+    "genre": "Romance",
+    "rating": 9.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 58,
+    "title": "Moonlight",
+    "year": 1955,
+    "genre": "Comedy",
+    "rating": 7.1,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 59,
+    "title": "Back to the Future",
+    "year": 2023,
+    "genre": "Adventure",
+    "rating": 8.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 60,
+    "title": "Whiplash",
+    "year": 1985,
+    "genre": "Crime",
+    "rating": 8.5,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 61,
+    "title": "The Avengers",
+    "year": 2012,
+    "genre": "Comedy",
+    "rating": 7.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 62,
+    "title": "The Silence of the Lambs",
+    "year": 1970,
+    "genre": "Sci-Fi",
+    "rating": 9.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 63,
+    "title": "Iron Man",
+    "year": 1972,
+    "genre": "Crime",
+    "rating": 8.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 64,
+    "title": "The Truman Show",
+    "year": 1960,
+    "genre": "Animation",
+    "rating": 7.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 65,
+    "title": "The Big Lebowski",
+    "year": 1990,
+    "genre": "Thriller",
+    "rating": 8.4,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 66,
+    "title": "The Avengers",
+    "year": 1968,
+    "genre": "Horror",
+    "rating": 7.2,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 67,
+    "title": "Whiplash",
+    "year": 1975,
+    "genre": "Action",
+    "rating": 8.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 68,
+    "title": "The Avengers",
+    "year": 2008,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 69,
+    "title": "Braveheart",
+    "year": 1991,
+    "genre": "Action",
+    "rating": 8.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 70,
+    "title": "Titanic",
+    "year": 1954,
+    "genre": "Horror",
+    "rating": 7.1,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 71,
+    "title": "Star Wars",
+    "year": 1995,
+    "genre": "Romance",
+    "rating": 7.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 72,
+    "title": "The Terminator",
+    "year": 1976,
+    "genre": "Drama",
+    "rating": 7.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 73,
+    "title": "The Departed",
+    "year": 2014,
+    "genre": "Thriller",
+    "rating": 6.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 74,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1971,
+    "genre": "Action",
+    "rating": 9.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 75,
+    "title": "Interstellar",
+    "year": 1950,
+    "genre": "Horror",
+    "rating": 8.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 76,
+    "title": "2001: A Space Odyssey",
+    "year": 2019,
+    "genre": "Action",
+    "rating": 7.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 77,
+    "title": "The Truman Show",
+    "year": 2010,
+    "genre": "Thriller",
+    "rating": 6.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 78,
+    "title": "The Batman",
+    "year": 2023,
+    "genre": "Adventure",
+    "rating": 8.6,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 79,
+    "title": "Gladiator",
+    "year": 1972,
+    "genre": "Comedy",
+    "rating": 8.9,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 80,
+    "title": "Mad Max: Fury Road",
+    "year": 2017,
+    "genre": "Sci-Fi",
+    "rating": 7.5,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 81,
+    "title": "The Wolf of Wall Street",
+    "year": 2000,
+    "genre": "Action",
+    "rating": 8.1,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 82,
+    "title": "Titanic",
+    "year": 2002,
+    "genre": "Romance",
+    "rating": 7.4,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 83,
+    "title": "Goodfellas",
+    "year": 2022,
+    "genre": "Drama",
+    "rating": 8.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 84,
+    "title": "Fight Club",
+    "year": 1959,
+    "genre": "Horror",
+    "rating": 7.4,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 85,
+    "title": "Gladiator",
+    "year": 1972,
+    "genre": "Horror",
+    "rating": 8.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 86,
+    "title": "Goodfellas",
+    "year": 1958,
+    "genre": "Action",
+    "rating": 8.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 87,
+    "title": "Goodfellas",
+    "year": 2020,
+    "genre": "Crime",
+    "rating": 8.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 88,
+    "title": "The Big Lebowski",
+    "year": 2018,
+    "genre": "Romance",
+    "rating": 6.9,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 89,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "Comedy",
+    "rating": 6.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 90,
+    "title": "Whiplash",
+    "year": 1959,
+    "genre": "Thriller",
+    "rating": 9.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 91,
+    "title": "2001: A Space Odyssey",
+    "year": 1989,
+    "genre": "Romance",
+    "rating": 8.4,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 92,
+    "title": "Slumdog Millionaire",
+    "year": 2021,
+    "genre": "Crime",
+    "rating": 7.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 93,
+    "title": "The Avengers",
+    "year": 2014,
+    "genre": "Horror",
+    "rating": 9.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 94,
+    "title": "Spirited Away",
+    "year": 2014,
+    "genre": "Animation",
+    "rating": 7.4,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 95,
+    "title": "Gladiator",
+    "year": 1975,
+    "genre": "Thriller",
+    "rating": 8.2,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 96,
+    "title": "The Avengers",
+    "year": 1970,
+    "genre": "Crime",
+    "rating": 8.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 97,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1967,
+    "genre": "Horror",
+    "rating": 8.4,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 98,
+    "title": "Iron Man",
+    "year": 1984,
+    "genre": "Crime",
+    "rating": 8.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 99,
+    "title": "Slumdog Millionaire",
+    "year": 1965,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 100,
+    "title": "Black Panther",
+    "year": 1954,
+    "genre": "Action",
+    "rating": 8.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 101,
+    "title": "The Departed",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 102,
+    "title": "Saving Private Ryan",
+    "year": 2018,
+    "genre": "Adventure",
+    "rating": 6.6,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 103,
+    "title": "A Beautiful Mind",
+    "year": 1995,
+    "genre": "Adventure",
+    "rating": 6.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 104,
+    "title": "The Terminator",
+    "year": 2015,
+    "genre": "Comedy",
+    "rating": 8.0,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 105,
+    "title": "The Shawshank Redemption",
+    "year": 2016,
+    "genre": "Drama",
+    "rating": 7.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 106,
+    "title": "No Country for Old Men",
+    "year": 2020,
+    "genre": "Romance",
+    "rating": 8.1,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 107,
+    "title": "The Truman Show",
+    "year": 1990,
+    "genre": "Action",
+    "rating": 9.6,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 108,
+    "title": "The Matrix",
+    "year": 1994,
+    "genre": "Comedy",
+    "rating": 8.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 109,
+    "title": "Shutter Island",
+    "year": 2016,
+    "genre": "Drama",
+    "rating": 9.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 110,
+    "title": "The Shawshank Redemption",
+    "year": 1999,
+    "genre": "Comedy",
+    "rating": 8.6,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 111,
+    "title": "The Silence of the Lambs",
+    "year": 1955,
+    "genre": "Thriller",
+    "rating": 7.1,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 112,
+    "title": "The Godfather",
+    "year": 1980,
+    "genre": "Animation",
+    "rating": 7.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 113,
+    "title": "The Lord of the Rings",
+    "year": 1979,
+    "genre": "Romance",
+    "rating": 9.6,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 114,
+    "title": "Toy Story",
+    "year": 1969,
+    "genre": "Crime",
+    "rating": 9.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 115,
+    "title": "Joker",
+    "year": 1987,
+    "genre": "Adventure",
+    "rating": 7.6,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 116,
+    "title": "Interstellar",
+    "year": 1978,
+    "genre": "Animation",
+    "rating": 8.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 117,
+    "title": "Back to the Future",
+    "year": 1995,
+    "genre": "Drama",
+    "rating": 9.5,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 118,
+    "title": "The Social Network",
+    "year": 1992,
+    "genre": "Comedy",
+    "rating": 8.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 119,
+    "title": "The Lion King",
+    "year": 2011,
+    "genre": "Adventure",
+    "rating": 7.4,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 120,
+    "title": "The Shawshank Redemption",
+    "year": 1992,
+    "genre": "Thriller",
+    "rating": 7.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 121,
+    "title": "Titanic",
+    "year": 2005,
+    "genre": "Comedy",
+    "rating": 7.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 122,
+    "title": "Moonlight",
+    "year": 1999,
+    "genre": "Horror",
+    "rating": 9.2,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 123,
+    "title": "The Avengers",
+    "year": 1959,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 124,
+    "title": "Toy Story",
+    "year": 1988,
+    "genre": "Thriller",
+    "rating": 7.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 125,
+    "title": "Titanic",
+    "year": 1981,
+    "genre": "Sci-Fi",
+    "rating": 8.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 126,
+    "title": "The Shawshank Redemption",
+    "year": 1973,
+    "genre": "Horror",
+    "rating": 8.4,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 127,
+    "title": "Star Wars",
+    "year": 2003,
+    "genre": "Adventure",
+    "rating": 9.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 128,
+    "title": "Toy Story",
+    "year": 2017,
+    "genre": "Thriller",
+    "rating": 6.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 129,
+    "title": "The Lion King",
+    "year": 1961,
+    "genre": "Crime",
+    "rating": 7.2,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 130,
+    "title": "The Matrix",
+    "year": 2002,
+    "genre": "Comedy",
+    "rating": 7.8,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 131,
+    "title": "Back to the Future",
+    "year": 1970,
+    "genre": "Animation",
+    "rating": 9.2,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 132,
+    "title": "Avatar",
+    "year": 2015,
+    "genre": "Adventure",
+    "rating": 7.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 133,
+    "title": "Titanic",
+    "year": 1996,
+    "genre": "Sci-Fi",
+    "rating": 9.5,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 134,
+    "title": "Shutter Island",
+    "year": 2024,
+    "genre": "Horror",
+    "rating": 7.6,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 135,
+    "title": "Her",
+    "year": 1994,
+    "genre": "Comedy",
+    "rating": 9.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 136,
+    "title": "The Pianist",
+    "year": 1969,
+    "genre": "Action",
+    "rating": 9.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 137,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1994,
+    "genre": "Animation",
+    "rating": 7.6,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 138,
+    "title": "The Wolf of Wall Street",
+    "year": 1978,
+    "genre": "Horror",
+    "rating": 7.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 139,
+    "title": "Iron Man",
+    "year": 1995,
+    "genre": "Thriller",
+    "rating": 8.1,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 140,
+    "title": "Forrest Gump",
+    "year": 2023,
+    "genre": "Drama",
+    "rating": 7.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 141,
+    "title": "The Terminator",
+    "year": 1993,
+    "genre": "Romance",
+    "rating": 7.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 142,
+    "title": "Casablanca",
+    "year": 1995,
+    "genre": "Crime",
+    "rating": 9.4,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 143,
+    "title": "Her",
+    "year": 2012,
+    "genre": "Comedy",
+    "rating": 6.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 144,
+    "title": "Her",
+    "year": 1951,
+    "genre": "Drama",
+    "rating": 7.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 145,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Animation",
+    "rating": 7.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 146,
+    "title": "Parasite",
+    "year": 1956,
+    "genre": "Comedy",
+    "rating": 8.5,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 147,
+    "title": "The Dark Knight",
+    "year": 2010,
+    "genre": "Romance",
+    "rating": 7.2,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 148,
+    "title": "The Truman Show",
+    "year": 1950,
+    "genre": "Comedy",
+    "rating": 9.0,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 149,
+    "title": "The Green Mile",
+    "year": 1951,
+    "genre": "Action",
+    "rating": 7.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 150,
+    "title": "Casablanca",
+    "year": 1962,
+    "genre": "Crime",
+    "rating": 6.7,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 151,
+    "title": "The Wolf of Wall Street",
+    "year": 1986,
+    "genre": "Sci-Fi",
+    "rating": 7.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 152,
+    "title": "The Green Mile",
+    "year": 2017,
+    "genre": "Comedy",
+    "rating": 7.2,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 153,
+    "title": "Avatar",
+    "year": 2010,
+    "genre": "Crime",
+    "rating": 8.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 154,
+    "title": "The Dark Knight",
+    "year": 1986,
+    "genre": "Action",
+    "rating": 9.3,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 155,
+    "title": "Iron Man",
+    "year": 2018,
+    "genre": "Animation",
+    "rating": 8.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 156,
+    "title": "Forrest Gump",
+    "year": 1978,
+    "genre": "Action",
+    "rating": 7.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 157,
+    "title": "Gladiator",
+    "year": 1978,
+    "genre": "Thriller",
+    "rating": 7.4,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 158,
+    "title": "The Prestige",
+    "year": 2000,
+    "genre": "Adventure",
+    "rating": 9.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 159,
+    "title": "Shutter Island",
+    "year": 2007,
+    "genre": "Action",
+    "rating": 7.2,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 160,
+    "title": "The Green Mile",
+    "year": 1972,
+    "genre": "Adventure",
+    "rating": 8.2,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 161,
+    "title": "The Shawshank Redemption",
+    "year": 2014,
+    "genre": "Adventure",
+    "rating": 8.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 162,
+    "title": "Good Will Hunting",
+    "year": 1987,
+    "genre": "Action",
+    "rating": 8.4,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 163,
+    "title": "Casablanca",
+    "year": 2013,
+    "genre": "Adventure",
+    "rating": 8.5,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 164,
+    "title": "The Dark Knight",
+    "year": 1976,
+    "genre": "Comedy",
+    "rating": 9.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 165,
+    "title": "No Country for Old Men",
+    "year": 1996,
+    "genre": "Thriller",
+    "rating": 8.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 166,
+    "title": "Parasite",
+    "year": 2020,
+    "genre": "Animation",
+    "rating": 8.1,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 167,
+    "title": "The Departed",
+    "year": 1971,
+    "genre": "Sci-Fi",
+    "rating": 7.3,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 168,
+    "title": "Avatar",
+    "year": 1979,
+    "genre": "Comedy",
+    "rating": 9.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 169,
+    "title": "Titanic",
+    "year": 1976,
+    "genre": "Romance",
+    "rating": 9.5,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 170,
+    "title": "Moonlight",
+    "year": 2012,
+    "genre": "Romance",
+    "rating": 7.7,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 171,
+    "title": "The Social Network",
+    "year": 1955,
+    "genre": "Drama",
+    "rating": 9.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 172,
+    "title": "Toy Story",
+    "year": 1984,
+    "genre": "Action",
+    "rating": 8.1,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 173,
+    "title": "The Prestige",
+    "year": 1972,
+    "genre": "Action",
+    "rating": 7.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 174,
+    "title": "Se7en",
+    "year": 1951,
+    "genre": "Crime",
+    "rating": 6.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 175,
+    "title": "The Shawshank Redemption",
+    "year": 1966,
+    "genre": "Sci-Fi",
+    "rating": 8.2,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 176,
+    "title": "Her",
+    "year": 1996,
+    "genre": "Horror",
+    "rating": 8.0,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 177,
+    "title": "Avatar",
+    "year": 2018,
+    "genre": "Action",
+    "rating": 9.5,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 178,
+    "title": "Parasite",
+    "year": 2018,
+    "genre": "Crime",
+    "rating": 7.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 179,
+    "title": "Parasite",
+    "year": 1967,
+    "genre": "Action",
+    "rating": 7.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 180,
+    "title": "Good Will Hunting",
+    "year": 2012,
+    "genre": "Crime",
+    "rating": 8.2,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 181,
+    "title": "Back to the Future",
+    "year": 1977,
+    "genre": "Action",
+    "rating": 8.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 182,
+    "title": "Braveheart",
+    "year": 1973,
+    "genre": "Animation",
+    "rating": 6.9,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 183,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1963,
+    "genre": "Action",
+    "rating": 8.1,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 184,
+    "title": "Avatar",
+    "year": 1993,
+    "genre": "Drama",
+    "rating": 7.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 185,
+    "title": "Black Panther",
+    "year": 1988,
+    "genre": "Thriller",
+    "rating": 9.4,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 186,
+    "title": "Spirited Away",
+    "year": 1985,
+    "genre": "Sci-Fi",
+    "rating": 9.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 187,
+    "title": "The Matrix",
+    "year": 1993,
+    "genre": "Sci-Fi",
+    "rating": 9.1,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 188,
+    "title": "The Batman",
+    "year": 2004,
+    "genre": "Comedy",
+    "rating": 7.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 189,
+    "title": "Back to the Future",
+    "year": 2014,
+    "genre": "Adventure",
+    "rating": 6.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 190,
+    "title": "The Avengers",
+    "year": 2012,
+    "genre": "Romance",
+    "rating": 7.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 191,
+    "title": "The Departed",
+    "year": 2006,
+    "genre": "Adventure",
+    "rating": 9.0,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 192,
+    "title": "The Green Mile",
+    "year": 1958,
+    "genre": "Comedy",
+    "rating": 6.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 193,
+    "title": "Moonlight",
+    "year": 1958,
+    "genre": "Crime",
+    "rating": 9.0,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 194,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2011,
+    "genre": "Animation",
+    "rating": 6.7,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 195,
+    "title": "Titanic",
+    "year": 1989,
+    "genre": "Animation",
+    "rating": 8.1,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 196,
+    "title": "Spirited Away",
+    "year": 1989,
+    "genre": "Animation",
+    "rating": 7.1,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 197,
+    "title": "The Godfather",
+    "year": 2000,
+    "genre": "Comedy",
+    "rating": 9.7,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 198,
+    "title": "The Truman Show",
+    "year": 1988,
+    "genre": "Romance",
+    "rating": 6.9,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 199,
+    "title": "Iron Man",
+    "year": 2006,
+    "genre": "Action",
+    "rating": 7.3,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 200,
+    "title": "La La Land",
+    "year": 1999,
+    "genre": "Animation",
+    "rating": 9.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 201,
+    "title": "Fight Club",
+    "year": 1998,
+    "genre": "Adventure",
+    "rating": 6.6,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 202,
+    "title": "No Country for Old Men",
+    "year": 1998,
+    "genre": "Comedy",
+    "rating": 6.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 203,
+    "title": "The Prestige",
+    "year": 1979,
+    "genre": "Action",
+    "rating": 6.8,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 204,
+    "title": "Parasite",
+    "year": 1978,
+    "genre": "Crime",
+    "rating": 9.5,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 205,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2019,
+    "genre": "Action",
+    "rating": 6.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 206,
+    "title": "Gladiator",
+    "year": 1996,
+    "genre": "Romance",
+    "rating": 9.6,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 207,
+    "title": "The Social Network",
+    "year": 2016,
+    "genre": "Animation",
+    "rating": 8.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 208,
+    "title": "The Prestige",
+    "year": 1996,
+    "genre": "Horror",
+    "rating": 9.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 209,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1982,
+    "genre": "Animation",
+    "rating": 8.1,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 210,
+    "title": "The Green Mile",
+    "year": 1981,
+    "genre": "Horror",
+    "rating": 9.3,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 211,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1965,
+    "genre": "Sci-Fi",
+    "rating": 6.6,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 212,
+    "title": "A Beautiful Mind",
+    "year": 1959,
+    "genre": "Animation",
+    "rating": 8.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 213,
+    "title": "Mad Max: Fury Road",
+    "year": 1990,
+    "genre": "Drama",
+    "rating": 8.2,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 214,
+    "title": "Interstellar",
+    "year": 1956,
+    "genre": "Drama",
+    "rating": 6.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 215,
+    "title": "Toy Story",
+    "year": 2023,
+    "genre": "Drama",
+    "rating": 8.4,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 216,
+    "title": "Iron Man",
+    "year": 1958,
+    "genre": "Animation",
+    "rating": 8.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 217,
+    "title": "The Truman Show",
+    "year": 1975,
+    "genre": "Horror",
+    "rating": 7.8,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 218,
+    "title": "Interstellar",
+    "year": 2008,
+    "genre": "Sci-Fi",
+    "rating": 9.2,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 219,
+    "title": "Inception",
+    "year": 2016,
+    "genre": "Animation",
+    "rating": 7.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 220,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 2023,
+    "genre": "Crime",
+    "rating": 9.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 221,
+    "title": "Jurassic Park",
+    "year": 2011,
+    "genre": "Sci-Fi",
+    "rating": 6.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 222,
+    "title": "Spirited Away",
+    "year": 2008,
+    "genre": "Drama",
+    "rating": 8.1,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 223,
+    "title": "Django Unchained",
+    "year": 1965,
+    "genre": "Adventure",
+    "rating": 8.4,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 224,
+    "title": "Joker",
+    "year": 1964,
+    "genre": "Thriller",
+    "rating": 7.0,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 225,
+    "title": "Braveheart",
+    "year": 1983,
+    "genre": "Drama",
+    "rating": 8.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 226,
+    "title": "The Godfather",
+    "year": 2023,
+    "genre": "Action",
+    "rating": 8.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 227,
+    "title": "Inception",
+    "year": 2013,
+    "genre": "Comedy",
+    "rating": 8.2,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 228,
+    "title": "Forrest Gump",
+    "year": 1981,
+    "genre": "Sci-Fi",
+    "rating": 7.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 229,
+    "title": "A Beautiful Mind",
+    "year": 2009,
+    "genre": "Romance",
+    "rating": 7.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 230,
+    "title": "Avatar",
+    "year": 1998,
+    "genre": "Adventure",
+    "rating": 8.4,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 231,
+    "title": "Django Unchained",
+    "year": 2010,
+    "genre": "Romance",
+    "rating": 7.5,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 232,
+    "title": "Parasite",
+    "year": 1966,
+    "genre": "Sci-Fi",
+    "rating": 7.9,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 233,
+    "title": "Back to the Future",
+    "year": 2022,
+    "genre": "Crime",
+    "rating": 6.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 234,
+    "title": "The Avengers",
+    "year": 2009,
+    "genre": "Animation",
+    "rating": 9.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 235,
+    "title": "The Dark Knight",
+    "year": 1982,
+    "genre": "Thriller",
+    "rating": 9.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 236,
+    "title": "The Batman",
+    "year": 2019,
+    "genre": "Horror",
+    "rating": 9.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 237,
+    "title": "The Lord of the Rings",
+    "year": 2020,
+    "genre": "Drama",
+    "rating": 8.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 238,
+    "title": "Se7en",
+    "year": 1966,
+    "genre": "Comedy",
+    "rating": 7.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 239,
+    "title": "Forrest Gump",
+    "year": 1968,
+    "genre": "Crime",
+    "rating": 7.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 240,
+    "title": "The Truman Show",
+    "year": 1971,
+    "genre": "Sci-Fi",
+    "rating": 9.0,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 241,
+    "title": "Titanic",
+    "year": 1952,
+    "genre": "Drama",
+    "rating": 8.4,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 242,
+    "title": "Parasite",
+    "year": 1995,
+    "genre": "Sci-Fi",
+    "rating": 8.3,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 243,
+    "title": "Good Will Hunting",
+    "year": 1993,
+    "genre": "Sci-Fi",
+    "rating": 6.6,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 244,
+    "title": "Avatar",
+    "year": 2013,
+    "genre": "Romance",
+    "rating": 8.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 245,
+    "title": "The Matrix",
+    "year": 2014,
+    "genre": "Horror",
+    "rating": 8.0,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 246,
+    "title": "Star Wars",
+    "year": 1981,
+    "genre": "Adventure",
+    "rating": 8.1,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 247,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2021,
+    "genre": "Horror",
+    "rating": 9.3,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 248,
+    "title": "The Pianist",
+    "year": 1950,
+    "genre": "Sci-Fi",
+    "rating": 7.0,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 249,
+    "title": "Goodfellas",
+    "year": 1984,
+    "genre": "Sci-Fi",
+    "rating": 9.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 250,
+    "title": "Braveheart",
+    "year": 1982,
+    "genre": "Animation",
+    "rating": 8.6,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 251,
+    "title": "Se7en",
+    "year": 1980,
+    "genre": "Action",
+    "rating": 7.9,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 252,
+    "title": "Saving Private Ryan",
+    "year": 2014,
+    "genre": "Adventure",
+    "rating": 7.3,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 253,
+    "title": "The Truman Show",
+    "year": 2008,
+    "genre": "Adventure",
+    "rating": 7.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 254,
+    "title": "Forrest Gump",
+    "year": 1983,
+    "genre": "Drama",
+    "rating": 7.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 255,
+    "title": "Inception",
+    "year": 1967,
+    "genre": "Romance",
+    "rating": 9.5,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 256,
+    "title": "Pulp Fiction",
+    "year": 1957,
+    "genre": "Thriller",
+    "rating": 9.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 257,
+    "title": "The Matrix",
+    "year": 1992,
+    "genre": "Comedy",
+    "rating": 7.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 258,
+    "title": "A Beautiful Mind",
+    "year": 1964,
+    "genre": "Adventure",
+    "rating": 9.5,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 259,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 2019,
+    "genre": "Adventure",
+    "rating": 9.5,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 260,
+    "title": "Toy Story",
+    "year": 1962,
+    "genre": "Thriller",
+    "rating": 6.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 261,
+    "title": "2001: A Space Odyssey",
+    "year": 2017,
+    "genre": "Adventure",
+    "rating": 9.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 262,
+    "title": "Slumdog Millionaire",
+    "year": 1972,
+    "genre": "Adventure",
+    "rating": 6.5,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 263,
+    "title": "Spirited Away",
+    "year": 2013,
+    "genre": "Adventure",
+    "rating": 9.1,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 264,
+    "title": "The Lord of the Rings",
+    "year": 2017,
+    "genre": "Sci-Fi",
+    "rating": 9.3,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 265,
+    "title": "A Beautiful Mind",
+    "year": 2018,
+    "genre": "Adventure",
+    "rating": 9.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 266,
+    "title": "No Country for Old Men",
+    "year": 1960,
+    "genre": "Drama",
+    "rating": 7.0,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 267,
+    "title": "The Matrix",
+    "year": 1988,
+    "genre": "Comedy",
+    "rating": 8.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 268,
+    "title": "A Beautiful Mind",
+    "year": 2008,
+    "genre": "Drama",
+    "rating": 9.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 269,
+    "title": "The Lion King",
+    "year": 1957,
+    "genre": "Romance",
+    "rating": 9.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 270,
+    "title": "Parasite",
+    "year": 1970,
+    "genre": "Drama",
+    "rating": 8.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 271,
+    "title": "A Beautiful Mind",
+    "year": 2002,
+    "genre": "Adventure",
+    "rating": 9.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 272,
+    "title": "The Shawshank Redemption",
+    "year": 1965,
+    "genre": "Drama",
+    "rating": 6.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 273,
+    "title": "Shutter Island",
+    "year": 2020,
+    "genre": "Comedy",
+    "rating": 8.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 274,
+    "title": "Good Will Hunting",
+    "year": 1988,
+    "genre": "Thriller",
+    "rating": 7.4,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 275,
+    "title": "Titanic",
+    "year": 2004,
+    "genre": "Animation",
+    "rating": 8.5,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 276,
+    "title": "Black Panther",
+    "year": 1957,
+    "genre": "Sci-Fi",
+    "rating": 8.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 277,
+    "title": "No Country for Old Men",
+    "year": 1973,
+    "genre": "Crime",
+    "rating": 8.3,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 278,
+    "title": "Star Wars",
+    "year": 1980,
+    "genre": "Sci-Fi",
+    "rating": 8.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 279,
+    "title": "No Country for Old Men",
+    "year": 1994,
+    "genre": "Animation",
+    "rating": 8.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 280,
+    "title": "Saving Private Ryan",
+    "year": 1980,
+    "genre": "Horror",
+    "rating": 9.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 281,
+    "title": "Goodfellas",
+    "year": 2015,
+    "genre": "Adventure",
+    "rating": 6.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 282,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2019,
+    "genre": "Animation",
+    "rating": 8.2,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 283,
+    "title": "Spirited Away",
+    "year": 1994,
+    "genre": "Romance",
+    "rating": 6.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 284,
+    "title": "The Batman",
+    "year": 1972,
+    "genre": "Romance",
+    "rating": 7.0,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 285,
+    "title": "The Silence of the Lambs",
+    "year": 2008,
+    "genre": "Sci-Fi",
+    "rating": 7.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 286,
+    "title": "The Shawshank Redemption",
+    "year": 1960,
+    "genre": "Crime",
+    "rating": 8.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 287,
+    "title": "Braveheart",
+    "year": 2007,
+    "genre": "Animation",
+    "rating": 8.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 288,
+    "title": "Iron Man",
+    "year": 1955,
+    "genre": "Animation",
+    "rating": 7.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 289,
+    "title": "The Matrix",
+    "year": 1974,
+    "genre": "Thriller",
+    "rating": 7.6,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 290,
+    "title": "The Dark Knight",
+    "year": 1962,
+    "genre": "Adventure",
+    "rating": 7.2,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 291,
+    "title": "Forrest Gump",
+    "year": 1958,
+    "genre": "Adventure",
+    "rating": 9.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 292,
+    "title": "Braveheart",
+    "year": 1992,
+    "genre": "Romance",
+    "rating": 7.6,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 293,
+    "title": "The Dark Knight",
+    "year": 2014,
+    "genre": "Horror",
+    "rating": 7.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 294,
+    "title": "The Silence of the Lambs",
+    "year": 2012,
+    "genre": "Adventure",
+    "rating": 9.0,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 295,
+    "title": "Iron Man",
+    "year": 1980,
+    "genre": "Horror",
+    "rating": 8.3,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 296,
+    "title": "Iron Man",
+    "year": 1974,
+    "genre": "Thriller",
+    "rating": 7.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 297,
+    "title": "Casablanca",
+    "year": 1973,
+    "genre": "Adventure",
+    "rating": 7.8,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 298,
+    "title": "Slumdog Millionaire",
+    "year": 1967,
+    "genre": "Crime",
+    "rating": 9.2,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 299,
+    "title": "The Lion King",
+    "year": 1968,
+    "genre": "Romance",
+    "rating": 8.0,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 300,
+    "title": "Iron Man",
+    "year": 1959,
+    "genre": "Adventure",
+    "rating": 8.0,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 301,
+    "title": "The Godfather",
+    "year": 1993,
+    "genre": "Romance",
+    "rating": 7.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 302,
+    "title": "The Green Mile",
+    "year": 2014,
+    "genre": "Action",
+    "rating": 6.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 303,
+    "title": "Django Unchained",
+    "year": 1996,
+    "genre": "Drama",
+    "rating": 8.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 304,
+    "title": "Saving Private Ryan",
+    "year": 1987,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 305,
+    "title": "Avatar",
+    "year": 1951,
+    "genre": "Comedy",
+    "rating": 8.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 306,
+    "title": "The Batman",
+    "year": 2007,
+    "genre": "Romance",
+    "rating": 8.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 307,
+    "title": "The Truman Show",
+    "year": 2022,
+    "genre": "Drama",
+    "rating": 6.6,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 308,
+    "title": "Se7en",
+    "year": 1951,
+    "genre": "Comedy",
+    "rating": 7.6,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 309,
+    "title": "The Green Mile",
+    "year": 2010,
+    "genre": "Crime",
+    "rating": 9.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 310,
+    "title": "The Terminator",
+    "year": 2021,
+    "genre": "Animation",
+    "rating": 8.6,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 311,
+    "title": "La La Land",
+    "year": 2001,
+    "genre": "Action",
+    "rating": 9.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 312,
+    "title": "Forrest Gump",
+    "year": 1971,
+    "genre": "Romance",
+    "rating": 7.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 313,
+    "title": "Star Wars",
+    "year": 1957,
+    "genre": "Horror",
+    "rating": 7.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 314,
+    "title": "Jurassic Park",
+    "year": 1956,
+    "genre": "Drama",
+    "rating": 8.4,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 315,
+    "title": "The Pianist",
+    "year": 1993,
+    "genre": "Crime",
+    "rating": 8.2,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 316,
+    "title": "Jurassic Park",
+    "year": 2001,
+    "genre": "Animation",
+    "rating": 6.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 317,
+    "title": "The Silence of the Lambs",
+    "year": 2022,
+    "genre": "Sci-Fi",
+    "rating": 9.4,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 318,
+    "title": "The Big Lebowski",
+    "year": 1996,
+    "genre": "Adventure",
+    "rating": 7.1,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 319,
+    "title": "Braveheart",
+    "year": 1970,
+    "genre": "Sci-Fi",
+    "rating": 7.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 320,
+    "title": "The Silence of the Lambs",
+    "year": 2010,
+    "genre": "Adventure",
+    "rating": 7.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 321,
+    "title": "Se7en",
+    "year": 2012,
+    "genre": "Crime",
+    "rating": 8.5,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 322,
+    "title": "The Big Lebowski",
+    "year": 1978,
+    "genre": "Adventure",
+    "rating": 9.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 323,
+    "title": "Gladiator",
+    "year": 2001,
+    "genre": "Romance",
+    "rating": 8.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 324,
+    "title": "Casablanca",
+    "year": 2015,
+    "genre": "Romance",
+    "rating": 7.9,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 325,
+    "title": "The Truman Show",
+    "year": 1965,
+    "genre": "Horror",
+    "rating": 9.1,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 326,
+    "title": "Star Wars",
+    "year": 1970,
+    "genre": "Animation",
+    "rating": 8.2,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 327,
+    "title": "Casablanca",
+    "year": 1958,
+    "genre": "Crime",
+    "rating": 8.4,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 328,
+    "title": "Spirited Away",
+    "year": 1992,
+    "genre": "Drama",
+    "rating": 6.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 329,
+    "title": "Parasite",
+    "year": 1973,
+    "genre": "Animation",
+    "rating": 9.1,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 330,
+    "title": "The Godfather",
+    "year": 2024,
+    "genre": "Drama",
+    "rating": 6.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 331,
+    "title": "The Grand Budapest Hotel",
+    "year": 1996,
+    "genre": "Action",
+    "rating": 8.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 332,
+    "title": "Pulp Fiction",
+    "year": 1969,
+    "genre": "Crime",
+    "rating": 8.2,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 333,
+    "title": "Toy Story",
+    "year": 1958,
+    "genre": "Horror",
+    "rating": 7.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 334,
+    "title": "The Terminator",
+    "year": 1965,
+    "genre": "Thriller",
+    "rating": 9.2,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 335,
+    "title": "Django Unchained",
+    "year": 1974,
+    "genre": "Horror",
+    "rating": 9.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 336,
+    "title": "Rocky",
+    "year": 1957,
+    "genre": "Action",
+    "rating": 9.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 337,
+    "title": "Good Will Hunting",
+    "year": 2013,
+    "genre": "Sci-Fi",
+    "rating": 7.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 338,
+    "title": "Interstellar",
+    "year": 1981,
+    "genre": "Thriller",
+    "rating": 9.2,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 339,
+    "title": "2001: A Space Odyssey",
+    "year": 1975,
+    "genre": "Thriller",
+    "rating": 8.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 340,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 2011,
+    "genre": "Sci-Fi",
+    "rating": 8.4,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 341,
+    "title": "Black Panther",
+    "year": 1952,
+    "genre": "Action",
+    "rating": 6.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 342,
+    "title": "Casablanca",
+    "year": 1974,
+    "genre": "Crime",
+    "rating": 8.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 343,
+    "title": "The Truman Show",
+    "year": 1972,
+    "genre": "Drama",
+    "rating": 7.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 344,
+    "title": "Django Unchained",
+    "year": 1963,
+    "genre": "Animation",
+    "rating": 7.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 345,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2007,
+    "genre": "Action",
+    "rating": 9.4,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 346,
+    "title": "Back to the Future",
+    "year": 2004,
+    "genre": "Romance",
+    "rating": 9.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 347,
+    "title": "A Beautiful Mind",
+    "year": 1982,
+    "genre": "Crime",
+    "rating": 7.0,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 348,
+    "title": "The Batman",
+    "year": 1991,
+    "genre": "Crime",
+    "rating": 7.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 349,
+    "title": "The Dark Knight",
+    "year": 1979,
+    "genre": "Animation",
+    "rating": 7.0,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 350,
+    "title": "The Batman",
+    "year": 1998,
+    "genre": "Romance",
+    "rating": 9.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 351,
+    "title": "Goodfellas",
+    "year": 2021,
+    "genre": "Action",
+    "rating": 9.3,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 352,
+    "title": "The Matrix",
+    "year": 1957,
+    "genre": "Romance",
+    "rating": 8.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 353,
+    "title": "The Batman",
+    "year": 1967,
+    "genre": "Action",
+    "rating": 7.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 354,
+    "title": "The Prestige",
+    "year": 2005,
+    "genre": "Comedy",
+    "rating": 9.8,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 355,
+    "title": "The Green Mile",
+    "year": 2009,
+    "genre": "Horror",
+    "rating": 7.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 356,
+    "title": "The Godfather",
+    "year": 1979,
+    "genre": "Romance",
+    "rating": 8.7,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 357,
+    "title": "La La Land",
+    "year": 2013,
+    "genre": "Romance",
+    "rating": 9.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 358,
+    "title": "Moonlight",
+    "year": 1973,
+    "genre": "Crime",
+    "rating": 8.2,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 359,
+    "title": "Django Unchained",
+    "year": 1975,
+    "genre": "Action",
+    "rating": 7.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 360,
+    "title": "The Lion King",
+    "year": 1991,
+    "genre": "Crime",
+    "rating": 9.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 361,
+    "title": "Back to the Future",
+    "year": 1988,
+    "genre": "Thriller",
+    "rating": 7.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 362,
+    "title": "Toy Story",
+    "year": 2019,
+    "genre": "Crime",
+    "rating": 8.4,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 363,
+    "title": "Slumdog Millionaire",
+    "year": 2004,
+    "genre": "Thriller",
+    "rating": 7.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 364,
+    "title": "Forrest Gump",
+    "year": 1957,
+    "genre": "Thriller",
+    "rating": 9.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 365,
+    "title": "The Truman Show",
+    "year": 1952,
+    "genre": "Animation",
+    "rating": 8.5,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 366,
+    "title": "The Departed",
+    "year": 1973,
+    "genre": "Comedy",
+    "rating": 6.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 367,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 2008,
+    "genre": "Drama",
+    "rating": 8.7,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 368,
+    "title": "The Big Lebowski",
+    "year": 2021,
+    "genre": "Drama",
+    "rating": 6.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 369,
+    "title": "The Terminator",
+    "year": 1980,
+    "genre": "Comedy",
+    "rating": 8.3,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 370,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 2007,
+    "genre": "Romance",
+    "rating": 7.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 371,
+    "title": "The Dark Knight",
+    "year": 2022,
+    "genre": "Action",
+    "rating": 9.3,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 372,
+    "title": "Se7en",
+    "year": 2009,
+    "genre": "Thriller",
+    "rating": 9.2,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 373,
+    "title": "The Big Lebowski",
+    "year": 2004,
+    "genre": "Romance",
+    "rating": 7.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 374,
+    "title": "Whiplash",
+    "year": 2009,
+    "genre": "Action",
+    "rating": 7.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 375,
+    "title": "A Beautiful Mind",
+    "year": 1978,
+    "genre": "Crime",
+    "rating": 7.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 376,
+    "title": "The Green Mile",
+    "year": 2021,
+    "genre": "Romance",
+    "rating": 9.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 377,
+    "title": "Fight Club",
+    "year": 1954,
+    "genre": "Action",
+    "rating": 8.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 378,
+    "title": "The Lion King",
+    "year": 1968,
+    "genre": "Sci-Fi",
+    "rating": 7.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 379,
+    "title": "Goodfellas",
+    "year": 2016,
+    "genre": "Crime",
+    "rating": 7.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 380,
+    "title": "Inception",
+    "year": 1983,
+    "genre": "Comedy",
+    "rating": 9.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 381,
+    "title": "Django Unchained",
+    "year": 1955,
+    "genre": "Animation",
+    "rating": 9.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 382,
+    "title": "The Shawshank Redemption",
+    "year": 2009,
+    "genre": "Crime",
+    "rating": 6.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 383,
+    "title": "The Lord of the Rings",
+    "year": 1971,
+    "genre": "Drama",
+    "rating": 9.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 384,
+    "title": "Black Panther",
+    "year": 1959,
+    "genre": "Comedy",
+    "rating": 7.3,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 385,
+    "title": "The Lord of the Rings",
+    "year": 1951,
+    "genre": "Drama",
+    "rating": 9.3,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 386,
+    "title": "The Avengers",
+    "year": 1993,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 387,
+    "title": "The Truman Show",
+    "year": 2015,
+    "genre": "Thriller",
+    "rating": 6.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 388,
+    "title": "The Batman",
+    "year": 1950,
+    "genre": "Action",
+    "rating": 8.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 389,
+    "title": "The Wolf of Wall Street",
+    "year": 1986,
+    "genre": "Drama",
+    "rating": 9.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 390,
+    "title": "Joker",
+    "year": 1968,
+    "genre": "Comedy",
+    "rating": 8.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 391,
+    "title": "The Truman Show",
+    "year": 1960,
+    "genre": "Comedy",
+    "rating": 7.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 392,
+    "title": "The Truman Show",
+    "year": 1955,
+    "genre": "Animation",
+    "rating": 9.8,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 393,
+    "title": "Parasite",
+    "year": 1961,
+    "genre": "Animation",
+    "rating": 8.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 394,
+    "title": "La La Land",
+    "year": 1974,
+    "genre": "Horror",
+    "rating": 9.5,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 395,
+    "title": "Goodfellas",
+    "year": 2019,
+    "genre": "Thriller",
+    "rating": 8.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 396,
+    "title": "A Beautiful Mind",
+    "year": 1986,
+    "genre": "Comedy",
+    "rating": 6.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 397,
+    "title": "Casablanca",
+    "year": 2003,
+    "genre": "Romance",
+    "rating": 9.8,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 398,
+    "title": "Jurassic Park",
+    "year": 1986,
+    "genre": "Drama",
+    "rating": 7.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 399,
+    "title": "Moonlight",
+    "year": 1977,
+    "genre": "Adventure",
+    "rating": 8.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 400,
+    "title": "Back to the Future",
+    "year": 1960,
+    "genre": "Adventure",
+    "rating": 8.2,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 401,
+    "title": "Her",
+    "year": 1995,
+    "genre": "Adventure",
+    "rating": 6.6,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 402,
+    "title": "Braveheart",
+    "year": 2014,
+    "genre": "Crime",
+    "rating": 8.1,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 403,
+    "title": "Avatar",
+    "year": 1958,
+    "genre": "Thriller",
+    "rating": 7.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 404,
+    "title": "Braveheart",
+    "year": 2010,
+    "genre": "Drama",
+    "rating": 8.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 405,
+    "title": "The Lion King",
+    "year": 2010,
+    "genre": "Romance",
+    "rating": 6.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 406,
+    "title": "The Lord of the Rings",
+    "year": 2001,
+    "genre": "Thriller",
+    "rating": 7.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 407,
+    "title": "The Pianist",
+    "year": 1952,
+    "genre": "Sci-Fi",
+    "rating": 9.5,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 408,
+    "title": "Casablanca",
+    "year": 2016,
+    "genre": "Thriller",
+    "rating": 7.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 409,
+    "title": "Whiplash",
+    "year": 2009,
+    "genre": "Crime",
+    "rating": 8.2,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 410,
+    "title": "Spirited Away",
+    "year": 2012,
+    "genre": "Comedy",
+    "rating": 9.0,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 411,
+    "title": "The Truman Show",
+    "year": 1996,
+    "genre": "Comedy",
+    "rating": 6.5,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 412,
+    "title": "The Departed",
+    "year": 2020,
+    "genre": "Drama",
+    "rating": 7.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 413,
+    "title": "Toy Story",
+    "year": 2008,
+    "genre": "Comedy",
+    "rating": 8.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 414,
+    "title": "The Matrix",
+    "year": 2011,
+    "genre": "Action",
+    "rating": 7.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 415,
+    "title": "The Godfather",
+    "year": 1995,
+    "genre": "Sci-Fi",
+    "rating": 8.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 416,
+    "title": "Mad Max: Fury Road",
+    "year": 1997,
+    "genre": "Drama",
+    "rating": 8.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 417,
+    "title": "Mad Max: Fury Road",
+    "year": 2007,
+    "genre": "Crime",
+    "rating": 9.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 418,
+    "title": "Fight Club",
+    "year": 1983,
+    "genre": "Animation",
+    "rating": 9.0,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 419,
+    "title": "Mad Max: Fury Road",
+    "year": 2020,
+    "genre": "Adventure",
+    "rating": 9.1,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 420,
+    "title": "Casablanca",
+    "year": 1997,
+    "genre": "Horror",
+    "rating": 7.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 421,
+    "title": "No Country for Old Men",
+    "year": 1985,
+    "genre": "Adventure",
+    "rating": 6.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 422,
+    "title": "Avatar",
+    "year": 1976,
+    "genre": "Adventure",
+    "rating": 9.4,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 423,
+    "title": "Toy Story",
+    "year": 1986,
+    "genre": "Drama",
+    "rating": 8.7,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 424,
+    "title": "The Terminator",
+    "year": 1954,
+    "genre": "Sci-Fi",
+    "rating": 9.7,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 425,
+    "title": "Titanic",
+    "year": 2018,
+    "genre": "Adventure",
+    "rating": 6.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 426,
+    "title": "Slumdog Millionaire",
+    "year": 2019,
+    "genre": "Drama",
+    "rating": 9.4,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 427,
+    "title": "Jurassic Park",
+    "year": 1964,
+    "genre": "Sci-Fi",
+    "rating": 6.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 428,
+    "title": "Se7en",
+    "year": 2022,
+    "genre": "Horror",
+    "rating": 9.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 429,
+    "title": "Forrest Gump",
+    "year": 1999,
+    "genre": "Action",
+    "rating": 9.3,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 430,
+    "title": "Mad Max: Fury Road",
+    "year": 1967,
+    "genre": "Crime",
+    "rating": 8.0,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 431,
+    "title": "Fight Club",
+    "year": 1954,
+    "genre": "Horror",
+    "rating": 8.3,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 432,
+    "title": "Her",
+    "year": 2021,
+    "genre": "Action",
+    "rating": 8.8,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 433,
+    "title": "Iron Man",
+    "year": 2013,
+    "genre": "Thriller",
+    "rating": 7.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 434,
+    "title": "Saving Private Ryan",
+    "year": 1962,
+    "genre": "Adventure",
+    "rating": 6.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 435,
+    "title": "Toy Story",
+    "year": 1968,
+    "genre": "Adventure",
+    "rating": 7.5,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 436,
+    "title": "Jurassic Park",
+    "year": 2009,
+    "genre": "Adventure",
+    "rating": 7.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 437,
+    "title": "Se7en",
+    "year": 1953,
+    "genre": "Drama",
+    "rating": 9.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 438,
+    "title": "Mad Max: Fury Road",
+    "year": 2011,
+    "genre": "Sci-Fi",
+    "rating": 9.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 439,
+    "title": "Avatar",
+    "year": 2003,
+    "genre": "Adventure",
+    "rating": 7.6,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 440,
+    "title": "Moonlight",
+    "year": 1957,
+    "genre": "Comedy",
+    "rating": 7.2,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 441,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1964,
+    "genre": "Sci-Fi",
+    "rating": 8.1,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 442,
+    "title": "The Departed",
+    "year": 2001,
+    "genre": "Drama",
+    "rating": 8.1,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 443,
+    "title": "Interstellar",
+    "year": 1963,
+    "genre": "Comedy",
+    "rating": 6.8,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 444,
+    "title": "Moonlight",
+    "year": 2015,
+    "genre": "Romance",
+    "rating": 7.4,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 445,
+    "title": "Her",
+    "year": 2004,
+    "genre": "Drama",
+    "rating": 8.2,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 446,
+    "title": "The Silence of the Lambs",
+    "year": 1990,
+    "genre": "Action",
+    "rating": 8.0,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 447,
+    "title": "The Silence of the Lambs",
+    "year": 2008,
+    "genre": "Romance",
+    "rating": 8.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 448,
+    "title": "Avatar",
+    "year": 1986,
+    "genre": "Crime",
+    "rating": 9.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 449,
+    "title": "Django Unchained",
+    "year": 1996,
+    "genre": "Comedy",
+    "rating": 8.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 450,
+    "title": "The Lord of the Rings",
+    "year": 2019,
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 451,
+    "title": "The Grand Budapest Hotel",
+    "year": 2024,
+    "genre": "Animation",
+    "rating": 9.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 452,
+    "title": "Pulp Fiction",
+    "year": 1972,
+    "genre": "Adventure",
+    "rating": 8.5,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 453,
+    "title": "The Terminator",
+    "year": 1976,
+    "genre": "Thriller",
+    "rating": 6.9,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 454,
+    "title": "The Terminator",
+    "year": 1999,
+    "genre": "Thriller",
+    "rating": 9.4,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 455,
+    "title": "Gladiator",
+    "year": 1987,
+    "genre": "Romance",
+    "rating": 8.4,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 456,
+    "title": "Joker",
+    "year": 1972,
+    "genre": "Adventure",
+    "rating": 7.9,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 457,
+    "title": "2001: A Space Odyssey",
+    "year": 1984,
+    "genre": "Drama",
+    "rating": 6.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 458,
+    "title": "The Lord of the Rings",
+    "year": 1981,
+    "genre": "Sci-Fi",
+    "rating": 8.6,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 459,
+    "title": "Goodfellas",
+    "year": 1993,
+    "genre": "Animation",
+    "rating": 9.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 460,
+    "title": "The Matrix",
+    "year": 2020,
+    "genre": "Romance",
+    "rating": 9.3,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 461,
+    "title": "Goodfellas",
+    "year": 2006,
+    "genre": "Thriller",
+    "rating": 7.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 462,
+    "title": "Star Wars",
+    "year": 2002,
+    "genre": "Action",
+    "rating": 9.7,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 463,
+    "title": "No Country for Old Men",
+    "year": 2014,
+    "genre": "Comedy",
+    "rating": 8.5,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 464,
+    "title": "Rocky",
+    "year": 1970,
+    "genre": "Crime",
+    "rating": 6.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 465,
+    "title": "Fight Club",
+    "year": 2020,
+    "genre": "Comedy",
+    "rating": 9.2,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 466,
+    "title": "The Truman Show",
+    "year": 1972,
+    "genre": "Drama",
+    "rating": 6.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 467,
+    "title": "Pulp Fiction",
+    "year": 2017,
+    "genre": "Thriller",
+    "rating": 7.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 468,
+    "title": "Goodfellas",
+    "year": 2013,
+    "genre": "Animation",
+    "rating": 7.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 469,
+    "title": "The Avengers",
+    "year": 1962,
+    "genre": "Animation",
+    "rating": 8.4,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 470,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2017,
+    "genre": "Romance",
+    "rating": 9.4,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 471,
+    "title": "Goodfellas",
+    "year": 1971,
+    "genre": "Animation",
+    "rating": 9.8,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 472,
+    "title": "The Avengers",
+    "year": 1955,
+    "genre": "Drama",
+    "rating": 9.4,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 473,
+    "title": "The Lion King",
+    "year": 1958,
+    "genre": "Comedy",
+    "rating": 7.0,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 474,
+    "title": "The Lion King",
+    "year": 1994,
+    "genre": "Action",
+    "rating": 7.8,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 475,
+    "title": "Forrest Gump",
+    "year": 2006,
+    "genre": "Animation",
+    "rating": 7.1,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 476,
+    "title": "The Dark Knight",
+    "year": 2022,
+    "genre": "Sci-Fi",
+    "rating": 7.0,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 477,
+    "title": "La La Land",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 8.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 478,
+    "title": "The Prestige",
+    "year": 1982,
+    "genre": "Crime",
+    "rating": 8.4,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 479,
+    "title": "Gladiator",
+    "year": 1987,
+    "genre": "Romance",
+    "rating": 7.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 480,
+    "title": "Se7en",
+    "year": 1973,
+    "genre": "Adventure",
+    "rating": 9.1,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 481,
+    "title": "Good Will Hunting",
+    "year": 1995,
+    "genre": "Comedy",
+    "rating": 6.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 482,
+    "title": "The Matrix",
+    "year": 2009,
+    "genre": "Adventure",
+    "rating": 9.4,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 483,
+    "title": "The Godfather",
+    "year": 1987,
+    "genre": "Horror",
+    "rating": 7.8,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 484,
+    "title": "Whiplash",
+    "year": 2001,
+    "genre": "Sci-Fi",
+    "rating": 9.0,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 485,
+    "title": "Spirited Away",
+    "year": 1954,
+    "genre": "Comedy",
+    "rating": 7.6,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 486,
+    "title": "The Big Lebowski",
+    "year": 2001,
+    "genre": "Sci-Fi",
+    "rating": 9.7,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 487,
+    "title": "Her",
+    "year": 1956,
+    "genre": "Adventure",
+    "rating": 7.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 488,
+    "title": "Spirited Away",
+    "year": 1974,
+    "genre": "Adventure",
+    "rating": 7.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 489,
+    "title": "The Godfather",
+    "year": 1965,
+    "genre": "Crime",
+    "rating": 6.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 490,
+    "title": "2001: A Space Odyssey",
+    "year": 2019,
+    "genre": "Horror",
+    "rating": 7.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 491,
+    "title": "Back to the Future",
+    "year": 1961,
+    "genre": "Animation",
+    "rating": 6.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 492,
+    "title": "The Shawshank Redemption",
+    "year": 1962,
+    "genre": "Animation",
+    "rating": 7.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 493,
+    "title": "Iron Man",
+    "year": 1950,
+    "genre": "Sci-Fi",
+    "rating": 9.6,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 494,
+    "title": "Titanic",
+    "year": 2023,
+    "genre": "Crime",
+    "rating": 8.7,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 495,
+    "title": "Her",
+    "year": 1988,
+    "genre": "Sci-Fi",
+    "rating": 8.9,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 496,
+    "title": "Inception",
+    "year": 2021,
+    "genre": "Drama",
+    "rating": 7.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 497,
+    "title": "Joker",
+    "year": 1951,
+    "genre": "Romance",
+    "rating": 8.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 498,
+    "title": "Rocky",
+    "year": 1964,
+    "genre": "Adventure",
+    "rating": 9.3,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 499,
+    "title": "A Beautiful Mind",
+    "year": 1959,
+    "genre": "Thriller",
+    "rating": 8.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 500,
+    "title": "Good Will Hunting",
+    "year": 1972,
+    "genre": "Action",
+    "rating": 7.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 501,
+    "title": "Forrest Gump",
+    "year": 1989,
+    "genre": "Romance",
+    "rating": 9.3,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 502,
+    "title": "Braveheart",
+    "year": 1995,
+    "genre": "Romance",
+    "rating": 7.1,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 503,
+    "title": "Casablanca",
+    "year": 1996,
+    "genre": "Adventure",
+    "rating": 6.7,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 504,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1996,
+    "genre": "Animation",
+    "rating": 9.0,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 505,
+    "title": "Joker",
+    "year": 1954,
+    "genre": "Horror",
+    "rating": 9.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 506,
+    "title": "The Terminator",
+    "year": 2007,
+    "genre": "Animation",
+    "rating": 7.0,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 507,
+    "title": "The Departed",
+    "year": 2005,
+    "genre": "Sci-Fi",
+    "rating": 9.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 508,
+    "title": "The Silence of the Lambs",
+    "year": 1977,
+    "genre": "Horror",
+    "rating": 7.0,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 509,
+    "title": "The Matrix",
+    "year": 1951,
+    "genre": "Comedy",
+    "rating": 8.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 510,
+    "title": "Her",
+    "year": 2014,
+    "genre": "Adventure",
+    "rating": 7.0,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 511,
+    "title": "Titanic",
+    "year": 1988,
+    "genre": "Animation",
+    "rating": 9.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 512,
+    "title": "Braveheart",
+    "year": 1990,
+    "genre": "Comedy",
+    "rating": 8.4,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 513,
+    "title": "Django Unchained",
+    "year": 1994,
+    "genre": "Animation",
+    "rating": 7.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 514,
+    "title": "Moonlight",
+    "year": 1968,
+    "genre": "Comedy",
+    "rating": 9.4,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 515,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1964,
+    "genre": "Action",
+    "rating": 8.8,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 516,
+    "title": "Her",
+    "year": 1995,
+    "genre": "Crime",
+    "rating": 7.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 517,
+    "title": "Back to the Future",
+    "year": 2004,
+    "genre": "Romance",
+    "rating": 9.3,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 518,
+    "title": "Forrest Gump",
+    "year": 1980,
+    "genre": "Horror",
+    "rating": 7.5,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 519,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1988,
+    "genre": "Action",
+    "rating": 7.8,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 520,
+    "title": "The Lion King",
+    "year": 1956,
+    "genre": "Animation",
+    "rating": 7.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 521,
+    "title": "The Prestige",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 7.2,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 522,
+    "title": "Toy Story",
+    "year": 1951,
+    "genre": "Romance",
+    "rating": 7.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 523,
+    "title": "A Beautiful Mind",
+    "year": 1996,
+    "genre": "Horror",
+    "rating": 6.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 524,
+    "title": "Whiplash",
+    "year": 1962,
+    "genre": "Horror",
+    "rating": 8.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 525,
+    "title": "The Dark Knight",
+    "year": 1957,
+    "genre": "Crime",
+    "rating": 7.0,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 526,
+    "title": "Se7en",
+    "year": 2019,
+    "genre": "Comedy",
+    "rating": 9.2,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 527,
+    "title": "Toy Story",
+    "year": 1980,
+    "genre": "Adventure",
+    "rating": 8.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 528,
+    "title": "Fight Club",
+    "year": 1960,
+    "genre": "Horror",
+    "rating": 7.3,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 529,
+    "title": "The Big Lebowski",
+    "year": 2021,
+    "genre": "Horror",
+    "rating": 8.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 530,
+    "title": "Casablanca",
+    "year": 1968,
+    "genre": "Animation",
+    "rating": 9.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 531,
+    "title": "The Prestige",
+    "year": 2015,
+    "genre": "Drama",
+    "rating": 8.9,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 532,
+    "title": "The Silence of the Lambs",
+    "year": 2000,
+    "genre": "Drama",
+    "rating": 8.6,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 533,
+    "title": "Django Unchained",
+    "year": 1954,
+    "genre": "Crime",
+    "rating": 9.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 534,
+    "title": "Forrest Gump",
+    "year": 1978,
+    "genre": "Adventure",
+    "rating": 8.3,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 535,
+    "title": "Forrest Gump",
+    "year": 2024,
+    "genre": "Sci-Fi",
+    "rating": 7.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 536,
+    "title": "Her",
+    "year": 2002,
+    "genre": "Adventure",
+    "rating": 9.2,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 537,
+    "title": "No Country for Old Men",
+    "year": 1971,
+    "genre": "Horror",
+    "rating": 8.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 538,
+    "title": "Django Unchained",
+    "year": 1985,
+    "genre": "Action",
+    "rating": 9.4,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 539,
+    "title": "The Social Network",
+    "year": 1998,
+    "genre": "Crime",
+    "rating": 7.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 540,
+    "title": "No Country for Old Men",
+    "year": 1973,
+    "genre": "Drama",
+    "rating": 8.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 541,
+    "title": "The Batman",
+    "year": 1970,
+    "genre": "Drama",
+    "rating": 8.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 542,
+    "title": "The Pianist",
+    "year": 1994,
+    "genre": "Romance",
+    "rating": 7.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 543,
+    "title": "Slumdog Millionaire",
+    "year": 2014,
+    "genre": "Crime",
+    "rating": 8.5,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 544,
+    "title": "Se7en",
+    "year": 1953,
+    "genre": "Crime",
+    "rating": 8.5,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 545,
+    "title": "The Batman",
+    "year": 1985,
+    "genre": "Horror",
+    "rating": 8.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 546,
+    "title": "The Lion King",
+    "year": 1971,
+    "genre": "Comedy",
+    "rating": 8.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 547,
+    "title": "Goodfellas",
+    "year": 2015,
+    "genre": "Horror",
+    "rating": 7.4,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 548,
+    "title": "Moonlight",
+    "year": 1954,
+    "genre": "Sci-Fi",
+    "rating": 6.8,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 549,
+    "title": "Forrest Gump",
+    "year": 1959,
+    "genre": "Romance",
+    "rating": 8.1,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 550,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 2012,
+    "genre": "Animation",
+    "rating": 8.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 551,
+    "title": "La La Land",
+    "year": 1971,
+    "genre": "Romance",
+    "rating": 8.0,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 552,
+    "title": "Whiplash",
+    "year": 2015,
+    "genre": "Action",
+    "rating": 6.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 553,
+    "title": "Inception",
+    "year": 1998,
+    "genre": "Adventure",
+    "rating": 7.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 554,
+    "title": "Casablanca",
+    "year": 1960,
+    "genre": "Action",
+    "rating": 7.0,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 555,
+    "title": "The Grand Budapest Hotel",
+    "year": 1969,
+    "genre": "Thriller",
+    "rating": 7.0,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 556,
+    "title": "Pulp Fiction",
+    "year": 1991,
+    "genre": "Horror",
+    "rating": 9.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 557,
+    "title": "Shutter Island",
+    "year": 1953,
+    "genre": "Thriller",
+    "rating": 9.1,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 558,
+    "title": "The Pianist",
+    "year": 1973,
+    "genre": "Sci-Fi",
+    "rating": 7.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 559,
+    "title": "The Terminator",
+    "year": 1959,
+    "genre": "Drama",
+    "rating": 8.0,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 560,
+    "title": "Django Unchained",
+    "year": 1953,
+    "genre": "Drama",
+    "rating": 7.3,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 561,
+    "title": "Django Unchained",
+    "year": 2020,
+    "genre": "Drama",
+    "rating": 9.7,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 562,
+    "title": "Inception",
+    "year": 2008,
+    "genre": "Thriller",
+    "rating": 6.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 563,
+    "title": "The Truman Show",
+    "year": 1983,
+    "genre": "Action",
+    "rating": 8.6,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 564,
+    "title": "The Departed",
+    "year": 2024,
+    "genre": "Horror",
+    "rating": 9.6,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 565,
+    "title": "The Matrix",
+    "year": 1966,
+    "genre": "Horror",
+    "rating": 9.0,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 566,
+    "title": "Iron Man",
+    "year": 1953,
+    "genre": "Crime",
+    "rating": 8.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 567,
+    "title": "Forrest Gump",
+    "year": 1985,
+    "genre": "Horror",
+    "rating": 9.2,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 568,
+    "title": "The Big Lebowski",
+    "year": 1983,
+    "genre": "Romance",
+    "rating": 8.0,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 569,
+    "title": "Pulp Fiction",
+    "year": 1987,
+    "genre": "Horror",
+    "rating": 9.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 570,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1976,
+    "genre": "Crime",
+    "rating": 8.7,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 571,
+    "title": "Parasite",
+    "year": 1985,
+    "genre": "Comedy",
+    "rating": 8.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 572,
+    "title": "Slumdog Millionaire",
+    "year": 2023,
+    "genre": "Romance",
+    "rating": 8.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 573,
+    "title": "The Green Mile",
+    "year": 2011,
+    "genre": "Comedy",
+    "rating": 7.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 574,
+    "title": "The Grand Budapest Hotel",
+    "year": 1965,
+    "genre": "Adventure",
+    "rating": 9.2,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 575,
+    "title": "Forrest Gump",
+    "year": 2009,
+    "genre": "Comedy",
+    "rating": 9.0,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 576,
+    "title": "The Lord of the Rings",
+    "year": 1983,
+    "genre": "Action",
+    "rating": 8.2,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 577,
+    "title": "The Truman Show",
+    "year": 2013,
+    "genre": "Horror",
+    "rating": 8.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 578,
+    "title": "Casablanca",
+    "year": 1999,
+    "genre": "Comedy",
+    "rating": 7.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 579,
+    "title": "Casablanca",
+    "year": 1967,
+    "genre": "Thriller",
+    "rating": 7.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 580,
+    "title": "Good Will Hunting",
+    "year": 1993,
+    "genre": "Sci-Fi",
+    "rating": 8.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 581,
+    "title": "Avatar",
+    "year": 2020,
+    "genre": "Action",
+    "rating": 7.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 582,
+    "title": "Rocky",
+    "year": 1964,
+    "genre": "Horror",
+    "rating": 6.9,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 583,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1983,
+    "genre": "Horror",
+    "rating": 8.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 584,
+    "title": "Forrest Gump",
+    "year": 2015,
+    "genre": "Comedy",
+    "rating": 7.2,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 585,
+    "title": "The Shawshank Redemption",
+    "year": 1996,
+    "genre": "Crime",
+    "rating": 7.2,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 586,
+    "title": "The Big Lebowski",
+    "year": 1975,
+    "genre": "Horror",
+    "rating": 7.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 587,
+    "title": "The Terminator",
+    "year": 1976,
+    "genre": "Horror",
+    "rating": 7.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 588,
+    "title": "Spirited Away",
+    "year": 1951,
+    "genre": "Adventure",
+    "rating": 7.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 589,
+    "title": "Inception",
+    "year": 1968,
+    "genre": "Comedy",
+    "rating": 9.0,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 590,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1978,
+    "genre": "Comedy",
+    "rating": 7.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 591,
+    "title": "The Pianist",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 7.6,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 592,
+    "title": "Whiplash",
+    "year": 2007,
+    "genre": "Thriller",
+    "rating": 6.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 593,
+    "title": "Her",
+    "year": 1961,
+    "genre": "Drama",
+    "rating": 7.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 594,
+    "title": "Interstellar",
+    "year": 1973,
+    "genre": "Comedy",
+    "rating": 8.4,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 595,
+    "title": "The Prestige",
+    "year": 2018,
+    "genre": "Thriller",
+    "rating": 7.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 596,
+    "title": "The Lion King",
+    "year": 1950,
+    "genre": "Drama",
+    "rating": 7.5,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 597,
+    "title": "Joker",
+    "year": 1980,
+    "genre": "Crime",
+    "rating": 6.6,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 598,
+    "title": "Slumdog Millionaire",
+    "year": 2001,
+    "genre": "Thriller",
+    "rating": 6.5,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 599,
+    "title": "The Batman",
+    "year": 2013,
+    "genre": "Sci-Fi",
+    "rating": 7.9,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 600,
+    "title": "The Lion King",
+    "year": 1966,
+    "genre": "Romance",
+    "rating": 8.4,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 601,
+    "title": "The Dark Knight",
+    "year": 1991,
+    "genre": "Crime",
+    "rating": 9.4,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 602,
+    "title": "Her",
+    "year": 1950,
+    "genre": "Thriller",
+    "rating": 8.9,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 603,
+    "title": "The Big Lebowski",
+    "year": 2009,
+    "genre": "Animation",
+    "rating": 7.1,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 604,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "genre": "Action",
+    "rating": 6.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 605,
+    "title": "The Departed",
+    "year": 1974,
+    "genre": "Romance",
+    "rating": 9.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 606,
+    "title": "Slumdog Millionaire",
+    "year": 1953,
+    "genre": "Crime",
+    "rating": 8.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 607,
+    "title": "The Lord of the Rings",
+    "year": 1968,
+    "genre": "Romance",
+    "rating": 6.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 608,
+    "title": "The Terminator",
+    "year": 1964,
+    "genre": "Thriller",
+    "rating": 8.2,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 609,
+    "title": "The Avengers",
+    "year": 1978,
+    "genre": "Comedy",
+    "rating": 9.2,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 610,
+    "title": "Pulp Fiction",
+    "year": 1976,
+    "genre": "Horror",
+    "rating": 9.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 611,
+    "title": "Toy Story",
+    "year": 2006,
+    "genre": "Animation",
+    "rating": 9.7,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 612,
+    "title": "The Wolf of Wall Street",
+    "year": 1983,
+    "genre": "Romance",
+    "rating": 8.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 613,
+    "title": "Black Panther",
+    "year": 1981,
+    "genre": "Thriller",
+    "rating": 9.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 614,
+    "title": "Forrest Gump",
+    "year": 1954,
+    "genre": "Action",
+    "rating": 8.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 615,
+    "title": "The Lord of the Rings",
+    "year": 1978,
+    "genre": "Horror",
+    "rating": 7.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 616,
+    "title": "2001: A Space Odyssey",
+    "year": 1969,
+    "genre": "Crime",
+    "rating": 7.1,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 617,
+    "title": "Casablanca",
+    "year": 1964,
+    "genre": "Horror",
+    "rating": 8.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 618,
+    "title": "Her",
+    "year": 1962,
+    "genre": "Action",
+    "rating": 8.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 619,
+    "title": "The Green Mile",
+    "year": 1961,
+    "genre": "Thriller",
+    "rating": 9.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 620,
+    "title": "Forrest Gump",
+    "year": 2018,
+    "genre": "Sci-Fi",
+    "rating": 6.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 621,
+    "title": "Slumdog Millionaire",
+    "year": 1975,
+    "genre": "Action",
+    "rating": 8.1,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 622,
+    "title": "2001: A Space Odyssey",
+    "year": 2018,
+    "genre": "Drama",
+    "rating": 7.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 623,
+    "title": "Whiplash",
+    "year": 1999,
+    "genre": "Drama",
+    "rating": 7.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 624,
+    "title": "Mad Max: Fury Road",
+    "year": 1975,
+    "genre": "Romance",
+    "rating": 7.0,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 625,
+    "title": "Back to the Future",
+    "year": 1973,
+    "genre": "Adventure",
+    "rating": 7.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 626,
+    "title": "Se7en",
+    "year": 1986,
+    "genre": "Adventure",
+    "rating": 8.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 627,
+    "title": "Rocky",
+    "year": 1973,
+    "genre": "Thriller",
+    "rating": 8.6,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 628,
+    "title": "The Grand Budapest Hotel",
+    "year": 2011,
+    "genre": "Animation",
+    "rating": 6.5,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 629,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1975,
+    "genre": "Adventure",
+    "rating": 7.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 630,
+    "title": "The Batman",
+    "year": 2020,
+    "genre": "Sci-Fi",
+    "rating": 8.1,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 631,
+    "title": "Spirited Away",
+    "year": 2021,
+    "genre": "Thriller",
+    "rating": 9.2,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 632,
+    "title": "The Batman",
+    "year": 1967,
+    "genre": "Sci-Fi",
+    "rating": 8.5,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 633,
+    "title": "Mad Max: Fury Road",
+    "year": 1996,
+    "genre": "Sci-Fi",
+    "rating": 8.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 634,
+    "title": "The Lion King",
+    "year": 2013,
+    "genre": "Thriller",
+    "rating": 9.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 635,
+    "title": "The Big Lebowski",
+    "year": 1950,
+    "genre": "Crime",
+    "rating": 8.7,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 636,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1957,
+    "genre": "Comedy",
+    "rating": 9.0,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 637,
+    "title": "The Batman",
+    "year": 1989,
+    "genre": "Adventure",
+    "rating": 6.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 638,
+    "title": "The Matrix",
+    "year": 1961,
+    "genre": "Action",
+    "rating": 7.6,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 639,
+    "title": "Saving Private Ryan",
+    "year": 1969,
+    "genre": "Thriller",
+    "rating": 9.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 640,
+    "title": "Joker",
+    "year": 2022,
+    "genre": "Drama",
+    "rating": 7.8,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 641,
+    "title": "Pulp Fiction",
+    "year": 1962,
+    "genre": "Animation",
+    "rating": 6.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 642,
+    "title": "Spirited Away",
+    "year": 1964,
+    "genre": "Animation",
+    "rating": 7.8,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 643,
+    "title": "Casablanca",
+    "year": 2002,
+    "genre": "Comedy",
+    "rating": 6.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 644,
+    "title": "A Beautiful Mind",
+    "year": 1979,
+    "genre": "Sci-Fi",
+    "rating": 7.9,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 645,
+    "title": "Toy Story",
+    "year": 1956,
+    "genre": "Comedy",
+    "rating": 6.6,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 646,
+    "title": "Her",
+    "year": 2007,
+    "genre": "Sci-Fi",
+    "rating": 7.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 647,
+    "title": "Spirited Away",
+    "year": 2004,
+    "genre": "Romance",
+    "rating": 9.0,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 648,
+    "title": "Slumdog Millionaire",
+    "year": 1951,
+    "genre": "Animation",
+    "rating": 6.8,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 649,
+    "title": "The Big Lebowski",
+    "year": 2024,
+    "genre": "Crime",
+    "rating": 8.4,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 650,
+    "title": "The Silence of the Lambs",
+    "year": 1978,
+    "genre": "Thriller",
+    "rating": 9.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 651,
+    "title": "Star Wars",
+    "year": 1956,
+    "genre": "Romance",
+    "rating": 9.0,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 652,
+    "title": "The Batman",
+    "year": 1986,
+    "genre": "Comedy",
+    "rating": 6.9,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 653,
+    "title": "The Wolf of Wall Street",
+    "year": 2007,
+    "genre": "Sci-Fi",
+    "rating": 9.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 654,
+    "title": "Braveheart",
+    "year": 1969,
+    "genre": "Action",
+    "rating": 7.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 655,
+    "title": "The Prestige",
+    "year": 2020,
+    "genre": "Crime",
+    "rating": 7.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 656,
+    "title": "The Godfather",
+    "year": 1969,
+    "genre": "Adventure",
+    "rating": 8.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 657,
+    "title": "Whiplash",
+    "year": 1953,
+    "genre": "Adventure",
+    "rating": 8.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 658,
+    "title": "Black Panther",
+    "year": 1976,
+    "genre": "Horror",
+    "rating": 8.0,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 659,
+    "title": "The Lion King",
+    "year": 1996,
+    "genre": "Romance",
+    "rating": 9.4,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 660,
+    "title": "The Grand Budapest Hotel",
+    "year": 2022,
+    "genre": "Action",
+    "rating": 6.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 661,
+    "title": "The Truman Show",
+    "year": 2004,
+    "genre": "Animation",
+    "rating": 8.8,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 662,
+    "title": "Her",
+    "year": 2018,
+    "genre": "Crime",
+    "rating": 9.0,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 663,
+    "title": "No Country for Old Men",
+    "year": 2013,
+    "genre": "Sci-Fi",
+    "rating": 7.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 664,
+    "title": "Parasite",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 9.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 665,
+    "title": "The Shawshank Redemption",
+    "year": 1983,
+    "genre": "Animation",
+    "rating": 7.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 666,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1983,
+    "genre": "Romance",
+    "rating": 8.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 667,
+    "title": "The Avengers",
+    "year": 1974,
+    "genre": "Drama",
+    "rating": 7.9,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 668,
+    "title": "Saving Private Ryan",
+    "year": 1951,
+    "genre": "Crime",
+    "rating": 8.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 669,
+    "title": "The Truman Show",
+    "year": 1950,
+    "genre": "Drama",
+    "rating": 8.9,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 670,
+    "title": "Slumdog Millionaire",
+    "year": 2012,
+    "genre": "Animation",
+    "rating": 6.8,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 671,
+    "title": "A Beautiful Mind",
+    "year": 1954,
+    "genre": "Sci-Fi",
+    "rating": 8.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 672,
+    "title": "Interstellar",
+    "year": 1951,
+    "genre": "Sci-Fi",
+    "rating": 9.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 673,
+    "title": "Se7en",
+    "year": 2017,
+    "genre": "Crime",
+    "rating": 6.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 674,
+    "title": "Moonlight",
+    "year": 1955,
+    "genre": "Drama",
+    "rating": 9.4,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 675,
+    "title": "Forrest Gump",
+    "year": 2005,
+    "genre": "Sci-Fi",
+    "rating": 7.3,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 676,
+    "title": "Toy Story",
+    "year": 1994,
+    "genre": "Adventure",
+    "rating": 8.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 677,
+    "title": "Shutter Island",
+    "year": 2018,
+    "genre": "Crime",
+    "rating": 8.4,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 678,
+    "title": "Joker",
+    "year": 1988,
+    "genre": "Crime",
+    "rating": 7.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 679,
+    "title": "The Social Network",
+    "year": 1981,
+    "genre": "Crime",
+    "rating": 7.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 680,
+    "title": "The Lord of the Rings",
+    "year": 1999,
+    "genre": "Thriller",
+    "rating": 9.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 681,
+    "title": "Jurassic Park",
+    "year": 1967,
+    "genre": "Romance",
+    "rating": 7.6,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 682,
+    "title": "Gladiator",
+    "year": 2003,
+    "genre": "Comedy",
+    "rating": 9.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 683,
+    "title": "The Lord of the Rings",
+    "year": 1983,
+    "genre": "Sci-Fi",
+    "rating": 7.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 684,
+    "title": "Forrest Gump",
+    "year": 2005,
+    "genre": "Action",
+    "rating": 9.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 685,
+    "title": "The Terminator",
+    "year": 1994,
+    "genre": "Thriller",
+    "rating": 6.6,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 686,
+    "title": "Moonlight",
+    "year": 1954,
+    "genre": "Comedy",
+    "rating": 6.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 687,
+    "title": "Iron Man",
+    "year": 1989,
+    "genre": "Sci-Fi",
+    "rating": 9.8,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 688,
+    "title": "A Beautiful Mind",
+    "year": 1959,
+    "genre": "Thriller",
+    "rating": 7.4,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 689,
+    "title": "Toy Story",
+    "year": 1993,
+    "genre": "Horror",
+    "rating": 8.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 690,
+    "title": "Pulp Fiction",
+    "year": 1969,
+    "genre": "Romance",
+    "rating": 7.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 691,
+    "title": "No Country for Old Men",
+    "year": 1950,
+    "genre": "Romance",
+    "rating": 7.0,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 692,
+    "title": "Saving Private Ryan",
+    "year": 1962,
+    "genre": "Romance",
+    "rating": 9.4,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 693,
+    "title": "Mad Max: Fury Road",
+    "year": 1975,
+    "genre": "Horror",
+    "rating": 9.4,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 694,
+    "title": "The Batman",
+    "year": 1952,
+    "genre": "Horror",
+    "rating": 7.0,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 695,
+    "title": "The Shawshank Redemption",
+    "year": 1974,
+    "genre": "Crime",
+    "rating": 6.8,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 696,
+    "title": "Spirited Away",
+    "year": 2004,
+    "genre": "Horror",
+    "rating": 7.1,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 697,
+    "title": "The Big Lebowski",
+    "year": 2005,
+    "genre": "Horror",
+    "rating": 8.8,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 698,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 2022,
+    "genre": "Adventure",
+    "rating": 9.7,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 699,
+    "title": "A Beautiful Mind",
+    "year": 2004,
+    "genre": "Thriller",
+    "rating": 9.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 700,
+    "title": "Casablanca",
+    "year": 1952,
+    "genre": "Thriller",
+    "rating": 8.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 701,
+    "title": "The Godfather",
+    "year": 1958,
+    "genre": "Drama",
+    "rating": 7.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 702,
+    "title": "Back to the Future",
+    "year": 1984,
+    "genre": "Action",
+    "rating": 8.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 703,
+    "title": "Shutter Island",
+    "year": 1972,
+    "genre": "Thriller",
+    "rating": 8.3,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 704,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1958,
+    "genre": "Horror",
+    "rating": 7.8,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 705,
+    "title": "Saving Private Ryan",
+    "year": 2015,
+    "genre": "Romance",
+    "rating": 9.3,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 706,
+    "title": "The Grand Budapest Hotel",
+    "year": 2018,
+    "genre": "Sci-Fi",
+    "rating": 9.7,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 707,
+    "title": "The Avengers",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 9.4,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 708,
+    "title": "Slumdog Millionaire",
+    "year": 1956,
+    "genre": "Crime",
+    "rating": 6.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 709,
+    "title": "A Beautiful Mind",
+    "year": 1993,
+    "genre": "Romance",
+    "rating": 7.1,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 710,
+    "title": "Star Wars",
+    "year": 2010,
+    "genre": "Drama",
+    "rating": 9.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 711,
+    "title": "Moonlight",
+    "year": 1962,
+    "genre": "Thriller",
+    "rating": 8.4,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 712,
+    "title": "The Avengers",
+    "year": 1976,
+    "genre": "Romance",
+    "rating": 8.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 713,
+    "title": "Toy Story",
+    "year": 1991,
+    "genre": "Animation",
+    "rating": 9.2,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 714,
+    "title": "No Country for Old Men",
+    "year": 1987,
+    "genre": "Animation",
+    "rating": 9.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 715,
+    "title": "Inception",
+    "year": 1995,
+    "genre": "Comedy",
+    "rating": 9.4,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 716,
+    "title": "Her",
+    "year": 1996,
+    "genre": "Crime",
+    "rating": 9.2,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 717,
+    "title": "Django Unchained",
+    "year": 1978,
+    "genre": "Sci-Fi",
+    "rating": 9.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 718,
+    "title": "No Country for Old Men",
+    "year": 2022,
+    "genre": "Adventure",
+    "rating": 7.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 719,
+    "title": "The Prestige",
+    "year": 2007,
+    "genre": "Romance",
+    "rating": 9.8,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 720,
+    "title": "Her",
+    "year": 1972,
+    "genre": "Drama",
+    "rating": 8.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 721,
+    "title": "2001: A Space Odyssey",
+    "year": 1989,
+    "genre": "Romance",
+    "rating": 9.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 722,
+    "title": "Whiplash",
+    "year": 2024,
+    "genre": "Comedy",
+    "rating": 9.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 723,
+    "title": "Slumdog Millionaire",
+    "year": 2004,
+    "genre": "Action",
+    "rating": 7.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 724,
+    "title": "The Grand Budapest Hotel",
+    "year": 2024,
+    "genre": "Horror",
+    "rating": 7.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 725,
+    "title": "Parasite",
+    "year": 1961,
+    "genre": "Romance",
+    "rating": 7.3,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 726,
+    "title": "The Truman Show",
+    "year": 1977,
+    "genre": "Horror",
+    "rating": 8.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 727,
+    "title": "The Terminator",
+    "year": 2005,
+    "genre": "Romance",
+    "rating": 8.4,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 728,
+    "title": "Back to the Future",
+    "year": 2003,
+    "genre": "Horror",
+    "rating": 9.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 729,
+    "title": "The Lion King",
+    "year": 2005,
+    "genre": "Thriller",
+    "rating": 7.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 730,
+    "title": "Forrest Gump",
+    "year": 1961,
+    "genre": "Adventure",
+    "rating": 9.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 731,
+    "title": "The Social Network",
+    "year": 1962,
+    "genre": "Drama",
+    "rating": 8.6,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 732,
+    "title": "The Godfather",
+    "year": 2000,
+    "genre": "Comedy",
+    "rating": 9.8,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 733,
+    "title": "Inception",
+    "year": 2021,
+    "genre": "Action",
+    "rating": 7.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 734,
+    "title": "The Matrix",
+    "year": 1952,
+    "genre": "Thriller",
+    "rating": 8.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 735,
+    "title": "Saving Private Ryan",
+    "year": 1986,
+    "genre": "Thriller",
+    "rating": 9.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 736,
+    "title": "Moonlight",
+    "year": 1975,
+    "genre": "Romance",
+    "rating": 7.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 737,
+    "title": "The Pianist",
+    "year": 1967,
+    "genre": "Drama",
+    "rating": 9.2,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 738,
+    "title": "Avatar",
+    "year": 1979,
+    "genre": "Drama",
+    "rating": 9.2,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 739,
+    "title": "A Beautiful Mind",
+    "year": 1980,
+    "genre": "Drama",
+    "rating": 9.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 740,
+    "title": "The Lion King",
+    "year": 1952,
+    "genre": "Crime",
+    "rating": 9.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 741,
+    "title": "Toy Story",
+    "year": 1961,
+    "genre": "Drama",
+    "rating": 7.6,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 742,
+    "title": "Mad Max: Fury Road",
+    "year": 1956,
+    "genre": "Romance",
+    "rating": 9.2,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 743,
+    "title": "The Pianist",
+    "year": 1995,
+    "genre": "Sci-Fi",
+    "rating": 6.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 744,
+    "title": "The Pianist",
+    "year": 1991,
+    "genre": "Romance",
+    "rating": 9.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 745,
+    "title": "Saving Private Ryan",
+    "year": 1963,
+    "genre": "Thriller",
+    "rating": 7.9,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 746,
+    "title": "Gladiator",
+    "year": 1991,
+    "genre": "Thriller",
+    "rating": 8.5,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 747,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1956,
+    "genre": "Crime",
+    "rating": 7.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 748,
+    "title": "The Pianist",
+    "year": 1984,
+    "genre": "Comedy",
+    "rating": 8.2,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 749,
+    "title": "Avatar",
+    "year": 2007,
+    "genre": "Sci-Fi",
+    "rating": 8.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 750,
+    "title": "Iron Man",
+    "year": 2008,
+    "genre": "Comedy",
+    "rating": 7.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 751,
+    "title": "Interstellar",
+    "year": 2019,
+    "genre": "Adventure",
+    "rating": 8.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 752,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2009,
+    "genre": "Comedy",
+    "rating": 8.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 753,
+    "title": "Good Will Hunting",
+    "year": 1977,
+    "genre": "Adventure",
+    "rating": 7.3,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 754,
+    "title": "The Wolf of Wall Street",
+    "year": 1992,
+    "genre": "Animation",
+    "rating": 9.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 755,
+    "title": "Interstellar",
+    "year": 2004,
+    "genre": "Adventure",
+    "rating": 7.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 756,
+    "title": "Se7en",
+    "year": 1967,
+    "genre": "Romance",
+    "rating": 8.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 757,
+    "title": "The Dark Knight",
+    "year": 2003,
+    "genre": "Adventure",
+    "rating": 9.6,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 758,
+    "title": "La La Land",
+    "year": 1989,
+    "genre": "Drama",
+    "rating": 9.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 759,
+    "title": "Black Panther",
+    "year": 2019,
+    "genre": "Animation",
+    "rating": 9.4,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 760,
+    "title": "The Wolf of Wall Street",
+    "year": 2000,
+    "genre": "Drama",
+    "rating": 7.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 761,
+    "title": "Joker",
+    "year": 1987,
+    "genre": "Animation",
+    "rating": 8.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 762,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1957,
+    "genre": "Animation",
+    "rating": 8.8,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 763,
+    "title": "Good Will Hunting",
+    "year": 1973,
+    "genre": "Horror",
+    "rating": 7.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 764,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1951,
+    "genre": "Crime",
+    "rating": 7.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 765,
+    "title": "The Godfather",
+    "year": 1963,
+    "genre": "Drama",
+    "rating": 8.1,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 766,
+    "title": "Se7en",
+    "year": 2023,
+    "genre": "Drama",
+    "rating": 7.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 767,
+    "title": "Spirited Away",
+    "year": 1978,
+    "genre": "Action",
+    "rating": 8.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 768,
+    "title": "Black Panther",
+    "year": 1999,
+    "genre": "Crime",
+    "rating": 9.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 769,
+    "title": "Spirited Away",
+    "year": 1981,
+    "genre": "Thriller",
+    "rating": 9.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 770,
+    "title": "La La Land",
+    "year": 1992,
+    "genre": "Action",
+    "rating": 6.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 771,
+    "title": "The Dark Knight",
+    "year": 1982,
+    "genre": "Crime",
+    "rating": 9.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 772,
+    "title": "Whiplash",
+    "year": 1956,
+    "genre": "Crime",
+    "rating": 8.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 773,
+    "title": "The Batman",
+    "year": 2009,
+    "genre": "Sci-Fi",
+    "rating": 7.4,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 774,
+    "title": "Back to the Future",
+    "year": 1996,
+    "genre": "Action",
+    "rating": 8.5,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 775,
+    "title": "The Truman Show",
+    "year": 1974,
+    "genre": "Thriller",
+    "rating": 8.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 776,
+    "title": "La La Land",
+    "year": 1995,
+    "genre": "Drama",
+    "rating": 9.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 777,
+    "title": "Titanic",
+    "year": 1955,
+    "genre": "Sci-Fi",
+    "rating": 6.8,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 778,
+    "title": "Fight Club",
+    "year": 1970,
+    "genre": "Comedy",
+    "rating": 7.5,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 779,
+    "title": "The Lord of the Rings",
+    "year": 1992,
+    "genre": "Crime",
+    "rating": 6.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 780,
+    "title": "Casablanca",
+    "year": 2001,
+    "genre": "Animation",
+    "rating": 9.0,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 781,
+    "title": "Toy Story",
+    "year": 1992,
+    "genre": "Action",
+    "rating": 7.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 782,
+    "title": "Se7en",
+    "year": 1964,
+    "genre": "Crime",
+    "rating": 9.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 783,
+    "title": "The Dark Knight",
+    "year": 2013,
+    "genre": "Animation",
+    "rating": 9.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 784,
+    "title": "The Silence of the Lambs",
+    "year": 1989,
+    "genre": "Adventure",
+    "rating": 6.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 785,
+    "title": "The Prestige",
+    "year": 2005,
+    "genre": "Romance",
+    "rating": 9.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 786,
+    "title": "2001: A Space Odyssey",
+    "year": 1958,
+    "genre": "Thriller",
+    "rating": 7.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 787,
+    "title": "Forrest Gump",
+    "year": 1985,
+    "genre": "Crime",
+    "rating": 9.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 788,
+    "title": "La La Land",
+    "year": 1981,
+    "genre": "Adventure",
+    "rating": 8.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 789,
+    "title": "La La Land",
+    "year": 1962,
+    "genre": "Thriller",
+    "rating": 6.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 790,
+    "title": "The Shawshank Redemption",
+    "year": 2001,
+    "genre": "Thriller",
+    "rating": 8.0,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 791,
+    "title": "Spirited Away",
+    "year": 1963,
+    "genre": "Horror",
+    "rating": 8.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 792,
+    "title": "Interstellar",
+    "year": 2015,
+    "genre": "Adventure",
+    "rating": 6.9,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 793,
+    "title": "The Truman Show",
+    "year": 2005,
+    "genre": "Horror",
+    "rating": 8.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 794,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1955,
+    "genre": "Action",
+    "rating": 7.8,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 795,
+    "title": "The Prestige",
+    "year": 1951,
+    "genre": "Comedy",
+    "rating": 9.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 796,
+    "title": "The Lion King",
+    "year": 1993,
+    "genre": "Drama",
+    "rating": 8.5,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 797,
+    "title": "The Prestige",
+    "year": 2012,
+    "genre": "Comedy",
+    "rating": 8.3,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 798,
+    "title": "The Lion King",
+    "year": 1997,
+    "genre": "Adventure",
+    "rating": 6.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 799,
+    "title": "Joker",
+    "year": 1971,
+    "genre": "Animation",
+    "rating": 6.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 800,
+    "title": "Gladiator",
+    "year": 1973,
+    "genre": "Romance",
+    "rating": 6.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 801,
+    "title": "Slumdog Millionaire",
+    "year": 1998,
+    "genre": "Romance",
+    "rating": 9.5,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 802,
+    "title": "The Green Mile",
+    "year": 2012,
+    "genre": "Crime",
+    "rating": 8.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 803,
+    "title": "Good Will Hunting",
+    "year": 1987,
+    "genre": "Horror",
+    "rating": 7.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 804,
+    "title": "The Social Network",
+    "year": 2020,
+    "genre": "Adventure",
+    "rating": 9.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 805,
+    "title": "The Dark Knight",
+    "year": 1959,
+    "genre": "Horror",
+    "rating": 7.5,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 806,
+    "title": "Back to the Future",
+    "year": 1989,
+    "genre": "Thriller",
+    "rating": 8.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 807,
+    "title": "The Big Lebowski",
+    "year": 1953,
+    "genre": "Crime",
+    "rating": 9.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 808,
+    "title": "The Dark Knight",
+    "year": 2000,
+    "genre": "Crime",
+    "rating": 8.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 809,
+    "title": "Rocky",
+    "year": 1982,
+    "genre": "Romance",
+    "rating": 9.6,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 810,
+    "title": "Jurassic Park",
+    "year": 1966,
+    "genre": "Crime",
+    "rating": 8.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 811,
+    "title": "Forrest Gump",
+    "year": 2001,
+    "genre": "Adventure",
+    "rating": 9.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 812,
+    "title": "The Avengers",
+    "year": 1995,
+    "genre": "Animation",
+    "rating": 7.5,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 813,
+    "title": "Avatar",
+    "year": 1974,
+    "genre": "Adventure",
+    "rating": 8.8,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 814,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1983,
+    "genre": "Sci-Fi",
+    "rating": 6.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 815,
+    "title": "The Departed",
+    "year": 1965,
+    "genre": "Drama",
+    "rating": 7.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 816,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 2012,
+    "genre": "Thriller",
+    "rating": 9.1,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 817,
+    "title": "Pulp Fiction",
+    "year": 1967,
+    "genre": "Comedy",
+    "rating": 6.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 818,
+    "title": "The Avengers",
+    "year": 1974,
+    "genre": "Crime",
+    "rating": 7.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 819,
+    "title": "The Shawshank Redemption",
+    "year": 2022,
+    "genre": "Romance",
+    "rating": 6.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 820,
+    "title": "Back to the Future",
+    "year": 2007,
+    "genre": "Animation",
+    "rating": 8.4,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 821,
+    "title": "No Country for Old Men",
+    "year": 1967,
+    "genre": "Crime",
+    "rating": 7.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 822,
+    "title": "Titanic",
+    "year": 2003,
+    "genre": "Horror",
+    "rating": 9.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 823,
+    "title": "The Avengers",
+    "year": 2023,
+    "genre": "Animation",
+    "rating": 9.2,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 824,
+    "title": "Saving Private Ryan",
+    "year": 1969,
+    "genre": "Drama",
+    "rating": 6.7,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 825,
+    "title": "La La Land",
+    "year": 1991,
+    "genre": "Romance",
+    "rating": 9.0,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 826,
+    "title": "Joker",
+    "year": 1975,
+    "genre": "Adventure",
+    "rating": 8.1,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 827,
+    "title": "The Green Mile",
+    "year": 1968,
+    "genre": "Animation",
+    "rating": 7.6,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 828,
+    "title": "2001: A Space Odyssey",
+    "year": 1957,
+    "genre": "Animation",
+    "rating": 6.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 829,
+    "title": "The Terminator",
+    "year": 1980,
+    "genre": "Drama",
+    "rating": 7.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 830,
+    "title": "The Departed",
+    "year": 2008,
+    "genre": "Crime",
+    "rating": 8.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 831,
+    "title": "The Truman Show",
+    "year": 2009,
+    "genre": "Action",
+    "rating": 9.0,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 832,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "genre": "Thriller",
+    "rating": 9.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 833,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 2017,
+    "genre": "Romance",
+    "rating": 7.2,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 834,
+    "title": "Titanic",
+    "year": 1969,
+    "genre": "Animation",
+    "rating": 8.9,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 835,
+    "title": "Interstellar",
+    "year": 1953,
+    "genre": "Drama",
+    "rating": 7.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 836,
+    "title": "Gladiator",
+    "year": 1986,
+    "genre": "Comedy",
+    "rating": 7.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 837,
+    "title": "The Terminator",
+    "year": 1975,
+    "genre": "Crime",
+    "rating": 9.4,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 838,
+    "title": "The Big Lebowski",
+    "year": 2001,
+    "genre": "Sci-Fi",
+    "rating": 6.9,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 839,
+    "title": "Toy Story",
+    "year": 1964,
+    "genre": "Drama",
+    "rating": 7.1,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 840,
+    "title": "Pulp Fiction",
+    "year": 1986,
+    "genre": "Action",
+    "rating": 6.8,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 841,
+    "title": "Casablanca",
+    "year": 1952,
+    "genre": "Sci-Fi",
+    "rating": 7.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 842,
+    "title": "Shutter Island",
+    "year": 2018,
+    "genre": "Sci-Fi",
+    "rating": 7.3,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 843,
+    "title": "Titanic",
+    "year": 1983,
+    "genre": "Sci-Fi",
+    "rating": 9.3,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 844,
+    "title": "Rocky",
+    "year": 2003,
+    "genre": "Comedy",
+    "rating": 7.1,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 845,
+    "title": "The Avengers",
+    "year": 2012,
+    "genre": "Adventure",
+    "rating": 7.9,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 846,
+    "title": "Whiplash",
+    "year": 1953,
+    "genre": "Animation",
+    "rating": 6.8,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 847,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1950,
+    "genre": "Crime",
+    "rating": 7.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 848,
+    "title": "Black Panther",
+    "year": 1993,
+    "genre": "Crime",
+    "rating": 7.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 849,
+    "title": "Se7en",
+    "year": 1990,
+    "genre": "Thriller",
+    "rating": 7.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 850,
+    "title": "The Terminator",
+    "year": 1978,
+    "genre": "Thriller",
+    "rating": 6.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 851,
+    "title": "Rocky",
+    "year": 1952,
+    "genre": "Action",
+    "rating": 8.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 852,
+    "title": "Good Will Hunting",
+    "year": 1988,
+    "genre": "Animation",
+    "rating": 7.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 853,
+    "title": "The Truman Show",
+    "year": 1982,
+    "genre": "Crime",
+    "rating": 8.7,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 854,
+    "title": "Good Will Hunting",
+    "year": 1990,
+    "genre": "Drama",
+    "rating": 8.4,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 855,
+    "title": "Casablanca",
+    "year": 2007,
+    "genre": "Action",
+    "rating": 8.3,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 856,
+    "title": "Braveheart",
+    "year": 1990,
+    "genre": "Action",
+    "rating": 7.7,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 857,
+    "title": "Shutter Island",
+    "year": 1985,
+    "genre": "Drama",
+    "rating": 7.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 858,
+    "title": "Moonlight",
+    "year": 1980,
+    "genre": "Drama",
+    "rating": 8.3,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 859,
+    "title": "Her",
+    "year": 1961,
+    "genre": "Romance",
+    "rating": 9.1,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 860,
+    "title": "Parasite",
+    "year": 1990,
+    "genre": "Animation",
+    "rating": 8.3,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 861,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1958,
+    "genre": "Drama",
+    "rating": 8.2,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 862,
+    "title": "Pulp Fiction",
+    "year": 2014,
+    "genre": "Horror",
+    "rating": 8.8,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 863,
+    "title": "The Departed",
+    "year": 1963,
+    "genre": "Sci-Fi",
+    "rating": 7.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 864,
+    "title": "The Social Network",
+    "year": 1965,
+    "genre": "Crime",
+    "rating": 7.1,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 865,
+    "title": "Star Wars",
+    "year": 1953,
+    "genre": "Sci-Fi",
+    "rating": 8.3,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 866,
+    "title": "The Dark Knight",
+    "year": 1951,
+    "genre": "Action",
+    "rating": 7.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 867,
+    "title": "The Social Network",
+    "year": 2000,
+    "genre": "Thriller",
+    "rating": 8.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 868,
+    "title": "Parasite",
+    "year": 2003,
+    "genre": "Action",
+    "rating": 7.5,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 869,
+    "title": "La La Land",
+    "year": 1956,
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 870,
+    "title": "A Beautiful Mind",
+    "year": 2006,
+    "genre": "Crime",
+    "rating": 9.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 871,
+    "title": "The Pianist",
+    "year": 2000,
+    "genre": "Crime",
+    "rating": 7.5,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 872,
+    "title": "The Shawshank Redemption",
+    "year": 1996,
+    "genre": "Romance",
+    "rating": 9.7,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 873,
+    "title": "Shutter Island",
+    "year": 1955,
+    "genre": "Comedy",
+    "rating": 8.2,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 874,
+    "title": "Casablanca",
+    "year": 2016,
+    "genre": "Horror",
+    "rating": 7.0,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 875,
+    "title": "Joker",
+    "year": 2009,
+    "genre": "Thriller",
+    "rating": 8.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 876,
+    "title": "Her",
+    "year": 2013,
+    "genre": "Sci-Fi",
+    "rating": 7.3,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 877,
+    "title": "The Wolf of Wall Street",
+    "year": 1972,
+    "genre": "Comedy",
+    "rating": 6.6,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 878,
+    "title": "The Truman Show",
+    "year": 1999,
+    "genre": "Romance",
+    "rating": 9.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 879,
+    "title": "Avatar",
+    "year": 1985,
+    "genre": "Action",
+    "rating": 7.4,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 880,
+    "title": "Se7en",
+    "year": 2005,
+    "genre": "Thriller",
+    "rating": 7.1,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 881,
+    "title": "The Wolf of Wall Street",
+    "year": 2022,
+    "genre": "Crime",
+    "rating": 7.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 882,
+    "title": "2001: A Space Odyssey",
+    "year": 1962,
+    "genre": "Sci-Fi",
+    "rating": 9.4,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 883,
+    "title": "Rocky",
+    "year": 1972,
+    "genre": "Horror",
+    "rating": 7.0,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 884,
+    "title": "Jurassic Park",
+    "year": 2005,
+    "genre": "Horror",
+    "rating": 8.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 885,
+    "title": "The Big Lebowski",
+    "year": 2001,
+    "genre": "Animation",
+    "rating": 6.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 886,
+    "title": "Rocky",
+    "year": 2018,
+    "genre": "Comedy",
+    "rating": 9.8,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 887,
+    "title": "Parasite",
+    "year": 1988,
+    "genre": "Crime",
+    "rating": 7.9,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 888,
+    "title": "The Silence of the Lambs",
+    "year": 1999,
+    "genre": "Animation",
+    "rating": 7.5,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 889,
+    "title": "The Prestige",
+    "year": 1964,
+    "genre": "Romance",
+    "rating": 8.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 890,
+    "title": "Avatar",
+    "year": 2009,
+    "genre": "Thriller",
+    "rating": 8.7,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 891,
+    "title": "The Lord of the Rings",
+    "year": 2011,
+    "genre": "Comedy",
+    "rating": 7.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 892,
+    "title": "No Country for Old Men",
+    "year": 1956,
+    "genre": "Action",
+    "rating": 9.6,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 893,
+    "title": "Moonlight",
+    "year": 1978,
+    "genre": "Animation",
+    "rating": 6.6,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 894,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Romance",
+    "rating": 7.1,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 895,
+    "title": "Iron Man",
+    "year": 1974,
+    "genre": "Horror",
+    "rating": 9.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 896,
+    "title": "Rocky",
+    "year": 1988,
+    "genre": "Horror",
+    "rating": 7.2,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 897,
+    "title": "The Grand Budapest Hotel",
+    "year": 1955,
+    "genre": "Thriller",
+    "rating": 9.6,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 898,
+    "title": "The Dark Knight",
+    "year": 1968,
+    "genre": "Romance",
+    "rating": 9.2,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 899,
+    "title": "The Godfather",
+    "year": 1991,
+    "genre": "Action",
+    "rating": 7.7,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 900,
+    "title": "The Lord of the Rings",
+    "year": 2023,
+    "genre": "Animation",
+    "rating": 9.2,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 901,
+    "title": "The Terminator",
+    "year": 1963,
+    "genre": "Thriller",
+    "rating": 8.9,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 902,
+    "title": "Good Will Hunting",
+    "year": 1958,
+    "genre": "Romance",
+    "rating": 6.5,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 903,
+    "title": "The Social Network",
+    "year": 1981,
+    "genre": "Drama",
+    "rating": 8.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 904,
+    "title": "La La Land",
+    "year": 1957,
+    "genre": "Animation",
+    "rating": 9.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 905,
+    "title": "The Wolf of Wall Street",
+    "year": 1990,
+    "genre": "Crime",
+    "rating": 9.5,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 906,
+    "title": "Parasite",
+    "year": 1996,
+    "genre": "Romance",
+    "rating": 6.6,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 907,
+    "title": "La La Land",
+    "year": 2000,
+    "genre": "Animation",
+    "rating": 7.8,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 908,
+    "title": "Parasite",
+    "year": 1959,
+    "genre": "Drama",
+    "rating": 9.4,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 909,
+    "title": "Black Panther",
+    "year": 1952,
+    "genre": "Adventure",
+    "rating": 9.1,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 910,
+    "title": "Black Panther",
+    "year": 1989,
+    "genre": "Comedy",
+    "rating": 6.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 911,
+    "title": "2001: A Space Odyssey",
+    "year": 1960,
+    "genre": "Animation",
+    "rating": 7.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 912,
+    "title": "Forrest Gump",
+    "year": 1973,
+    "genre": "Horror",
+    "rating": 8.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 913,
+    "title": "Se7en",
+    "year": 1998,
+    "genre": "Drama",
+    "rating": 7.4,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 914,
+    "title": "The Departed",
+    "year": 1998,
+    "genre": "Thriller",
+    "rating": 6.8,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 915,
+    "title": "The Shawshank Redemption",
+    "year": 1952,
+    "genre": "Romance",
+    "rating": 8.4,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 916,
+    "title": "The Avengers",
+    "year": 2013,
+    "genre": "Thriller",
+    "rating": 8.4,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 917,
+    "title": "The Shawshank Redemption",
+    "year": 1968,
+    "genre": "Crime",
+    "rating": 9.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 918,
+    "title": "The Grand Budapest Hotel",
+    "year": 2008,
+    "genre": "Action",
+    "rating": 9.5,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 919,
+    "title": "The Pianist",
+    "year": 2019,
+    "genre": "Adventure",
+    "rating": 9.3,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 920,
+    "title": "The Truman Show",
+    "year": 1986,
+    "genre": "Animation",
+    "rating": 6.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 921,
+    "title": "The Green Mile",
+    "year": 1973,
+    "genre": "Adventure",
+    "rating": 8.5,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 922,
+    "title": "Forrest Gump",
+    "year": 1958,
+    "genre": "Action",
+    "rating": 8.9,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 923,
+    "title": "Pulp Fiction",
+    "year": 1959,
+    "genre": "Action",
+    "rating": 7.0,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 924,
+    "title": "Iron Man",
+    "year": 1962,
+    "genre": "Horror",
+    "rating": 7.1,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 925,
+    "title": "A Beautiful Mind",
+    "year": 1989,
+    "genre": "Comedy",
+    "rating": 9.5,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 926,
+    "title": "Whiplash",
+    "year": 1968,
+    "genre": "Crime",
+    "rating": 6.8,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 927,
+    "title": "Fight Club",
+    "year": 2015,
+    "genre": "Animation",
+    "rating": 7.5,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 928,
+    "title": "Braveheart",
+    "year": 1985,
+    "genre": "Romance",
+    "rating": 6.7,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 929,
+    "title": "La La Land",
+    "year": 2019,
+    "genre": "Drama",
+    "rating": 7.3,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 930,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1950,
+    "genre": "Action",
+    "rating": 8.4,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 931,
+    "title": "La La Land",
+    "year": 1977,
+    "genre": "Adventure",
+    "rating": 9.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 932,
+    "title": "The Big Lebowski",
+    "year": 1972,
+    "genre": "Drama",
+    "rating": 8.4,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 933,
+    "title": "Spirited Away",
+    "year": 1956,
+    "genre": "Crime",
+    "rating": 9.6,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 934,
+    "title": "No Country for Old Men",
+    "year": 1984,
+    "genre": "Sci-Fi",
+    "rating": 9.0,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 935,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2010,
+    "genre": "Comedy",
+    "rating": 6.7,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 936,
+    "title": "Titanic",
+    "year": 1974,
+    "genre": "Romance",
+    "rating": 8.4,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 937,
+    "title": "Joker",
+    "year": 1965,
+    "genre": "Comedy",
+    "rating": 8.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 938,
+    "title": "Fight Club",
+    "year": 2004,
+    "genre": "Romance",
+    "rating": 7.0,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 939,
+    "title": "The Departed",
+    "year": 1993,
+    "genre": "Horror",
+    "rating": 6.7,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 940,
+    "title": "Moonlight",
+    "year": 1958,
+    "genre": "Drama",
+    "rating": 9.4,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 941,
+    "title": "The Prestige",
+    "year": 1957,
+    "genre": "Thriller",
+    "rating": 6.8,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 942,
+    "title": "La La Land",
+    "year": 1960,
+    "genre": "Adventure",
+    "rating": 9.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 943,
+    "title": "No Country for Old Men",
+    "year": 1991,
+    "genre": "Sci-Fi",
+    "rating": 7.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 944,
+    "title": "Goodfellas",
+    "year": 1954,
+    "genre": "Action",
+    "rating": 7.1,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 945,
+    "title": "The Lion King",
+    "year": 2014,
+    "genre": "Comedy",
+    "rating": 9.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 946,
+    "title": "Saving Private Ryan",
+    "year": 1967,
+    "genre": "Sci-Fi",
+    "rating": 9.8,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 947,
+    "title": "Fight Club",
+    "year": 2016,
+    "genre": "Sci-Fi",
+    "rating": 6.7,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 948,
+    "title": "Pulp Fiction",
+    "year": 2015,
+    "genre": "Drama",
+    "rating": 9.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 949,
+    "title": "2001: A Space Odyssey",
+    "year": 1989,
+    "genre": "Horror",
+    "rating": 7.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 950,
+    "title": "Whiplash",
+    "year": 1959,
+    "genre": "Adventure",
+    "rating": 7.7,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 951,
+    "title": "Goodfellas",
+    "year": 2018,
+    "genre": "Action",
+    "rating": 7.0,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 952,
+    "title": "Braveheart",
+    "year": 2016,
+    "genre": "Horror",
+    "rating": 9.5,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 953,
+    "title": "Star Wars",
+    "year": 1985,
+    "genre": "Horror",
+    "rating": 8.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 954,
+    "title": "The Departed",
+    "year": 2008,
+    "genre": "Thriller",
+    "rating": 9.4,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 955,
+    "title": "The Matrix",
+    "year": 1966,
+    "genre": "Animation",
+    "rating": 9.4,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 956,
+    "title": "Gladiator",
+    "year": 1968,
+    "genre": "Sci-Fi",
+    "rating": 6.6,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 957,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 1962,
+    "genre": "Comedy",
+    "rating": 7.3,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 958,
+    "title": "The Silence of the Lambs",
+    "year": 1978,
+    "genre": "Crime",
+    "rating": 7.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 959,
+    "title": "The Lion King",
+    "year": 2017,
+    "genre": "Crime",
+    "rating": 8.8,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 960,
+    "title": "The Grand Budapest Hotel",
+    "year": 2023,
+    "genre": "Animation",
+    "rating": 8.6,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 961,
+    "title": "Pulp Fiction",
+    "year": 1992,
+    "genre": "Drama",
+    "rating": 8.8,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 962,
+    "title": "The Avengers",
+    "year": 2005,
+    "genre": "Sci-Fi",
+    "rating": 8.3,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 963,
+    "title": "Shutter Island",
+    "year": 2001,
+    "genre": "Comedy",
+    "rating": 8.1,
+    "description": "A beautifully crafted film with memorable characters."
+  },
+  {
+    "id": 964,
+    "title": "Se7en",
+    "year": 2023,
+    "genre": "Horror",
+    "rating": 8.0,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 965,
+    "title": "The Avengers",
+    "year": 1962,
+    "genre": "Comedy",
+    "rating": 6.9,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 966,
+    "title": "Interstellar",
+    "year": 1968,
+    "genre": "Crime",
+    "rating": 8.5,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 967,
+    "title": "Her",
+    "year": 1964,
+    "genre": "Comedy",
+    "rating": 6.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 968,
+    "title": "The Avengers",
+    "year": 2019,
+    "genre": "Animation",
+    "rating": 9.2,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 969,
+    "title": "The Social Network",
+    "year": 2009,
+    "genre": "Romance",
+    "rating": 7.5,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 970,
+    "title": "The Grand Budapest Hotel",
+    "year": 2016,
+    "genre": "Adventure",
+    "rating": 9.0,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 971,
+    "title": "La La Land",
+    "year": 1964,
+    "genre": "Romance",
+    "rating": 7.9,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 972,
+    "title": "Inception",
+    "year": 2006,
+    "genre": "Animation",
+    "rating": 7.2,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 973,
+    "title": "The Lion King",
+    "year": 1971,
+    "genre": "Comedy",
+    "rating": 8.5,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 974,
+    "title": "Whiplash",
+    "year": 2007,
+    "genre": "Comedy",
+    "rating": 9.8,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 975,
+    "title": "The Wolf of Wall Street",
+    "year": 1967,
+    "genre": "Comedy",
+    "rating": 9.0,
+    "description": "An emotional story that leaves a lasting impact."
+  },
+  {
+    "id": 976,
+    "title": "Jurassic Park",
+    "year": 1956,
+    "genre": "Action",
+    "rating": 8.2,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 977,
+    "title": "The Departed",
+    "year": 1951,
+    "genre": "Animation",
+    "rating": 8.1,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 978,
+    "title": "The Dark Knight",
+    "year": 1996,
+    "genre": "Romance",
+    "rating": 7.4,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 979,
+    "title": "Moonlight",
+    "year": 1990,
+    "genre": "Crime",
+    "rating": 7.9,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 980,
+    "title": "Interstellar",
+    "year": 1968,
+    "genre": "Animation",
+    "rating": 8.6,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 981,
+    "title": "Django Unchained",
+    "year": 1955,
+    "genre": "Animation",
+    "rating": 9.1,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 982,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genre": "Romance",
+    "rating": 9.6,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 983,
+    "title": "The Lord of the Rings",
+    "year": 2001,
+    "genre": "Adventure",
+    "rating": 6.5,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 984,
+    "title": "The Pianist",
+    "year": 1973,
+    "genre": "Action",
+    "rating": 9.1,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 985,
+    "title": "Avatar",
+    "year": 2019,
+    "genre": "Adventure",
+    "rating": 8.5,
+    "description": "A warm and inspiring tale of hope and resilience."
+  },
+  {
+    "id": 986,
+    "title": "Goodfellas",
+    "year": 2024,
+    "genre": "Adventure",
+    "rating": 9.2,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 987,
+    "title": "The Big Lebowski",
+    "year": 1983,
+    "genre": "Romance",
+    "rating": 9.1,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 988,
+    "title": "The Godfather",
+    "year": 1999,
+    "genre": "Romance",
+    "rating": 9.3,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 989,
+    "title": "Joker",
+    "year": 1951,
+    "genre": "Drama",
+    "rating": 6.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 990,
+    "title": "The Lion King",
+    "year": 2021,
+    "genre": "Animation",
+    "rating": 7.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 991,
+    "title": "Casablanca",
+    "year": 1980,
+    "genre": "Comedy",
+    "rating": 8.7,
+    "description": "A suspenseful ride packed with unexpected twists."
+  },
+  {
+    "id": 992,
+    "title": "Parasite",
+    "year": 2008,
+    "genre": "Sci-Fi",
+    "rating": 9.8,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 993,
+    "title": "The Batman",
+    "year": 2009,
+    "genre": "Romance",
+    "rating": 6.9,
+    "description": "A powerful drama exploring human relationships."
+  },
+  {
+    "id": 994,
+    "title": "Black Panther",
+    "year": 2009,
+    "genre": "Drama",
+    "rating": 8.3,
+    "description": "An unforgettable journey of courage and discovery."
+  },
+  {
+    "id": 995,
+    "title": "Fight Club",
+    "year": 2003,
+    "genre": "Thriller",
+    "rating": 7.9,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 996,
+    "title": "Saving Private Ryan",
+    "year": 1975,
+    "genre": "Adventure",
+    "rating": 9.0,
+    "description": "A thrilling adventure that keeps you on the edge."
+  },
+  {
+    "id": 997,
+    "title": "The Godfather",
+    "year": 1983,
+    "genre": "Comedy",
+    "rating": 6.6,
+    "description": "A gripping story filled with emotion and depth."
+  },
+  {
+    "id": 998,
+    "title": "Forrest Gump",
+    "year": 1961,
+    "genre": "Sci-Fi",
+    "rating": 9.5,
+    "description": "A visually stunning film with a heartfelt narrative."
+  },
+  {
+    "id": 999,
+    "title": "Casablanca",
+    "year": 1963,
+    "genre": "Romance",
+    "rating": 6.7,
+    "description": "A fast-paced story with intense action sequences."
+  },
+  {
+    "id": 1000,
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "genre": "Animation",
+    "rating": 7.3,
+    "description": "A powerful drama exploring human relationships."
+  }
+]

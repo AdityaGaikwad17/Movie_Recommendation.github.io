@@ -1,0 +1,1001 @@
+id,title,year,genre,rating,description
+1,No Country for Old Men,1965,Crime,8.8,An emotional story that leaves a lasting impact.
+2,Braveheart,2014,Animation,7.0,A visually stunning film with a heartfelt narrative.
+3,The Shawshank Redemption,1958,Sci-Fi,6.7,An unforgettable journey of courage and discovery.
+4,Goodfellas,2007,Drama,8.0,A visually stunning film with a heartfelt narrative.
+5,Good Will Hunting,2019,Horror,7.9,A thrilling adventure that keeps you on the edge.
+6,Interstellar,1978,Thriller,7.2,An emotional story that leaves a lasting impact.
+7,Interstellar,1984,Adventure,7.2,A warm and inspiring tale of hope and resilience.
+8,No Country for Old Men,1988,Thriller,7.8,A gripping story filled with emotion and depth.
+9,Toy Story,1960,Sci-Fi,9.0,A warm and inspiring tale of hope and resilience.
+10,Her,1975,Drama,9.0,A suspenseful ride packed with unexpected twists.
+11,Pulp Fiction,1950,Drama,8.9,A beautifully crafted film with memorable characters.
+12,Inception,2009,Thriller,8.9,An unforgettable journey of courage and discovery.
+13,Avatar,2002,Action,8.1,A gripping story filled with emotion and depth.
+14,The Green Mile,2009,Horror,9.2,A fast-paced story with intense action sequences.
+15,The Truman Show,2008,Adventure,7.0,A gripping story filled with emotion and depth.
+16,The Silence of the Lambs,1985,Sci-Fi,7.4,A visually stunning film with a heartfelt narrative.
+17,No Country for Old Men,1970,Crime,8.7,A powerful drama exploring human relationships.
+18,Black Panther,2024,Comedy,9.7,A warm and inspiring tale of hope and resilience.
+19,Inception,1956,Romance,6.6,A fast-paced story with intense action sequences.
+20,Django Unchained,1990,Animation,7.7,A visually stunning film with a heartfelt narrative.
+21,Moonlight,1978,Action,7.0,A warm and inspiring tale of hope and resilience.
+22,The Silence of the Lambs,1979,Crime,7.0,A warm and inspiring tale of hope and resilience.
+23,Indiana Jones and the Last Crusade,1970,Thriller,7.9,A powerful drama exploring human relationships.
+24,The Matrix,1973,Animation,7.1,A powerful drama exploring human relationships.
+25,Rocky,1993,Sci-Fi,6.5,An emotional story that leaves a lasting impact.
+26,The Terminator,1985,Thriller,6.5,A beautifully crafted film with memorable characters.
+27,Joker,1971,Comedy,7.5,A powerful drama exploring human relationships.
+28,Jurassic Park,1952,Romance,9.8,A visually stunning film with a heartfelt narrative.
+29,Interstellar,2014,Thriller,9.1,A powerful drama exploring human relationships.
+30,The Pianist,2021,Comedy,8.3,A suspenseful ride packed with unexpected twists.
+31,Harry Potter and the Sorcerer's Stone,2016,Crime,9.0,An unforgettable journey of courage and discovery.
+32,Iron Man,1966,Crime,9.2,An emotional story that leaves a lasting impact.
+33,The Green Mile,2023,Romance,9.1,A beautifully crafted film with memorable characters.
+34,Her,2008,Thriller,9.5,An emotional story that leaves a lasting impact.
+35,Joker,2002,Animation,7.4,A thrilling adventure that keeps you on the edge.
+36,The Lord of the Rings,1998,Drama,8.0,A beautifully crafted film with memorable characters.
+37,2001: A Space Odyssey,2008,Action,9.1,A thrilling adventure that keeps you on the edge.
+38,Se7en,1961,Action,9.2,A beautifully crafted film with memorable characters.
+39,Joker,1969,Animation,8.5,A beautifully crafted film with memorable characters.
+40,The Departed,1959,Action,7.3,A warm and inspiring tale of hope and resilience.
+41,Iron Man,1965,Sci-Fi,8.4,A thrilling adventure that keeps you on the edge.
+42,Star Wars,1997,Crime,7.7,A powerful drama exploring human relationships.
+43,The Wolf of Wall Street,1978,Action,9.3,A powerful drama exploring human relationships.
+44,The Silence of the Lambs,2014,Thriller,7.0,A fast-paced story with intense action sequences.
+45,Shutter Island,1995,Adventure,9.3,A fast-paced story with intense action sequences.
+46,The Lion King,1999,Thriller,8.5,A suspenseful ride packed with unexpected twists.
+47,The Big Lebowski,1956,Crime,8.2,An unforgettable journey of courage and discovery.
+48,Toy Story,1981,Romance,9.3,A powerful drama exploring human relationships.
+49,Inception,1995,Adventure,9.2,A fast-paced story with intense action sequences.
+50,Indiana Jones and the Last Crusade,2016,Romance,9.6,A suspenseful ride packed with unexpected twists.
+51,The Lord of the Rings,2024,Drama,7.1,A warm and inspiring tale of hope and resilience.
+52,Good Will Hunting,1957,Comedy,7.4,A thrilling adventure that keeps you on the edge.
+53,Fight Club,1970,Comedy,8.1,A beautifully crafted film with memorable characters.
+54,The Shawshank Redemption,2013,Action,8.4,A powerful drama exploring human relationships.
+55,Harry Potter and the Sorcerer's Stone,1997,Crime,7.9,A powerful drama exploring human relationships.
+56,The Pianist,1969,Animation,8.6,A warm and inspiring tale of hope and resilience.
+57,The Lion King,2016,Romance,9.4,A thrilling adventure that keeps you on the edge.
+58,Moonlight,1955,Comedy,7.1,A visually stunning film with a heartfelt narrative.
+59,Back to the Future,2023,Adventure,8.2,A powerful drama exploring human relationships.
+60,Whiplash,1985,Crime,8.5,A beautifully crafted film with memorable characters.
+61,The Avengers,2012,Comedy,7.0,A visually stunning film with a heartfelt narrative.
+62,The Silence of the Lambs,1970,Sci-Fi,9.7,A warm and inspiring tale of hope and resilience.
+63,Iron Man,1972,Crime,8.7,A beautifully crafted film with memorable characters.
+64,The Truman Show,1960,Animation,7.8,An emotional story that leaves a lasting impact.
+65,The Big Lebowski,1990,Thriller,8.4,An unforgettable journey of courage and discovery.
+66,The Avengers,1968,Horror,7.2,A beautifully crafted film with memorable characters.
+67,Whiplash,1975,Action,8.1,A gripping story filled with emotion and depth.
+68,The Avengers,2008,Sci-Fi,8.8,A beautifully crafted film with memorable characters.
+69,Braveheart,1991,Action,8.8,A powerful drama exploring human relationships.
+70,Titanic,1954,Horror,7.1,A thrilling adventure that keeps you on the edge.
+71,Star Wars,1995,Romance,7.9,A beautifully crafted film with memorable characters.
+72,The Terminator,1976,Drama,7.5,A powerful drama exploring human relationships.
+73,The Departed,2014,Thriller,6.7,An unforgettable journey of courage and discovery.
+74,Indiana Jones and the Last Crusade,1971,Action,9.8,A suspenseful ride packed with unexpected twists.
+75,Interstellar,1950,Horror,8.7,A suspenseful ride packed with unexpected twists.
+76,2001: A Space Odyssey,2019,Action,7.7,A suspenseful ride packed with unexpected twists.
+77,The Truman Show,2010,Thriller,6.6,A warm and inspiring tale of hope and resilience.
+78,The Batman,2023,Adventure,8.6,An emotional story that leaves a lasting impact.
+79,Gladiator,1972,Comedy,8.9,A suspenseful ride packed with unexpected twists.
+80,Mad Max: Fury Road,2017,Sci-Fi,7.5,A thrilling adventure that keeps you on the edge.
+81,The Wolf of Wall Street,2000,Action,8.1,An emotional story that leaves a lasting impact.
+82,Titanic,2002,Romance,7.4,A powerful drama exploring human relationships.
+83,Goodfellas,2022,Drama,8.9,A visually stunning film with a heartfelt narrative.
+84,Fight Club,1959,Horror,7.4,A powerful drama exploring human relationships.
+85,Gladiator,1972,Horror,8.4,An emotional story that leaves a lasting impact.
+86,Goodfellas,1958,Action,8.4,A thrilling adventure that keeps you on the edge.
+87,Goodfellas,2020,Crime,8.9,A warm and inspiring tale of hope and resilience.
+88,The Big Lebowski,2018,Romance,6.9,A powerful drama exploring human relationships.
+89,Jurassic Park,1993,Comedy,6.9,A thrilling adventure that keeps you on the edge.
+90,Whiplash,1959,Thriller,9.4,A thrilling adventure that keeps you on the edge.
+91,2001: A Space Odyssey,1989,Romance,8.4,A visually stunning film with a heartfelt narrative.
+92,Slumdog Millionaire,2021,Crime,7.6,A thrilling adventure that keeps you on the edge.
+93,The Avengers,2014,Horror,9.7,A fast-paced story with intense action sequences.
+94,Spirited Away,2014,Animation,7.4,A visually stunning film with a heartfelt narrative.
+95,Gladiator,1975,Thriller,8.2,A beautifully crafted film with memorable characters.
+96,The Avengers,1970,Crime,8.4,An emotional story that leaves a lasting impact.
+97,Indiana Jones and the Last Crusade,1967,Horror,8.4,A suspenseful ride packed with unexpected twists.
+98,Iron Man,1984,Crime,8.2,An emotional story that leaves a lasting impact.
+99,Slumdog Millionaire,1965,Sci-Fi,8.7,A fast-paced story with intense action sequences.
+100,Black Panther,1954,Action,8.7,A beautifully crafted film with memorable characters.
+101,The Departed,2014,Sci-Fi,8.8,An emotional story that leaves a lasting impact.
+102,Saving Private Ryan,2018,Adventure,6.6,A visually stunning film with a heartfelt narrative.
+103,A Beautiful Mind,1995,Adventure,6.9,A thrilling adventure that keeps you on the edge.
+104,The Terminator,2015,Comedy,8.0,A gripping story filled with emotion and depth.
+105,The Shawshank Redemption,2016,Drama,7.7,An emotional story that leaves a lasting impact.
+106,No Country for Old Men,2020,Romance,8.1,An emotional story that leaves a lasting impact.
+107,The Truman Show,1990,Action,9.6,A beautifully crafted film with memorable characters.
+108,The Matrix,1994,Comedy,8.3,A thrilling adventure that keeps you on the edge.
+109,Shutter Island,2016,Drama,9.6,A thrilling adventure that keeps you on the edge.
+110,The Shawshank Redemption,1999,Comedy,8.6,A beautifully crafted film with memorable characters.
+111,The Silence of the Lambs,1955,Thriller,7.1,A beautifully crafted film with memorable characters.
+112,The Godfather,1980,Animation,7.9,A visually stunning film with a heartfelt narrative.
+113,The Lord of the Rings,1979,Romance,9.6,A powerful drama exploring human relationships.
+114,Toy Story,1969,Crime,9.4,An emotional story that leaves a lasting impact.
+115,Joker,1987,Adventure,7.6,A powerful drama exploring human relationships.
+116,Interstellar,1978,Animation,8.6,A warm and inspiring tale of hope and resilience.
+117,Back to the Future,1995,Drama,9.5,A beautifully crafted film with memorable characters.
+118,The Social Network,1992,Comedy,8.3,A thrilling adventure that keeps you on the edge.
+119,The Lion King,2011,Adventure,7.4,A beautifully crafted film with memorable characters.
+120,The Shawshank Redemption,1992,Thriller,7.7,An emotional story that leaves a lasting impact.
+121,Titanic,2005,Comedy,7.3,A warm and inspiring tale of hope and resilience.
+122,Moonlight,1999,Horror,9.2,A beautifully crafted film with memorable characters.
+123,The Avengers,1959,Sci-Fi,8.8,A thrilling adventure that keeps you on the edge.
+124,Toy Story,1988,Thriller,7.9,A beautifully crafted film with memorable characters.
+125,Titanic,1981,Sci-Fi,8.5,A suspenseful ride packed with unexpected twists.
+126,The Shawshank Redemption,1973,Horror,8.4,A beautifully crafted film with memorable characters.
+127,Star Wars,2003,Adventure,9.0,A thrilling adventure that keeps you on the edge.
+128,Toy Story,2017,Thriller,6.5,A powerful drama exploring human relationships.
+129,The Lion King,1961,Crime,7.2,A gripping story filled with emotion and depth.
+130,The Matrix,2002,Comedy,7.8,An unforgettable journey of courage and discovery.
+131,Back to the Future,1970,Animation,9.2,A warm and inspiring tale of hope and resilience.
+132,Avatar,2015,Adventure,7.6,A fast-paced story with intense action sequences.
+133,Titanic,1996,Sci-Fi,9.5,A beautifully crafted film with memorable characters.
+134,Shutter Island,2024,Horror,7.6,A gripping story filled with emotion and depth.
+135,Her,1994,Comedy,9.2,An emotional story that leaves a lasting impact.
+136,The Pianist,1969,Action,9.3,A thrilling adventure that keeps you on the edge.
+137,Harry Potter and the Sorcerer's Stone,1994,Animation,7.6,A powerful drama exploring human relationships.
+138,The Wolf of Wall Street,1978,Horror,7.6,A warm and inspiring tale of hope and resilience.
+139,Iron Man,1995,Thriller,8.1,An emotional story that leaves a lasting impact.
+140,Forrest Gump,2023,Drama,7.7,An unforgettable journey of courage and discovery.
+141,The Terminator,1993,Romance,7.1,A warm and inspiring tale of hope and resilience.
+142,Casablanca,1995,Crime,9.4,A beautifully crafted film with memorable characters.
+143,Her,2012,Comedy,6.9,A visually stunning film with a heartfelt narrative.
+144,Her,1951,Drama,7.8,A gripping story filled with emotion and depth.
+145,The Godfather,1972,Animation,7.3,A beautifully crafted film with memorable characters.
+146,Parasite,1956,Comedy,8.5,A thrilling adventure that keeps you on the edge.
+147,The Dark Knight,2010,Romance,7.2,A beautifully crafted film with memorable characters.
+148,The Truman Show,1950,Comedy,9.0,A warm and inspiring tale of hope and resilience.
+149,The Green Mile,1951,Action,7.2,An emotional story that leaves a lasting impact.
+150,Casablanca,1962,Crime,6.7,A gripping story filled with emotion and depth.
+151,The Wolf of Wall Street,1986,Sci-Fi,7.5,A powerful drama exploring human relationships.
+152,The Green Mile,2017,Comedy,7.2,A visually stunning film with a heartfelt narrative.
+153,Avatar,2010,Crime,8.7,A powerful drama exploring human relationships.
+154,The Dark Knight,1986,Action,9.3,A gripping story filled with emotion and depth.
+155,Iron Man,2018,Animation,8.6,An unforgettable journey of courage and discovery.
+156,Forrest Gump,1978,Action,7.9,An unforgettable journey of courage and discovery.
+157,Gladiator,1978,Thriller,7.4,A gripping story filled with emotion and depth.
+158,The Prestige,2000,Adventure,9.4,An emotional story that leaves a lasting impact.
+159,Shutter Island,2007,Action,7.2,A warm and inspiring tale of hope and resilience.
+160,The Green Mile,1972,Adventure,8.2,A suspenseful ride packed with unexpected twists.
+161,The Shawshank Redemption,2014,Adventure,8.7,A suspenseful ride packed with unexpected twists.
+162,Good Will Hunting,1987,Action,8.4,A beautifully crafted film with memorable characters.
+163,Casablanca,2013,Adventure,8.5,A visually stunning film with a heartfelt narrative.
+164,The Dark Knight,1976,Comedy,9.6,A thrilling adventure that keeps you on the edge.
+165,No Country for Old Men,1996,Thriller,8.8,A suspenseful ride packed with unexpected twists.
+166,Parasite,2020,Animation,8.1,A fast-paced story with intense action sequences.
+167,The Departed,1971,Sci-Fi,7.3,A visually stunning film with a heartfelt narrative.
+168,Avatar,1979,Comedy,9.2,A powerful drama exploring human relationships.
+169,Titanic,1976,Romance,9.5,A visually stunning film with a heartfelt narrative.
+170,Moonlight,2012,Romance,7.7,A thrilling adventure that keeps you on the edge.
+171,The Social Network,1955,Drama,9.8,A gripping story filled with emotion and depth.
+172,Toy Story,1984,Action,8.1,A thrilling adventure that keeps you on the edge.
+173,The Prestige,1972,Action,7.0,A suspenseful ride packed with unexpected twists.
+174,Se7en,1951,Crime,6.6,A fast-paced story with intense action sequences.
+175,The Shawshank Redemption,1966,Sci-Fi,8.2,An unforgettable journey of courage and discovery.
+176,Her,1996,Horror,8.0,A powerful drama exploring human relationships.
+177,Avatar,2018,Action,9.5,A thrilling adventure that keeps you on the edge.
+178,Parasite,2018,Crime,7.5,A suspenseful ride packed with unexpected twists.
+179,Parasite,1967,Action,7.1,A powerful drama exploring human relationships.
+180,Good Will Hunting,2012,Crime,8.2,A visually stunning film with a heartfelt narrative.
+181,Back to the Future,1977,Action,8.9,An unforgettable journey of courage and discovery.
+182,Braveheart,1973,Animation,6.9,A powerful drama exploring human relationships.
+183,Harry Potter and the Sorcerer's Stone,1963,Action,8.1,An unforgettable journey of courage and discovery.
+184,Avatar,1993,Drama,7.8,A suspenseful ride packed with unexpected twists.
+185,Black Panther,1988,Thriller,9.4,A warm and inspiring tale of hope and resilience.
+186,Spirited Away,1985,Sci-Fi,9.3,A beautifully crafted film with memorable characters.
+187,The Matrix,1993,Sci-Fi,9.1,An unforgettable journey of courage and discovery.
+188,The Batman,2004,Comedy,7.0,A thrilling adventure that keeps you on the edge.
+189,Back to the Future,2014,Adventure,6.8,A suspenseful ride packed with unexpected twists.
+190,The Avengers,2012,Romance,7.7,An emotional story that leaves a lasting impact.
+191,The Departed,2006,Adventure,9.0,A warm and inspiring tale of hope and resilience.
+192,The Green Mile,1958,Comedy,6.8,A gripping story filled with emotion and depth.
+193,Moonlight,1958,Crime,9.0,An emotional story that leaves a lasting impact.
+194,Harry Potter and the Sorcerer's Stone,2011,Animation,6.7,A gripping story filled with emotion and depth.
+195,Titanic,1989,Animation,8.1,A suspenseful ride packed with unexpected twists.
+196,Spirited Away,1989,Animation,7.1,A beautifully crafted film with memorable characters.
+197,The Godfather,2000,Comedy,9.7,A visually stunning film with a heartfelt narrative.
+198,The Truman Show,1988,Romance,6.9,An emotional story that leaves a lasting impact.
+199,Iron Man,2006,Action,7.3,A powerful drama exploring human relationships.
+200,La La Land,1999,Animation,9.7,An emotional story that leaves a lasting impact.
+201,Fight Club,1998,Adventure,6.6,A visually stunning film with a heartfelt narrative.
+202,No Country for Old Men,1998,Comedy,6.7,A powerful drama exploring human relationships.
+203,The Prestige,1979,Action,6.8,A thrilling adventure that keeps you on the edge.
+204,Parasite,1978,Crime,9.5,An emotional story that leaves a lasting impact.
+205,Harry Potter and the Sorcerer's Stone,2019,Action,6.9,A beautifully crafted film with memorable characters.
+206,Gladiator,1996,Romance,9.6,An emotional story that leaves a lasting impact.
+207,The Social Network,2016,Animation,8.7,A warm and inspiring tale of hope and resilience.
+208,The Prestige,1996,Horror,9.3,A thrilling adventure that keeps you on the edge.
+209,Harry Potter and the Sorcerer's Stone,1982,Animation,8.1,A thrilling adventure that keeps you on the edge.
+210,The Green Mile,1981,Horror,9.3,An emotional story that leaves a lasting impact.
+211,Harry Potter and the Sorcerer's Stone,1965,Sci-Fi,6.6,A visually stunning film with a heartfelt narrative.
+212,A Beautiful Mind,1959,Animation,8.0,A visually stunning film with a heartfelt narrative.
+213,Mad Max: Fury Road,1990,Drama,8.2,A thrilling adventure that keeps you on the edge.
+214,Interstellar,1956,Drama,6.7,A powerful drama exploring human relationships.
+215,Toy Story,2023,Drama,8.4,An unforgettable journey of courage and discovery.
+216,Iron Man,1958,Animation,8.8,An emotional story that leaves a lasting impact.
+217,The Truman Show,1975,Horror,7.8,An unforgettable journey of courage and discovery.
+218,Interstellar,2008,Sci-Fi,9.2,A suspenseful ride packed with unexpected twists.
+219,Inception,2016,Animation,7.9,A thrilling adventure that keeps you on the edge.
+220,Indiana Jones and the Last Crusade,2023,Crime,9.6,A warm and inspiring tale of hope and resilience.
+221,Jurassic Park,2011,Sci-Fi,6.9,A visually stunning film with a heartfelt narrative.
+222,Spirited Away,2008,Drama,8.1,A fast-paced story with intense action sequences.
+223,Django Unchained,1965,Adventure,8.4,A fast-paced story with intense action sequences.
+224,Joker,1964,Thriller,7.0,A powerful drama exploring human relationships.
+225,Braveheart,1983,Drama,8.7,A warm and inspiring tale of hope and resilience.
+226,The Godfather,2023,Action,8.1,A warm and inspiring tale of hope and resilience.
+227,Inception,2013,Comedy,8.2,A warm and inspiring tale of hope and resilience.
+228,Forrest Gump,1981,Sci-Fi,7.1,A warm and inspiring tale of hope and resilience.
+229,A Beautiful Mind,2009,Romance,7.7,A suspenseful ride packed with unexpected twists.
+230,Avatar,1998,Adventure,8.4,A warm and inspiring tale of hope and resilience.
+231,Django Unchained,2010,Romance,7.5,A beautifully crafted film with memorable characters.
+232,Parasite,1966,Sci-Fi,7.9,A gripping story filled with emotion and depth.
+233,Back to the Future,2022,Crime,6.9,A visually stunning film with a heartfelt narrative.
+234,The Avengers,2009,Animation,9.2,An emotional story that leaves a lasting impact.
+235,The Dark Knight,1982,Thriller,9.6,A suspenseful ride packed with unexpected twists.
+236,The Batman,2019,Horror,9.6,An unforgettable journey of courage and discovery.
+237,The Lord of the Rings,2020,Drama,8.1,A warm and inspiring tale of hope and resilience.
+238,Se7en,1966,Comedy,7.1,A gripping story filled with emotion and depth.
+239,Forrest Gump,1968,Crime,7.6,A warm and inspiring tale of hope and resilience.
+240,The Truman Show,1971,Sci-Fi,9.0,An unforgettable journey of courage and discovery.
+241,Titanic,1952,Drama,8.4,A gripping story filled with emotion and depth.
+242,Parasite,1995,Sci-Fi,8.3,A visually stunning film with a heartfelt narrative.
+243,Good Will Hunting,1993,Sci-Fi,6.6,A powerful drama exploring human relationships.
+244,Avatar,2013,Romance,8.8,A fast-paced story with intense action sequences.
+245,The Matrix,2014,Horror,8.0,A gripping story filled with emotion and depth.
+246,Star Wars,1981,Adventure,8.1,A fast-paced story with intense action sequences.
+247,Harry Potter and the Sorcerer's Stone,2021,Horror,9.3,An emotional story that leaves a lasting impact.
+248,The Pianist,1950,Sci-Fi,7.0,A gripping story filled with emotion and depth.
+249,Goodfellas,1984,Sci-Fi,9.8,A gripping story filled with emotion and depth.
+250,Braveheart,1982,Animation,8.6,A visually stunning film with a heartfelt narrative.
+251,Se7en,1980,Action,7.9,A suspenseful ride packed with unexpected twists.
+252,Saving Private Ryan,2014,Adventure,7.3,An emotional story that leaves a lasting impact.
+253,The Truman Show,2008,Adventure,7.4,An emotional story that leaves a lasting impact.
+254,Forrest Gump,1983,Drama,7.8,A suspenseful ride packed with unexpected twists.
+255,Inception,1967,Romance,9.5,A gripping story filled with emotion and depth.
+256,Pulp Fiction,1957,Thriller,9.5,A powerful drama exploring human relationships.
+257,The Matrix,1992,Comedy,7.9,A beautifully crafted film with memorable characters.
+258,A Beautiful Mind,1964,Adventure,9.5,An unforgettable journey of courage and discovery.
+259,Indiana Jones and the Last Crusade,2019,Adventure,9.5,A thrilling adventure that keeps you on the edge.
+260,Toy Story,1962,Thriller,6.6,A suspenseful ride packed with unexpected twists.
+261,2001: A Space Odyssey,2017,Adventure,9.5,A suspenseful ride packed with unexpected twists.
+262,Slumdog Millionaire,1972,Adventure,6.5,A beautifully crafted film with memorable characters.
+263,Spirited Away,2013,Adventure,9.1,A visually stunning film with a heartfelt narrative.
+264,The Lord of the Rings,2017,Sci-Fi,9.3,An unforgettable journey of courage and discovery.
+265,A Beautiful Mind,2018,Adventure,9.3,A beautifully crafted film with memorable characters.
+266,No Country for Old Men,1960,Drama,7.0,A beautifully crafted film with memorable characters.
+267,The Matrix,1988,Comedy,8.8,A fast-paced story with intense action sequences.
+268,A Beautiful Mind,2008,Drama,9.7,A beautifully crafted film with memorable characters.
+269,The Lion King,1957,Romance,9.1,A powerful drama exploring human relationships.
+270,Parasite,1970,Drama,8.0,A suspenseful ride packed with unexpected twists.
+271,A Beautiful Mind,2002,Adventure,9.5,A suspenseful ride packed with unexpected twists.
+272,The Shawshank Redemption,1965,Drama,6.7,An unforgettable journey of courage and discovery.
+273,Shutter Island,2020,Comedy,8.1,A warm and inspiring tale of hope and resilience.
+274,Good Will Hunting,1988,Thriller,7.4,An unforgettable journey of courage and discovery.
+275,Titanic,2004,Animation,8.5,A visually stunning film with a heartfelt narrative.
+276,Black Panther,1957,Sci-Fi,8.9,A beautifully crafted film with memorable characters.
+277,No Country for Old Men,1973,Crime,8.3,An unforgettable journey of courage and discovery.
+278,Star Wars,1980,Sci-Fi,8.9,A fast-paced story with intense action sequences.
+279,No Country for Old Men,1994,Animation,8.7,A suspenseful ride packed with unexpected twists.
+280,Saving Private Ryan,1980,Horror,9.7,A beautifully crafted film with memorable characters.
+281,Goodfellas,2015,Adventure,6.8,A powerful drama exploring human relationships.
+282,Harry Potter and the Sorcerer's Stone,2019,Animation,8.2,A warm and inspiring tale of hope and resilience.
+283,Spirited Away,1994,Romance,6.8,A gripping story filled with emotion and depth.
+284,The Batman,1972,Romance,7.0,A powerful drama exploring human relationships.
+285,The Silence of the Lambs,2008,Sci-Fi,7.0,A visually stunning film with a heartfelt narrative.
+286,The Shawshank Redemption,1960,Crime,8.3,A thrilling adventure that keeps you on the edge.
+287,Braveheart,2007,Animation,8.1,A powerful drama exploring human relationships.
+288,Iron Man,1955,Animation,7.3,A thrilling adventure that keeps you on the edge.
+289,The Matrix,1974,Thriller,7.6,An emotional story that leaves a lasting impact.
+290,The Dark Knight,1962,Adventure,7.2,A gripping story filled with emotion and depth.
+291,Forrest Gump,1958,Adventure,9.2,An emotional story that leaves a lasting impact.
+292,Braveheart,1992,Romance,7.6,An emotional story that leaves a lasting impact.
+293,The Dark Knight,2014,Horror,7.1,A warm and inspiring tale of hope and resilience.
+294,The Silence of the Lambs,2012,Adventure,9.0,A gripping story filled with emotion and depth.
+295,Iron Man,1980,Horror,8.3,A visually stunning film with a heartfelt narrative.
+296,Iron Man,1974,Thriller,7.9,A thrilling adventure that keeps you on the edge.
+297,Casablanca,1973,Adventure,7.8,A visually stunning film with a heartfelt narrative.
+298,Slumdog Millionaire,1967,Crime,9.2,A suspenseful ride packed with unexpected twists.
+299,The Lion King,1968,Romance,8.0,A warm and inspiring tale of hope and resilience.
+300,Iron Man,1959,Adventure,8.0,A beautifully crafted film with memorable characters.
+301,The Godfather,1993,Romance,7.0,A thrilling adventure that keeps you on the edge.
+302,The Green Mile,2014,Action,6.8,A fast-paced story with intense action sequences.
+303,Django Unchained,1996,Drama,8.2,An emotional story that leaves a lasting impact.
+304,Saving Private Ryan,1987,Sci-Fi,8.7,A visually stunning film with a heartfelt narrative.
+305,Avatar,1951,Comedy,8.6,A suspenseful ride packed with unexpected twists.
+306,The Batman,2007,Romance,8.4,A thrilling adventure that keeps you on the edge.
+307,The Truman Show,2022,Drama,6.6,A visually stunning film with a heartfelt narrative.
+308,Se7en,1951,Comedy,7.6,A visually stunning film with a heartfelt narrative.
+309,The Green Mile,2010,Crime,9.1,A warm and inspiring tale of hope and resilience.
+310,The Terminator,2021,Animation,8.6,An emotional story that leaves a lasting impact.
+311,La La Land,2001,Action,9.1,A gripping story filled with emotion and depth.
+312,Forrest Gump,1971,Romance,7.3,A warm and inspiring tale of hope and resilience.
+313,Star Wars,1957,Horror,7.5,A powerful drama exploring human relationships.
+314,Jurassic Park,1956,Drama,8.4,A fast-paced story with intense action sequences.
+315,The Pianist,1993,Crime,8.2,A beautifully crafted film with memorable characters.
+316,Jurassic Park,2001,Animation,6.8,A gripping story filled with emotion and depth.
+317,The Silence of the Lambs,2022,Sci-Fi,9.4,A gripping story filled with emotion and depth.
+318,The Big Lebowski,1996,Adventure,7.1,A visually stunning film with a heartfelt narrative.
+319,Braveheart,1970,Sci-Fi,7.2,A powerful drama exploring human relationships.
+320,The Silence of the Lambs,2010,Adventure,7.8,A powerful drama exploring human relationships.
+321,Se7en,2012,Crime,8.5,An unforgettable journey of courage and discovery.
+322,The Big Lebowski,1978,Adventure,9.3,A warm and inspiring tale of hope and resilience.
+323,Gladiator,2001,Romance,8.3,A suspenseful ride packed with unexpected twists.
+324,Casablanca,2015,Romance,7.9,A powerful drama exploring human relationships.
+325,The Truman Show,1965,Horror,9.1,A beautifully crafted film with memorable characters.
+326,Star Wars,1970,Animation,8.2,A thrilling adventure that keeps you on the edge.
+327,Casablanca,1958,Crime,8.4,A visually stunning film with a heartfelt narrative.
+328,Spirited Away,1992,Drama,6.7,An emotional story that leaves a lasting impact.
+329,Parasite,1973,Animation,9.1,A suspenseful ride packed with unexpected twists.
+330,The Godfather,2024,Drama,6.8,An emotional story that leaves a lasting impact.
+331,The Grand Budapest Hotel,1996,Action,8.1,A gripping story filled with emotion and depth.
+332,Pulp Fiction,1969,Crime,8.2,A beautifully crafted film with memorable characters.
+333,Toy Story,1958,Horror,7.3,A warm and inspiring tale of hope and resilience.
+334,The Terminator,1965,Thriller,9.2,A gripping story filled with emotion and depth.
+335,Django Unchained,1974,Horror,9.3,A suspenseful ride packed with unexpected twists.
+336,Rocky,1957,Action,9.3,A thrilling adventure that keeps you on the edge.
+337,Good Will Hunting,2013,Sci-Fi,7.4,An emotional story that leaves a lasting impact.
+338,Interstellar,1981,Thriller,9.2,A fast-paced story with intense action sequences.
+339,2001: A Space Odyssey,1975,Thriller,8.5,A suspenseful ride packed with unexpected twists.
+340,Indiana Jones and the Last Crusade,2011,Sci-Fi,8.4,A gripping story filled with emotion and depth.
+341,Black Panther,1952,Action,6.9,A warm and inspiring tale of hope and resilience.
+342,Casablanca,1974,Crime,8.9,A fast-paced story with intense action sequences.
+343,The Truman Show,1972,Drama,7.7,A suspenseful ride packed with unexpected twists.
+344,Django Unchained,1963,Animation,7.6,A thrilling adventure that keeps you on the edge.
+345,Harry Potter and the Sorcerer's Stone,2007,Action,9.4,A powerful drama exploring human relationships.
+346,Back to the Future,2004,Romance,9.5,A warm and inspiring tale of hope and resilience.
+347,A Beautiful Mind,1982,Crime,7.0,A warm and inspiring tale of hope and resilience.
+348,The Batman,1991,Crime,7.9,A thrilling adventure that keeps you on the edge.
+349,The Dark Knight,1979,Animation,7.0,An unforgettable journey of courage and discovery.
+350,The Batman,1998,Romance,9.2,An emotional story that leaves a lasting impact.
+351,Goodfellas,2021,Action,9.3,A powerful drama exploring human relationships.
+352,The Matrix,1957,Romance,8.7,An emotional story that leaves a lasting impact.
+353,The Batman,1967,Action,7.4,A thrilling adventure that keeps you on the edge.
+354,The Prestige,2005,Comedy,9.8,A visually stunning film with a heartfelt narrative.
+355,The Green Mile,2009,Horror,7.9,A fast-paced story with intense action sequences.
+356,The Godfather,1979,Romance,8.7,A gripping story filled with emotion and depth.
+357,La La Land,2013,Romance,9.5,A warm and inspiring tale of hope and resilience.
+358,Moonlight,1973,Crime,8.2,A thrilling adventure that keeps you on the edge.
+359,Django Unchained,1975,Action,7.8,An emotional story that leaves a lasting impact.
+360,The Lion King,1991,Crime,9.5,A suspenseful ride packed with unexpected twists.
+361,Back to the Future,1988,Thriller,7.9,A visually stunning film with a heartfelt narrative.
+362,Toy Story,2019,Crime,8.4,A warm and inspiring tale of hope and resilience.
+363,Slumdog Millionaire,2004,Thriller,7.3,A warm and inspiring tale of hope and resilience.
+364,Forrest Gump,1957,Thriller,9.5,A powerful drama exploring human relationships.
+365,The Truman Show,1952,Animation,8.5,An unforgettable journey of courage and discovery.
+366,The Departed,1973,Comedy,6.7,A fast-paced story with intense action sequences.
+367,Indiana Jones and the Last Crusade,2008,Drama,8.7,A gripping story filled with emotion and depth.
+368,The Big Lebowski,2021,Drama,6.6,An unforgettable journey of courage and discovery.
+369,The Terminator,1980,Comedy,8.3,An emotional story that leaves a lasting impact.
+370,Indiana Jones and the Last Crusade,2007,Romance,7.4,A thrilling adventure that keeps you on the edge.
+371,The Dark Knight,2022,Action,9.3,A fast-paced story with intense action sequences.
+372,Se7en,2009,Thriller,9.2,A suspenseful ride packed with unexpected twists.
+373,The Big Lebowski,2004,Romance,7.9,A fast-paced story with intense action sequences.
+374,Whiplash,2009,Action,7.8,A suspenseful ride packed with unexpected twists.
+375,A Beautiful Mind,1978,Crime,7.8,A fast-paced story with intense action sequences.
+376,The Green Mile,2021,Romance,9.0,A thrilling adventure that keeps you on the edge.
+377,Fight Club,1954,Action,8.3,A suspenseful ride packed with unexpected twists.
+378,The Lion King,1968,Sci-Fi,7.2,An emotional story that leaves a lasting impact.
+379,Goodfellas,2016,Crime,7.3,A thrilling adventure that keeps you on the edge.
+380,Inception,1983,Comedy,9.4,A thrilling adventure that keeps you on the edge.
+381,Django Unchained,1955,Animation,9.7,A beautifully crafted film with memorable characters.
+382,The Shawshank Redemption,2009,Crime,6.6,A thrilling adventure that keeps you on the edge.
+383,The Lord of the Rings,1971,Drama,9.6,A thrilling adventure that keeps you on the edge.
+384,Black Panther,1959,Comedy,7.3,A visually stunning film with a heartfelt narrative.
+385,The Lord of the Rings,1951,Drama,9.3,An emotional story that leaves a lasting impact.
+386,The Avengers,1993,Sci-Fi,8.7,A visually stunning film with a heartfelt narrative.
+387,The Truman Show,2015,Thriller,6.6,A suspenseful ride packed with unexpected twists.
+388,The Batman,1950,Action,8.2,A powerful drama exploring human relationships.
+389,The Wolf of Wall Street,1986,Drama,9.6,A thrilling adventure that keeps you on the edge.
+390,Joker,1968,Comedy,8.8,A gripping story filled with emotion and depth.
+391,The Truman Show,1960,Comedy,7.7,A powerful drama exploring human relationships.
+392,The Truman Show,1955,Animation,9.8,A warm and inspiring tale of hope and resilience.
+393,Parasite,1961,Animation,8.7,A fast-paced story with intense action sequences.
+394,La La Land,1974,Horror,9.5,A thrilling adventure that keeps you on the edge.
+395,Goodfellas,2019,Thriller,8.7,A powerful drama exploring human relationships.
+396,A Beautiful Mind,1986,Comedy,6.8,A fast-paced story with intense action sequences.
+397,Casablanca,2003,Romance,9.8,An unforgettable journey of courage and discovery.
+398,Jurassic Park,1986,Drama,7.3,A suspenseful ride packed with unexpected twists.
+399,Moonlight,1977,Adventure,8.7,A warm and inspiring tale of hope and resilience.
+400,Back to the Future,1960,Adventure,8.2,An unforgettable journey of courage and discovery.
+401,Her,1995,Adventure,6.6,A gripping story filled with emotion and depth.
+402,Braveheart,2014,Crime,8.1,A thrilling adventure that keeps you on the edge.
+403,Avatar,1958,Thriller,7.8,An emotional story that leaves a lasting impact.
+404,Braveheart,2010,Drama,8.0,A visually stunning film with a heartfelt narrative.
+405,The Lion King,2010,Romance,6.9,A thrilling adventure that keeps you on the edge.
+406,The Lord of the Rings,2001,Thriller,7.3,A beautifully crafted film with memorable characters.
+407,The Pianist,1952,Sci-Fi,9.5,An emotional story that leaves a lasting impact.
+408,Casablanca,2016,Thriller,7.9,A fast-paced story with intense action sequences.
+409,Whiplash,2009,Crime,8.2,A warm and inspiring tale of hope and resilience.
+410,Spirited Away,2012,Comedy,9.0,A fast-paced story with intense action sequences.
+411,The Truman Show,1996,Comedy,6.5,A visually stunning film with a heartfelt narrative.
+412,The Departed,2020,Drama,7.7,A powerful drama exploring human relationships.
+413,Toy Story,2008,Comedy,8.7,A beautifully crafted film with memorable characters.
+414,The Matrix,2011,Action,7.6,A warm and inspiring tale of hope and resilience.
+415,The Godfather,1995,Sci-Fi,8.6,A warm and inspiring tale of hope and resilience.
+416,Mad Max: Fury Road,1997,Drama,8.8,A powerful drama exploring human relationships.
+417,Mad Max: Fury Road,2007,Crime,9.6,A warm and inspiring tale of hope and resilience.
+418,Fight Club,1983,Animation,9.0,A fast-paced story with intense action sequences.
+419,Mad Max: Fury Road,2020,Adventure,9.1,A fast-paced story with intense action sequences.
+420,Casablanca,1997,Horror,7.2,A powerful drama exploring human relationships.
+421,No Country for Old Men,1985,Adventure,6.9,An unforgettable journey of courage and discovery.
+422,Avatar,1976,Adventure,9.4,An unforgettable journey of courage and discovery.
+423,Toy Story,1986,Drama,8.7,A visually stunning film with a heartfelt narrative.
+424,The Terminator,1954,Sci-Fi,9.7,A visually stunning film with a heartfelt narrative.
+425,Titanic,2018,Adventure,6.8,A powerful drama exploring human relationships.
+426,Slumdog Millionaire,2019,Drama,9.4,A beautifully crafted film with memorable characters.
+427,Jurassic Park,1964,Sci-Fi,6.7,A warm and inspiring tale of hope and resilience.
+428,Se7en,2022,Horror,9.3,A warm and inspiring tale of hope and resilience.
+429,Forrest Gump,1999,Action,9.3,A visually stunning film with a heartfelt narrative.
+430,Mad Max: Fury Road,1967,Crime,8.0,An unforgettable journey of courage and discovery.
+431,Fight Club,1954,Horror,8.3,A gripping story filled with emotion and depth.
+432,Her,2021,Action,8.8,A warm and inspiring tale of hope and resilience.
+433,Iron Man,2013,Thriller,7.7,A powerful drama exploring human relationships.
+434,Saving Private Ryan,1962,Adventure,6.6,A fast-paced story with intense action sequences.
+435,Toy Story,1968,Adventure,7.5,An unforgettable journey of courage and discovery.
+436,Jurassic Park,2009,Adventure,7.7,An unforgettable journey of courage and discovery.
+437,Se7en,1953,Drama,9.6,An unforgettable journey of courage and discovery.
+438,Mad Max: Fury Road,2011,Sci-Fi,9.2,An emotional story that leaves a lasting impact.
+439,Avatar,2003,Adventure,7.6,A beautifully crafted film with memorable characters.
+440,Moonlight,1957,Comedy,7.2,A beautifully crafted film with memorable characters.
+441,Harry Potter and the Sorcerer's Stone,1964,Sci-Fi,8.1,A beautifully crafted film with memorable characters.
+442,The Departed,2001,Drama,8.1,An unforgettable journey of courage and discovery.
+443,Interstellar,1963,Comedy,6.8,A visually stunning film with a heartfelt narrative.
+444,Moonlight,2015,Romance,7.4,A powerful drama exploring human relationships.
+445,Her,2004,Drama,8.2,A visually stunning film with a heartfelt narrative.
+446,The Silence of the Lambs,1990,Action,8.0,A warm and inspiring tale of hope and resilience.
+447,The Silence of the Lambs,2008,Romance,8.9,A visually stunning film with a heartfelt narrative.
+448,Avatar,1986,Crime,9.7,A warm and inspiring tale of hope and resilience.
+449,Django Unchained,1996,Comedy,8.0,A suspenseful ride packed with unexpected twists.
+450,The Lord of the Rings,2019,Sci-Fi,8.7,An emotional story that leaves a lasting impact.
+451,The Grand Budapest Hotel,2024,Animation,9.3,A suspenseful ride packed with unexpected twists.
+452,Pulp Fiction,1972,Adventure,8.5,A visually stunning film with a heartfelt narrative.
+453,The Terminator,1976,Thriller,6.9,A gripping story filled with emotion and depth.
+454,The Terminator,1999,Thriller,9.4,A powerful drama exploring human relationships.
+455,Gladiator,1987,Romance,8.4,A suspenseful ride packed with unexpected twists.
+456,Joker,1972,Adventure,7.9,A suspenseful ride packed with unexpected twists.
+457,2001: A Space Odyssey,1984,Drama,6.9,A beautifully crafted film with memorable characters.
+458,The Lord of the Rings,1981,Sci-Fi,8.6,A beautifully crafted film with memorable characters.
+459,Goodfellas,1993,Animation,9.7,An unforgettable journey of courage and discovery.
+460,The Matrix,2020,Romance,9.3,An emotional story that leaves a lasting impact.
+461,Goodfellas,2006,Thriller,7.8,An emotional story that leaves a lasting impact.
+462,Star Wars,2002,Action,9.7,A thrilling adventure that keeps you on the edge.
+463,No Country for Old Men,2014,Comedy,8.5,An unforgettable journey of courage and discovery.
+464,Rocky,1970,Crime,6.8,A powerful drama exploring human relationships.
+465,Fight Club,2020,Comedy,9.2,A fast-paced story with intense action sequences.
+466,The Truman Show,1972,Drama,6.7,An unforgettable journey of courage and discovery.
+467,Pulp Fiction,2017,Thriller,7.9,A fast-paced story with intense action sequences.
+468,Goodfellas,2013,Animation,7.1,A gripping story filled with emotion and depth.
+469,The Avengers,1962,Animation,8.4,A visually stunning film with a heartfelt narrative.
+470,Harry Potter and the Sorcerer's Stone,2017,Romance,9.4,A visually stunning film with a heartfelt narrative.
+471,Goodfellas,1971,Animation,9.8,An unforgettable journey of courage and discovery.
+472,The Avengers,1955,Drama,9.4,A visually stunning film with a heartfelt narrative.
+473,The Lion King,1958,Comedy,7.0,A beautifully crafted film with memorable characters.
+474,The Lion King,1994,Action,7.8,A beautifully crafted film with memorable characters.
+475,Forrest Gump,2006,Animation,7.1,A beautifully crafted film with memorable characters.
+476,The Dark Knight,2022,Sci-Fi,7.0,A powerful drama exploring human relationships.
+477,La La Land,1994,Drama,8.0,A visually stunning film with a heartfelt narrative.
+478,The Prestige,1982,Crime,8.4,A powerful drama exploring human relationships.
+479,Gladiator,1987,Romance,7.6,A thrilling adventure that keeps you on the edge.
+480,Se7en,1973,Adventure,9.1,A suspenseful ride packed with unexpected twists.
+481,Good Will Hunting,1995,Comedy,6.7,A fast-paced story with intense action sequences.
+482,The Matrix,2009,Adventure,9.4,A fast-paced story with intense action sequences.
+483,The Godfather,1987,Horror,7.8,A beautifully crafted film with memorable characters.
+484,Whiplash,2001,Sci-Fi,9.0,A fast-paced story with intense action sequences.
+485,Spirited Away,1954,Comedy,7.6,An emotional story that leaves a lasting impact.
+486,The Big Lebowski,2001,Sci-Fi,9.7,A thrilling adventure that keeps you on the edge.
+487,Her,1956,Adventure,7.9,An unforgettable journey of courage and discovery.
+488,Spirited Away,1974,Adventure,7.7,A beautifully crafted film with memorable characters.
+489,The Godfather,1965,Crime,6.9,An unforgettable journey of courage and discovery.
+490,2001: A Space Odyssey,2019,Horror,7.6,A suspenseful ride packed with unexpected twists.
+491,Back to the Future,1961,Animation,6.8,An emotional story that leaves a lasting impact.
+492,The Shawshank Redemption,1962,Animation,7.2,A powerful drama exploring human relationships.
+493,Iron Man,1950,Sci-Fi,9.6,A powerful drama exploring human relationships.
+494,Titanic,2023,Crime,8.7,A thrilling adventure that keeps you on the edge.
+495,Her,1988,Sci-Fi,8.9,A suspenseful ride packed with unexpected twists.
+496,Inception,2021,Drama,7.5,A warm and inspiring tale of hope and resilience.
+497,Joker,1951,Romance,8.2,A powerful drama exploring human relationships.
+498,Rocky,1964,Adventure,9.3,An unforgettable journey of courage and discovery.
+499,A Beautiful Mind,1959,Thriller,8.7,A warm and inspiring tale of hope and resilience.
+500,Good Will Hunting,1972,Action,7.3,A thrilling adventure that keeps you on the edge.
+501,Forrest Gump,1989,Romance,9.3,A powerful drama exploring human relationships.
+502,Braveheart,1995,Romance,7.1,A suspenseful ride packed with unexpected twists.
+503,Casablanca,1996,Adventure,6.7,A visually stunning film with a heartfelt narrative.
+504,Harry Potter and the Sorcerer's Stone,1996,Animation,9.0,A fast-paced story with intense action sequences.
+505,Joker,1954,Horror,9.6,A fast-paced story with intense action sequences.
+506,The Terminator,2007,Animation,7.0,A powerful drama exploring human relationships.
+507,The Departed,2005,Sci-Fi,9.0,A visually stunning film with a heartfelt narrative.
+508,The Silence of the Lambs,1977,Horror,7.0,A beautifully crafted film with memorable characters.
+509,The Matrix,1951,Comedy,8.3,A beautifully crafted film with memorable characters.
+510,Her,2014,Adventure,7.0,An emotional story that leaves a lasting impact.
+511,Titanic,1988,Animation,9.0,A visually stunning film with a heartfelt narrative.
+512,Braveheart,1990,Comedy,8.4,A warm and inspiring tale of hope and resilience.
+513,Django Unchained,1994,Animation,7.6,An unforgettable journey of courage and discovery.
+514,Moonlight,1968,Comedy,9.4,A suspenseful ride packed with unexpected twists.
+515,Harry Potter and the Sorcerer's Stone,1964,Action,8.8,A visually stunning film with a heartfelt narrative.
+516,Her,1995,Crime,7.9,A fast-paced story with intense action sequences.
+517,Back to the Future,2004,Romance,9.3,A visually stunning film with a heartfelt narrative.
+518,Forrest Gump,1980,Horror,7.5,A gripping story filled with emotion and depth.
+519,Indiana Jones and the Last Crusade,1988,Action,7.8,A warm and inspiring tale of hope and resilience.
+520,The Lion King,1956,Animation,7.3,A thrilling adventure that keeps you on the edge.
+521,The Prestige,2010,Sci-Fi,7.2,A fast-paced story with intense action sequences.
+522,Toy Story,1951,Romance,7.6,A warm and inspiring tale of hope and resilience.
+523,A Beautiful Mind,1996,Horror,6.8,An emotional story that leaves a lasting impact.
+524,Whiplash,1962,Horror,8.4,An emotional story that leaves a lasting impact.
+525,The Dark Knight,1957,Crime,7.0,An emotional story that leaves a lasting impact.
+526,Se7en,2019,Comedy,9.2,A visually stunning film with a heartfelt narrative.
+527,Toy Story,1980,Adventure,8.9,A beautifully crafted film with memorable characters.
+528,Fight Club,1960,Horror,7.3,An unforgettable journey of courage and discovery.
+529,The Big Lebowski,2021,Horror,8.8,An emotional story that leaves a lasting impact.
+530,Casablanca,1968,Animation,9.3,A beautifully crafted film with memorable characters.
+531,The Prestige,2015,Drama,8.9,A gripping story filled with emotion and depth.
+532,The Silence of the Lambs,2000,Drama,8.6,An emotional story that leaves a lasting impact.
+533,Django Unchained,1954,Crime,9.3,A thrilling adventure that keeps you on the edge.
+534,Forrest Gump,1978,Adventure,8.3,A visually stunning film with a heartfelt narrative.
+535,Forrest Gump,2024,Sci-Fi,7.3,A suspenseful ride packed with unexpected twists.
+536,Her,2002,Adventure,9.2,A fast-paced story with intense action sequences.
+537,No Country for Old Men,1971,Horror,8.7,A suspenseful ride packed with unexpected twists.
+538,Django Unchained,1985,Action,9.4,A gripping story filled with emotion and depth.
+539,The Social Network,1998,Crime,7.6,A fast-paced story with intense action sequences.
+540,No Country for Old Men,1973,Drama,8.9,A visually stunning film with a heartfelt narrative.
+541,The Batman,1970,Drama,8.9,A warm and inspiring tale of hope and resilience.
+542,The Pianist,1994,Romance,7.7,A beautifully crafted film with memorable characters.
+543,Slumdog Millionaire,2014,Crime,8.5,A fast-paced story with intense action sequences.
+544,Se7en,1953,Crime,8.5,A beautifully crafted film with memorable characters.
+545,The Batman,1985,Horror,8.9,A warm and inspiring tale of hope and resilience.
+546,The Lion King,1971,Comedy,8.8,A fast-paced story with intense action sequences.
+547,Goodfellas,2015,Horror,7.4,A warm and inspiring tale of hope and resilience.
+548,Moonlight,1954,Sci-Fi,6.8,A thrilling adventure that keeps you on the edge.
+549,Forrest Gump,1959,Romance,8.1,A thrilling adventure that keeps you on the edge.
+550,Indiana Jones and the Last Crusade,2012,Animation,8.5,A suspenseful ride packed with unexpected twists.
+551,La La Land,1971,Romance,8.0,An unforgettable journey of courage and discovery.
+552,Whiplash,2015,Action,6.7,An emotional story that leaves a lasting impact.
+553,Inception,1998,Adventure,7.5,A warm and inspiring tale of hope and resilience.
+554,Casablanca,1960,Action,7.0,A beautifully crafted film with memorable characters.
+555,The Grand Budapest Hotel,1969,Thriller,7.0,A fast-paced story with intense action sequences.
+556,Pulp Fiction,1991,Horror,9.4,An emotional story that leaves a lasting impact.
+557,Shutter Island,1953,Thriller,9.1,An unforgettable journey of courage and discovery.
+558,The Pianist,1973,Sci-Fi,7.7,A fast-paced story with intense action sequences.
+559,The Terminator,1959,Drama,8.0,A fast-paced story with intense action sequences.
+560,Django Unchained,1953,Drama,7.3,An emotional story that leaves a lasting impact.
+561,Django Unchained,2020,Drama,9.7,A visually stunning film with a heartfelt narrative.
+562,Inception,2008,Thriller,6.5,A suspenseful ride packed with unexpected twists.
+563,The Truman Show,1983,Action,8.6,A gripping story filled with emotion and depth.
+564,The Departed,2024,Horror,9.6,A beautifully crafted film with memorable characters.
+565,The Matrix,1966,Horror,9.0,An emotional story that leaves a lasting impact.
+566,Iron Man,1953,Crime,8.7,A powerful drama exploring human relationships.
+567,Forrest Gump,1985,Horror,9.2,An unforgettable journey of courage and discovery.
+568,The Big Lebowski,1983,Romance,8.0,A fast-paced story with intense action sequences.
+569,Pulp Fiction,1987,Horror,9.8,An emotional story that leaves a lasting impact.
+570,Harry Potter and the Sorcerer's Stone,1976,Crime,8.7,A visually stunning film with a heartfelt narrative.
+571,Parasite,1985,Comedy,8.7,An unforgettable journey of courage and discovery.
+572,Slumdog Millionaire,2023,Romance,8.0,A thrilling adventure that keeps you on the edge.
+573,The Green Mile,2011,Comedy,7.9,A beautifully crafted film with memorable characters.
+574,The Grand Budapest Hotel,1965,Adventure,9.2,A thrilling adventure that keeps you on the edge.
+575,Forrest Gump,2009,Comedy,9.0,An unforgettable journey of courage and discovery.
+576,The Lord of the Rings,1983,Action,8.2,An unforgettable journey of courage and discovery.
+577,The Truman Show,2013,Horror,8.8,A suspenseful ride packed with unexpected twists.
+578,Casablanca,1999,Comedy,7.2,A powerful drama exploring human relationships.
+579,Casablanca,1967,Thriller,7.5,A warm and inspiring tale of hope and resilience.
+580,Good Will Hunting,1993,Sci-Fi,8.1,A gripping story filled with emotion and depth.
+581,Avatar,2020,Action,7.9,A beautifully crafted film with memorable characters.
+582,Rocky,1964,Horror,6.9,A suspenseful ride packed with unexpected twists.
+583,Indiana Jones and the Last Crusade,1983,Horror,8.9,An unforgettable journey of courage and discovery.
+584,Forrest Gump,2015,Comedy,7.2,A fast-paced story with intense action sequences.
+585,The Shawshank Redemption,1996,Crime,7.2,An unforgettable journey of courage and discovery.
+586,The Big Lebowski,1975,Horror,7.9,A thrilling adventure that keeps you on the edge.
+587,The Terminator,1976,Horror,7.2,A powerful drama exploring human relationships.
+588,Spirited Away,1951,Adventure,7.6,An unforgettable journey of courage and discovery.
+589,Inception,1968,Comedy,9.0,A beautifully crafted film with memorable characters.
+590,Indiana Jones and the Last Crusade,1978,Comedy,7.9,A visually stunning film with a heartfelt narrative.
+591,The Pianist,2014,Sci-Fi,7.6,A gripping story filled with emotion and depth.
+592,Whiplash,2007,Thriller,6.9,A warm and inspiring tale of hope and resilience.
+593,Her,1961,Drama,7.3,A suspenseful ride packed with unexpected twists.
+594,Interstellar,1973,Comedy,8.4,A gripping story filled with emotion and depth.
+595,The Prestige,2018,Thriller,7.4,A thrilling adventure that keeps you on the edge.
+596,The Lion King,1950,Drama,7.5,A beautifully crafted film with memorable characters.
+597,Joker,1980,Crime,6.6,A visually stunning film with a heartfelt narrative.
+598,Slumdog Millionaire,2001,Thriller,6.5,A thrilling adventure that keeps you on the edge.
+599,The Batman,2013,Sci-Fi,7.9,An emotional story that leaves a lasting impact.
+600,The Lion King,1966,Romance,8.4,A visually stunning film with a heartfelt narrative.
+601,The Dark Knight,1991,Crime,9.4,A fast-paced story with intense action sequences.
+602,Her,1950,Thriller,8.9,An emotional story that leaves a lasting impact.
+603,The Big Lebowski,2009,Animation,7.1,A fast-paced story with intense action sequences.
+604,Harry Potter and the Sorcerer's Stone,2001,Action,6.6,A suspenseful ride packed with unexpected twists.
+605,The Departed,1974,Romance,9.8,A gripping story filled with emotion and depth.
+606,Slumdog Millionaire,1953,Crime,8.1,A gripping story filled with emotion and depth.
+607,The Lord of the Rings,1968,Romance,6.8,A fast-paced story with intense action sequences.
+608,The Terminator,1964,Thriller,8.2,A fast-paced story with intense action sequences.
+609,The Avengers,1978,Comedy,9.2,A beautifully crafted film with memorable characters.
+610,Pulp Fiction,1976,Horror,9.8,An emotional story that leaves a lasting impact.
+611,Toy Story,2006,Animation,9.7,A visually stunning film with a heartfelt narrative.
+612,The Wolf of Wall Street,1983,Romance,8.7,An emotional story that leaves a lasting impact.
+613,Black Panther,1981,Thriller,9.5,A powerful drama exploring human relationships.
+614,Forrest Gump,1954,Action,8.7,An emotional story that leaves a lasting impact.
+615,The Lord of the Rings,1978,Horror,7.8,A gripping story filled with emotion and depth.
+616,2001: A Space Odyssey,1969,Crime,7.1,An unforgettable journey of courage and discovery.
+617,Casablanca,1964,Horror,8.0,A suspenseful ride packed with unexpected twists.
+618,Her,1962,Action,8.9,A warm and inspiring tale of hope and resilience.
+619,The Green Mile,1961,Thriller,9.0,A suspenseful ride packed with unexpected twists.
+620,Forrest Gump,2018,Sci-Fi,6.9,A beautifully crafted film with memorable characters.
+621,Slumdog Millionaire,1975,Action,8.1,A beautifully crafted film with memorable characters.
+622,2001: A Space Odyssey,2018,Drama,7.6,A thrilling adventure that keeps you on the edge.
+623,Whiplash,1999,Drama,7.2,An emotional story that leaves a lasting impact.
+624,Mad Max: Fury Road,1975,Romance,7.0,A fast-paced story with intense action sequences.
+625,Back to the Future,1973,Adventure,7.5,A warm and inspiring tale of hope and resilience.
+626,Se7en,1986,Adventure,8.2,A powerful drama exploring human relationships.
+627,Rocky,1973,Thriller,8.6,A visually stunning film with a heartfelt narrative.
+628,The Grand Budapest Hotel,2011,Animation,6.5,An unforgettable journey of courage and discovery.
+629,Harry Potter and the Sorcerer's Stone,1975,Adventure,7.6,A suspenseful ride packed with unexpected twists.
+630,The Batman,2020,Sci-Fi,8.1,An unforgettable journey of courage and discovery.
+631,Spirited Away,2021,Thriller,9.2,A suspenseful ride packed with unexpected twists.
+632,The Batman,1967,Sci-Fi,8.5,A thrilling adventure that keeps you on the edge.
+633,Mad Max: Fury Road,1996,Sci-Fi,8.9,A warm and inspiring tale of hope and resilience.
+634,The Lion King,2013,Thriller,9.3,A suspenseful ride packed with unexpected twists.
+635,The Big Lebowski,1950,Crime,8.7,A gripping story filled with emotion and depth.
+636,Indiana Jones and the Last Crusade,1957,Comedy,9.0,A beautifully crafted film with memorable characters.
+637,The Batman,1989,Adventure,6.9,A warm and inspiring tale of hope and resilience.
+638,The Matrix,1961,Action,7.6,A gripping story filled with emotion and depth.
+639,Saving Private Ryan,1969,Thriller,9.5,A warm and inspiring tale of hope and resilience.
+640,Joker,2022,Drama,7.8,A beautifully crafted film with memorable characters.
+641,Pulp Fiction,1962,Animation,6.9,A beautifully crafted film with memorable characters.
+642,Spirited Away,1964,Animation,7.8,A thrilling adventure that keeps you on the edge.
+643,Casablanca,2002,Comedy,6.7,A suspenseful ride packed with unexpected twists.
+644,A Beautiful Mind,1979,Sci-Fi,7.9,A suspenseful ride packed with unexpected twists.
+645,Toy Story,1956,Comedy,6.6,An emotional story that leaves a lasting impact.
+646,Her,2007,Sci-Fi,7.9,A visually stunning film with a heartfelt narrative.
+647,Spirited Away,2004,Romance,9.0,An emotional story that leaves a lasting impact.
+648,Slumdog Millionaire,1951,Animation,6.8,A warm and inspiring tale of hope and resilience.
+649,The Big Lebowski,2024,Crime,8.4,A suspenseful ride packed with unexpected twists.
+650,The Silence of the Lambs,1978,Thriller,9.1,A powerful drama exploring human relationships.
+651,Star Wars,1956,Romance,9.0,A gripping story filled with emotion and depth.
+652,The Batman,1986,Comedy,6.9,A powerful drama exploring human relationships.
+653,The Wolf of Wall Street,2007,Sci-Fi,9.2,An emotional story that leaves a lasting impact.
+654,Braveheart,1969,Action,7.6,A warm and inspiring tale of hope and resilience.
+655,The Prestige,2020,Crime,7.0,A suspenseful ride packed with unexpected twists.
+656,The Godfather,1969,Adventure,8.5,A powerful drama exploring human relationships.
+657,Whiplash,1953,Adventure,8.7,A suspenseful ride packed with unexpected twists.
+658,Black Panther,1976,Horror,8.0,A beautifully crafted film with memorable characters.
+659,The Lion King,1996,Romance,9.4,A beautifully crafted film with memorable characters.
+660,The Grand Budapest Hotel,2022,Action,6.6,An unforgettable journey of courage and discovery.
+661,The Truman Show,2004,Animation,8.8,A warm and inspiring tale of hope and resilience.
+662,Her,2018,Crime,9.0,A beautifully crafted film with memorable characters.
+663,No Country for Old Men,2013,Sci-Fi,7.0,A thrilling adventure that keeps you on the edge.
+664,Parasite,1994,Drama,9.6,A thrilling adventure that keeps you on the edge.
+665,The Shawshank Redemption,1983,Animation,7.2,An emotional story that leaves a lasting impact.
+666,Indiana Jones and the Last Crusade,1983,Romance,8.9,An unforgettable journey of courage and discovery.
+667,The Avengers,1974,Drama,7.9,A gripping story filled with emotion and depth.
+668,Saving Private Ryan,1951,Crime,8.0,A thrilling adventure that keeps you on the edge.
+669,The Truman Show,1950,Drama,8.9,A suspenseful ride packed with unexpected twists.
+670,Slumdog Millionaire,2012,Animation,6.8,An unforgettable journey of courage and discovery.
+671,A Beautiful Mind,1954,Sci-Fi,8.6,A fast-paced story with intense action sequences.
+672,Interstellar,1951,Sci-Fi,9.6,An unforgettable journey of courage and discovery.
+673,Se7en,2017,Crime,6.6,A suspenseful ride packed with unexpected twists.
+674,Moonlight,1955,Drama,9.4,A suspenseful ride packed with unexpected twists.
+675,Forrest Gump,2005,Sci-Fi,7.3,A gripping story filled with emotion and depth.
+676,Toy Story,1994,Adventure,8.8,A fast-paced story with intense action sequences.
+677,Shutter Island,2018,Crime,8.4,A gripping story filled with emotion and depth.
+678,Joker,1988,Crime,7.7,An emotional story that leaves a lasting impact.
+679,The Social Network,1981,Crime,7.9,A fast-paced story with intense action sequences.
+680,The Lord of the Rings,1999,Thriller,9.7,An emotional story that leaves a lasting impact.
+681,Jurassic Park,1967,Romance,7.6,A visually stunning film with a heartfelt narrative.
+682,Gladiator,2003,Comedy,9.3,A beautifully crafted film with memorable characters.
+683,The Lord of the Rings,1983,Sci-Fi,7.9,A thrilling adventure that keeps you on the edge.
+684,Forrest Gump,2005,Action,9.8,A gripping story filled with emotion and depth.
+685,The Terminator,1994,Thriller,6.6,A powerful drama exploring human relationships.
+686,Moonlight,1954,Comedy,6.8,A powerful drama exploring human relationships.
+687,Iron Man,1989,Sci-Fi,9.8,A warm and inspiring tale of hope and resilience.
+688,A Beautiful Mind,1959,Thriller,7.4,A warm and inspiring tale of hope and resilience.
+689,Toy Story,1993,Horror,8.9,A warm and inspiring tale of hope and resilience.
+690,Pulp Fiction,1969,Romance,7.0,A suspenseful ride packed with unexpected twists.
+691,No Country for Old Men,1950,Romance,7.0,A gripping story filled with emotion and depth.
+692,Saving Private Ryan,1962,Romance,9.4,A warm and inspiring tale of hope and resilience.
+693,Mad Max: Fury Road,1975,Horror,9.4,A gripping story filled with emotion and depth.
+694,The Batman,1952,Horror,7.0,An unforgettable journey of courage and discovery.
+695,The Shawshank Redemption,1974,Crime,6.8,An unforgettable journey of courage and discovery.
+696,Spirited Away,2004,Horror,7.1,An emotional story that leaves a lasting impact.
+697,The Big Lebowski,2005,Horror,8.8,An unforgettable journey of courage and discovery.
+698,Indiana Jones and the Last Crusade,2022,Adventure,9.7,A thrilling adventure that keeps you on the edge.
+699,A Beautiful Mind,2004,Thriller,9.4,An emotional story that leaves a lasting impact.
+700,Casablanca,1952,Thriller,8.3,A thrilling adventure that keeps you on the edge.
+701,The Godfather,1958,Drama,7.7,A suspenseful ride packed with unexpected twists.
+702,Back to the Future,1984,Action,8.8,A fast-paced story with intense action sequences.
+703,Shutter Island,1972,Thriller,8.3,A fast-paced story with intense action sequences.
+704,Indiana Jones and the Last Crusade,1958,Horror,7.8,A beautifully crafted film with memorable characters.
+705,Saving Private Ryan,2015,Romance,9.3,A powerful drama exploring human relationships.
+706,The Grand Budapest Hotel,2018,Sci-Fi,9.7,A gripping story filled with emotion and depth.
+707,The Avengers,1994,Drama,9.4,A fast-paced story with intense action sequences.
+708,Slumdog Millionaire,1956,Crime,6.7,An unforgettable journey of courage and discovery.
+709,A Beautiful Mind,1993,Romance,7.1,An unforgettable journey of courage and discovery.
+710,Star Wars,2010,Drama,9.3,A warm and inspiring tale of hope and resilience.
+711,Moonlight,1962,Thriller,8.4,A fast-paced story with intense action sequences.
+712,The Avengers,1976,Romance,8.3,A beautifully crafted film with memorable characters.
+713,Toy Story,1991,Animation,9.2,A suspenseful ride packed with unexpected twists.
+714,No Country for Old Men,1987,Animation,9.1,A gripping story filled with emotion and depth.
+715,Inception,1995,Comedy,9.4,A fast-paced story with intense action sequences.
+716,Her,1996,Crime,9.2,A warm and inspiring tale of hope and resilience.
+717,Django Unchained,1978,Sci-Fi,9.7,A fast-paced story with intense action sequences.
+718,No Country for Old Men,2022,Adventure,7.5,A powerful drama exploring human relationships.
+719,The Prestige,2007,Romance,9.8,A warm and inspiring tale of hope and resilience.
+720,Her,1972,Drama,8.9,A warm and inspiring tale of hope and resilience.
+721,2001: A Space Odyssey,1989,Romance,9.2,A powerful drama exploring human relationships.
+722,Whiplash,2024,Comedy,9.3,A thrilling adventure that keeps you on the edge.
+723,Slumdog Millionaire,2004,Action,7.0,A thrilling adventure that keeps you on the edge.
+724,The Grand Budapest Hotel,2024,Horror,7.3,A suspenseful ride packed with unexpected twists.
+725,Parasite,1961,Romance,7.3,A gripping story filled with emotion and depth.
+726,The Truman Show,1977,Horror,8.4,An emotional story that leaves a lasting impact.
+727,The Terminator,2005,Romance,8.4,A suspenseful ride packed with unexpected twists.
+728,Back to the Future,2003,Horror,9.4,A thrilling adventure that keeps you on the edge.
+729,The Lion King,2005,Thriller,7.3,A warm and inspiring tale of hope and resilience.
+730,Forrest Gump,1961,Adventure,9.1,A powerful drama exploring human relationships.
+731,The Social Network,1962,Drama,8.6,A powerful drama exploring human relationships.
+732,The Godfather,2000,Comedy,9.8,A thrilling adventure that keeps you on the edge.
+733,Inception,2021,Action,7.8,A gripping story filled with emotion and depth.
+734,The Matrix,1952,Thriller,8.8,A powerful drama exploring human relationships.
+735,Saving Private Ryan,1986,Thriller,9.5,A powerful drama exploring human relationships.
+736,Moonlight,1975,Romance,7.0,A thrilling adventure that keeps you on the edge.
+737,The Pianist,1967,Drama,9.2,An unforgettable journey of courage and discovery.
+738,Avatar,1979,Drama,9.2,A suspenseful ride packed with unexpected twists.
+739,A Beautiful Mind,1980,Drama,9.5,A suspenseful ride packed with unexpected twists.
+740,The Lion King,1952,Crime,9.0,A suspenseful ride packed with unexpected twists.
+741,Toy Story,1961,Drama,7.6,A gripping story filled with emotion and depth.
+742,Mad Max: Fury Road,1956,Romance,9.2,A warm and inspiring tale of hope and resilience.
+743,The Pianist,1995,Sci-Fi,6.7,A fast-paced story with intense action sequences.
+744,The Pianist,1991,Romance,9.6,A thrilling adventure that keeps you on the edge.
+745,Saving Private Ryan,1963,Thriller,7.9,A suspenseful ride packed with unexpected twists.
+746,Gladiator,1991,Thriller,8.5,An unforgettable journey of courage and discovery.
+747,Harry Potter and the Sorcerer's Stone,1956,Crime,7.2,A powerful drama exploring human relationships.
+748,The Pianist,1984,Comedy,8.2,A suspenseful ride packed with unexpected twists.
+749,Avatar,2007,Sci-Fi,8.1,A powerful drama exploring human relationships.
+750,Iron Man,2008,Comedy,7.6,A thrilling adventure that keeps you on the edge.
+751,Interstellar,2019,Adventure,8.3,A beautifully crafted film with memorable characters.
+752,Harry Potter and the Sorcerer's Stone,2009,Comedy,8.1,A powerful drama exploring human relationships.
+753,Good Will Hunting,1977,Adventure,7.3,An unforgettable journey of courage and discovery.
+754,The Wolf of Wall Street,1992,Animation,9.4,A thrilling adventure that keeps you on the edge.
+755,Interstellar,2004,Adventure,7.9,A fast-paced story with intense action sequences.
+756,Se7en,1967,Romance,8.6,A fast-paced story with intense action sequences.
+757,The Dark Knight,2003,Adventure,9.6,A powerful drama exploring human relationships.
+758,La La Land,1989,Drama,9.5,A warm and inspiring tale of hope and resilience.
+759,Black Panther,2019,Animation,9.4,A warm and inspiring tale of hope and resilience.
+760,The Wolf of Wall Street,2000,Drama,7.6,An unforgettable journey of courage and discovery.
+761,Joker,1987,Animation,8.7,A warm and inspiring tale of hope and resilience.
+762,Harry Potter and the Sorcerer's Stone,1957,Animation,8.8,An unforgettable journey of courage and discovery.
+763,Good Will Hunting,1973,Horror,7.4,An emotional story that leaves a lasting impact.
+764,Harry Potter and the Sorcerer's Stone,1951,Crime,7.8,A fast-paced story with intense action sequences.
+765,The Godfather,1963,Drama,8.1,A visually stunning film with a heartfelt narrative.
+766,Se7en,2023,Drama,7.8,A suspenseful ride packed with unexpected twists.
+767,Spirited Away,1978,Action,8.8,A powerful drama exploring human relationships.
+768,Black Panther,1999,Crime,9.7,A beautifully crafted film with memorable characters.
+769,Spirited Away,1981,Thriller,9.3,A warm and inspiring tale of hope and resilience.
+770,La La Land,1992,Action,6.6,A thrilling adventure that keeps you on the edge.
+771,The Dark Knight,1982,Crime,9.6,An unforgettable journey of courage and discovery.
+772,Whiplash,1956,Crime,8.8,A gripping story filled with emotion and depth.
+773,The Batman,2009,Sci-Fi,7.4,A fast-paced story with intense action sequences.
+774,Back to the Future,1996,Action,8.5,A thrilling adventure that keeps you on the edge.
+775,The Truman Show,1974,Thriller,8.7,A powerful drama exploring human relationships.
+776,La La Land,1995,Drama,9.6,An unforgettable journey of courage and discovery.
+777,Titanic,1955,Sci-Fi,6.8,A visually stunning film with a heartfelt narrative.
+778,Fight Club,1970,Comedy,7.5,A gripping story filled with emotion and depth.
+779,The Lord of the Rings,1992,Crime,6.6,A suspenseful ride packed with unexpected twists.
+780,Casablanca,2001,Animation,9.0,An emotional story that leaves a lasting impact.
+781,Toy Story,1992,Action,7.7,A warm and inspiring tale of hope and resilience.
+782,Se7en,1964,Crime,9.1,A gripping story filled with emotion and depth.
+783,The Dark Knight,2013,Animation,9.3,A suspenseful ride packed with unexpected twists.
+784,The Silence of the Lambs,1989,Adventure,6.7,An unforgettable journey of courage and discovery.
+785,The Prestige,2005,Romance,9.7,An unforgettable journey of courage and discovery.
+786,2001: A Space Odyssey,1958,Thriller,7.9,A fast-paced story with intense action sequences.
+787,Forrest Gump,1985,Crime,9.3,A suspenseful ride packed with unexpected twists.
+788,La La Land,1981,Adventure,8.4,An emotional story that leaves a lasting impact.
+789,La La Land,1962,Thriller,6.9,An unforgettable journey of courage and discovery.
+790,The Shawshank Redemption,2001,Thriller,8.0,A warm and inspiring tale of hope and resilience.
+791,Spirited Away,1963,Horror,8.5,A warm and inspiring tale of hope and resilience.
+792,Interstellar,2015,Adventure,6.9,An emotional story that leaves a lasting impact.
+793,The Truman Show,2005,Horror,8.3,A warm and inspiring tale of hope and resilience.
+794,Indiana Jones and the Last Crusade,1955,Action,7.8,A warm and inspiring tale of hope and resilience.
+795,The Prestige,1951,Comedy,9.0,A visually stunning film with a heartfelt narrative.
+796,The Lion King,1993,Drama,8.5,An emotional story that leaves a lasting impact.
+797,The Prestige,2012,Comedy,8.3,A thrilling adventure that keeps you on the edge.
+798,The Lion King,1997,Adventure,6.9,A fast-paced story with intense action sequences.
+799,Joker,1971,Animation,6.7,A suspenseful ride packed with unexpected twists.
+800,Gladiator,1973,Romance,6.6,A thrilling adventure that keeps you on the edge.
+801,Slumdog Millionaire,1998,Romance,9.5,A fast-paced story with intense action sequences.
+802,The Green Mile,2012,Crime,8.8,A gripping story filled with emotion and depth.
+803,Good Will Hunting,1987,Horror,7.0,A suspenseful ride packed with unexpected twists.
+804,The Social Network,2020,Adventure,9.2,A powerful drama exploring human relationships.
+805,The Dark Knight,1959,Horror,7.5,An unforgettable journey of courage and discovery.
+806,Back to the Future,1989,Thriller,8.7,A suspenseful ride packed with unexpected twists.
+807,The Big Lebowski,1953,Crime,9.7,A suspenseful ride packed with unexpected twists.
+808,The Dark Knight,2000,Crime,8.4,A thrilling adventure that keeps you on the edge.
+809,Rocky,1982,Romance,9.6,A gripping story filled with emotion and depth.
+810,Jurassic Park,1966,Crime,8.1,A warm and inspiring tale of hope and resilience.
+811,Forrest Gump,2001,Adventure,9.0,A visually stunning film with a heartfelt narrative.
+812,The Avengers,1995,Animation,7.5,An emotional story that leaves a lasting impact.
+813,Avatar,1974,Adventure,8.8,A warm and inspiring tale of hope and resilience.
+814,Indiana Jones and the Last Crusade,1983,Sci-Fi,6.7,An emotional story that leaves a lasting impact.
+815,The Departed,1965,Drama,7.0,A suspenseful ride packed with unexpected twists.
+816,Indiana Jones and the Last Crusade,2012,Thriller,9.1,A thrilling adventure that keeps you on the edge.
+817,Pulp Fiction,1967,Comedy,6.6,A warm and inspiring tale of hope and resilience.
+818,The Avengers,1974,Crime,7.7,A beautifully crafted film with memorable characters.
+819,The Shawshank Redemption,2022,Romance,6.8,A fast-paced story with intense action sequences.
+820,Back to the Future,2007,Animation,8.4,A visually stunning film with a heartfelt narrative.
+821,No Country for Old Men,1967,Crime,7.8,A fast-paced story with intense action sequences.
+822,Titanic,2003,Horror,9.6,An unforgettable journey of courage and discovery.
+823,The Avengers,2023,Animation,9.2,A visually stunning film with a heartfelt narrative.
+824,Saving Private Ryan,1969,Drama,6.7,An unforgettable journey of courage and discovery.
+825,La La Land,1991,Romance,9.0,A suspenseful ride packed with unexpected twists.
+826,Joker,1975,Adventure,8.1,A thrilling adventure that keeps you on the edge.
+827,The Green Mile,1968,Animation,7.6,A beautifully crafted film with memorable characters.
+828,2001: A Space Odyssey,1957,Animation,6.7,A powerful drama exploring human relationships.
+829,The Terminator,1980,Drama,7.2,A powerful drama exploring human relationships.
+830,The Departed,2008,Crime,8.0,A thrilling adventure that keeps you on the edge.
+831,The Truman Show,2009,Action,9.0,An emotional story that leaves a lasting impact.
+832,Harry Potter and the Sorcerer's Stone,2001,Thriller,9.3,A beautifully crafted film with memorable characters.
+833,Indiana Jones and the Last Crusade,2017,Romance,7.2,A suspenseful ride packed with unexpected twists.
+834,Titanic,1969,Animation,8.9,A fast-paced story with intense action sequences.
+835,Interstellar,1953,Drama,7.1,A warm and inspiring tale of hope and resilience.
+836,Gladiator,1986,Comedy,7.7,A suspenseful ride packed with unexpected twists.
+837,The Terminator,1975,Crime,9.4,A gripping story filled with emotion and depth.
+838,The Big Lebowski,2001,Sci-Fi,6.9,A suspenseful ride packed with unexpected twists.
+839,Toy Story,1964,Drama,7.1,A beautifully crafted film with memorable characters.
+840,Pulp Fiction,1986,Action,6.8,A warm and inspiring tale of hope and resilience.
+841,Casablanca,1952,Sci-Fi,7.6,A thrilling adventure that keeps you on the edge.
+842,Shutter Island,2018,Sci-Fi,7.3,A gripping story filled with emotion and depth.
+843,Titanic,1983,Sci-Fi,9.3,A visually stunning film with a heartfelt narrative.
+844,Rocky,2003,Comedy,7.1,A visually stunning film with a heartfelt narrative.
+845,The Avengers,2012,Adventure,7.9,A beautifully crafted film with memorable characters.
+846,Whiplash,1953,Animation,6.8,An unforgettable journey of courage and discovery.
+847,Harry Potter and the Sorcerer's Stone,1950,Crime,7.8,A suspenseful ride packed with unexpected twists.
+848,Black Panther,1993,Crime,7.7,A warm and inspiring tale of hope and resilience.
+849,Se7en,1990,Thriller,7.6,A suspenseful ride packed with unexpected twists.
+850,The Terminator,1978,Thriller,6.9,A visually stunning film with a heartfelt narrative.
+851,Rocky,1952,Action,8.9,A visually stunning film with a heartfelt narrative.
+852,Good Will Hunting,1988,Animation,7.9,A warm and inspiring tale of hope and resilience.
+853,The Truman Show,1982,Crime,8.7,A gripping story filled with emotion and depth.
+854,Good Will Hunting,1990,Drama,8.4,An unforgettable journey of courage and discovery.
+855,Casablanca,2007,Action,8.3,A visually stunning film with a heartfelt narrative.
+856,Braveheart,1990,Action,7.7,A thrilling adventure that keeps you on the edge.
+857,Shutter Island,1985,Drama,7.0,A visually stunning film with a heartfelt narrative.
+858,Moonlight,1980,Drama,8.3,A warm and inspiring tale of hope and resilience.
+859,Her,1961,Romance,9.1,A fast-paced story with intense action sequences.
+860,Parasite,1990,Animation,8.3,A powerful drama exploring human relationships.
+861,Harry Potter and the Sorcerer's Stone,1958,Drama,8.2,An emotional story that leaves a lasting impact.
+862,Pulp Fiction,2014,Horror,8.8,A visually stunning film with a heartfelt narrative.
+863,The Departed,1963,Sci-Fi,7.5,A powerful drama exploring human relationships.
+864,The Social Network,1965,Crime,7.1,A warm and inspiring tale of hope and resilience.
+865,Star Wars,1953,Sci-Fi,8.3,A beautifully crafted film with memorable characters.
+866,The Dark Knight,1951,Action,7.7,A suspenseful ride packed with unexpected twists.
+867,The Social Network,2000,Thriller,8.6,An unforgettable journey of courage and discovery.
+868,Parasite,2003,Action,7.5,A thrilling adventure that keeps you on the edge.
+869,La La Land,1956,Sci-Fi,8.8,A fast-paced story with intense action sequences.
+870,A Beautiful Mind,2006,Crime,9.2,A powerful drama exploring human relationships.
+871,The Pianist,2000,Crime,7.5,A visually stunning film with a heartfelt narrative.
+872,The Shawshank Redemption,1996,Romance,9.7,An emotional story that leaves a lasting impact.
+873,Shutter Island,1955,Comedy,8.2,A thrilling adventure that keeps you on the edge.
+874,Casablanca,2016,Horror,7.0,An unforgettable journey of courage and discovery.
+875,Joker,2009,Thriller,8.4,An emotional story that leaves a lasting impact.
+876,Her,2013,Sci-Fi,7.3,A fast-paced story with intense action sequences.
+877,The Wolf of Wall Street,1972,Comedy,6.6,A gripping story filled with emotion and depth.
+878,The Truman Show,1999,Romance,9.7,A fast-paced story with intense action sequences.
+879,Avatar,1985,Action,7.4,An unforgettable journey of courage and discovery.
+880,Se7en,2005,Thriller,7.1,An emotional story that leaves a lasting impact.
+881,The Wolf of Wall Street,2022,Crime,7.6,An unforgettable journey of courage and discovery.
+882,2001: A Space Odyssey,1962,Sci-Fi,9.4,An unforgettable journey of courage and discovery.
+883,Rocky,1972,Horror,7.0,An unforgettable journey of courage and discovery.
+884,Jurassic Park,2005,Horror,8.5,A suspenseful ride packed with unexpected twists.
+885,The Big Lebowski,2001,Animation,6.8,A suspenseful ride packed with unexpected twists.
+886,Rocky,2018,Comedy,9.8,A gripping story filled with emotion and depth.
+887,Parasite,1988,Crime,7.9,An emotional story that leaves a lasting impact.
+888,The Silence of the Lambs,1999,Animation,7.5,An emotional story that leaves a lasting impact.
+889,The Prestige,1964,Romance,8.6,A suspenseful ride packed with unexpected twists.
+890,Avatar,2009,Thriller,8.7,A thrilling adventure that keeps you on the edge.
+891,The Lord of the Rings,2011,Comedy,7.0,A visually stunning film with a heartfelt narrative.
+892,No Country for Old Men,1956,Action,9.6,A beautifully crafted film with memorable characters.
+893,Moonlight,1978,Animation,6.6,A visually stunning film with a heartfelt narrative.
+894,Inception,2010,Romance,7.1,An unforgettable journey of courage and discovery.
+895,Iron Man,1974,Horror,9.5,A powerful drama exploring human relationships.
+896,Rocky,1988,Horror,7.2,A beautifully crafted film with memorable characters.
+897,The Grand Budapest Hotel,1955,Thriller,9.6,A beautifully crafted film with memorable characters.
+898,The Dark Knight,1968,Romance,9.2,A gripping story filled with emotion and depth.
+899,The Godfather,1991,Action,7.7,A thrilling adventure that keeps you on the edge.
+900,The Lord of the Rings,2023,Animation,9.2,A thrilling adventure that keeps you on the edge.
+901,The Terminator,1963,Thriller,8.9,An emotional story that leaves a lasting impact.
+902,Good Will Hunting,1958,Romance,6.5,An unforgettable journey of courage and discovery.
+903,The Social Network,1981,Drama,8.8,An emotional story that leaves a lasting impact.
+904,La La Land,1957,Animation,9.1,A powerful drama exploring human relationships.
+905,The Wolf of Wall Street,1990,Crime,9.5,A suspenseful ride packed with unexpected twists.
+906,Parasite,1996,Romance,6.6,An unforgettable journey of courage and discovery.
+907,La La Land,2000,Animation,7.8,A beautifully crafted film with memorable characters.
+908,Parasite,1959,Drama,9.4,A beautifully crafted film with memorable characters.
+909,Black Panther,1952,Adventure,9.1,A powerful drama exploring human relationships.
+910,Black Panther,1989,Comedy,6.9,An unforgettable journey of courage and discovery.
+911,2001: A Space Odyssey,1960,Animation,7.8,An emotional story that leaves a lasting impact.
+912,Forrest Gump,1973,Horror,8.5,A powerful drama exploring human relationships.
+913,Se7en,1998,Drama,7.4,An emotional story that leaves a lasting impact.
+914,The Departed,1998,Thriller,6.8,A visually stunning film with a heartfelt narrative.
+915,The Shawshank Redemption,1952,Romance,8.4,A beautifully crafted film with memorable characters.
+916,The Avengers,2013,Thriller,8.4,A powerful drama exploring human relationships.
+917,The Shawshank Redemption,1968,Crime,9.8,A powerful drama exploring human relationships.
+918,The Grand Budapest Hotel,2008,Action,9.5,A visually stunning film with a heartfelt narrative.
+919,The Pianist,2019,Adventure,9.3,A powerful drama exploring human relationships.
+920,The Truman Show,1986,Animation,6.7,A powerful drama exploring human relationships.
+921,The Green Mile,1973,Adventure,8.5,A gripping story filled with emotion and depth.
+922,Forrest Gump,1958,Action,8.9,A visually stunning film with a heartfelt narrative.
+923,Pulp Fiction,1959,Action,7.0,A gripping story filled with emotion and depth.
+924,Iron Man,1962,Horror,7.1,A fast-paced story with intense action sequences.
+925,A Beautiful Mind,1989,Comedy,9.5,A gripping story filled with emotion and depth.
+926,Whiplash,1968,Crime,6.8,A visually stunning film with a heartfelt narrative.
+927,Fight Club,2015,Animation,7.5,A fast-paced story with intense action sequences.
+928,Braveheart,1985,Romance,6.7,A powerful drama exploring human relationships.
+929,La La Land,2019,Drama,7.3,An unforgettable journey of courage and discovery.
+930,Harry Potter and the Sorcerer's Stone,1950,Action,8.4,A fast-paced story with intense action sequences.
+931,La La Land,1977,Adventure,9.4,A thrilling adventure that keeps you on the edge.
+932,The Big Lebowski,1972,Drama,8.4,A beautifully crafted film with memorable characters.
+933,Spirited Away,1956,Crime,9.6,A warm and inspiring tale of hope and resilience.
+934,No Country for Old Men,1984,Sci-Fi,9.0,A powerful drama exploring human relationships.
+935,Harry Potter and the Sorcerer's Stone,2010,Comedy,6.7,A beautifully crafted film with memorable characters.
+936,Titanic,1974,Romance,8.4,A suspenseful ride packed with unexpected twists.
+937,Joker,1965,Comedy,8.8,A powerful drama exploring human relationships.
+938,Fight Club,2004,Romance,7.0,A warm and inspiring tale of hope and resilience.
+939,The Departed,1993,Horror,6.7,A thrilling adventure that keeps you on the edge.
+940,Moonlight,1958,Drama,9.4,A visually stunning film with a heartfelt narrative.
+941,The Prestige,1957,Thriller,6.8,An emotional story that leaves a lasting impact.
+942,La La Land,1960,Adventure,9.6,A fast-paced story with intense action sequences.
+943,No Country for Old Men,1991,Sci-Fi,7.8,A fast-paced story with intense action sequences.
+944,Goodfellas,1954,Action,7.1,A visually stunning film with a heartfelt narrative.
+945,The Lion King,2014,Comedy,9.5,A warm and inspiring tale of hope and resilience.
+946,Saving Private Ryan,1967,Sci-Fi,9.8,A beautifully crafted film with memorable characters.
+947,Fight Club,2016,Sci-Fi,6.7,A warm and inspiring tale of hope and resilience.
+948,Pulp Fiction,2015,Drama,9.2,A powerful drama exploring human relationships.
+949,2001: A Space Odyssey,1989,Horror,7.6,A suspenseful ride packed with unexpected twists.
+950,Whiplash,1959,Adventure,7.7,A thrilling adventure that keeps you on the edge.
+951,Goodfellas,2018,Action,7.0,A visually stunning film with a heartfelt narrative.
+952,Braveheart,2016,Horror,9.5,A fast-paced story with intense action sequences.
+953,Star Wars,1985,Horror,8.1,A gripping story filled with emotion and depth.
+954,The Departed,2008,Thriller,9.4,A powerful drama exploring human relationships.
+955,The Matrix,1966,Animation,9.4,A thrilling adventure that keeps you on the edge.
+956,Gladiator,1968,Sci-Fi,6.6,A beautifully crafted film with memorable characters.
+957,Harry Potter and the Sorcerer's Stone,1962,Comedy,7.3,A powerful drama exploring human relationships.
+958,The Silence of the Lambs,1978,Crime,7.6,A fast-paced story with intense action sequences.
+959,The Lion King,2017,Crime,8.8,A suspenseful ride packed with unexpected twists.
+960,The Grand Budapest Hotel,2023,Animation,8.6,A fast-paced story with intense action sequences.
+961,Pulp Fiction,1992,Drama,8.8,A powerful drama exploring human relationships.
+962,The Avengers,2005,Sci-Fi,8.3,A suspenseful ride packed with unexpected twists.
+963,Shutter Island,2001,Comedy,8.1,A beautifully crafted film with memorable characters.
+964,Se7en,2023,Horror,8.0,An emotional story that leaves a lasting impact.
+965,The Avengers,1962,Comedy,6.9,A suspenseful ride packed with unexpected twists.
+966,Interstellar,1968,Crime,8.5,A powerful drama exploring human relationships.
+967,Her,1964,Comedy,6.6,A thrilling adventure that keeps you on the edge.
+968,The Avengers,2019,Animation,9.2,A powerful drama exploring human relationships.
+969,The Social Network,2009,Romance,7.5,A visually stunning film with a heartfelt narrative.
+970,The Grand Budapest Hotel,2016,Adventure,9.0,An emotional story that leaves a lasting impact.
+971,La La Land,1964,Romance,7.9,An unforgettable journey of courage and discovery.
+972,Inception,2006,Animation,7.2,A gripping story filled with emotion and depth.
+973,The Lion King,1971,Comedy,8.5,An unforgettable journey of courage and discovery.
+974,Whiplash,2007,Comedy,9.8,A fast-paced story with intense action sequences.
+975,The Wolf of Wall Street,1967,Comedy,9.0,An emotional story that leaves a lasting impact.
+976,Jurassic Park,1956,Action,8.2,A thrilling adventure that keeps you on the edge.
+977,The Departed,1951,Animation,8.1,A suspenseful ride packed with unexpected twists.
+978,The Dark Knight,1996,Romance,7.4,A fast-paced story with intense action sequences.
+979,Moonlight,1990,Crime,7.9,A warm and inspiring tale of hope and resilience.
+980,Interstellar,1968,Animation,8.6,A thrilling adventure that keeps you on the edge.
+981,Django Unchained,1955,Animation,9.1,A thrilling adventure that keeps you on the edge.
+982,Mad Max: Fury Road,2015,Romance,9.6,A suspenseful ride packed with unexpected twists.
+983,The Lord of the Rings,2001,Adventure,6.5,A gripping story filled with emotion and depth.
+984,The Pianist,1973,Action,9.1,A gripping story filled with emotion and depth.
+985,Avatar,2019,Adventure,8.5,A warm and inspiring tale of hope and resilience.
+986,Goodfellas,2024,Adventure,9.2,A thrilling adventure that keeps you on the edge.
+987,The Big Lebowski,1983,Romance,9.1,An unforgettable journey of courage and discovery.
+988,The Godfather,1999,Romance,9.3,An unforgettable journey of courage and discovery.
+989,Joker,1951,Drama,6.9,A thrilling adventure that keeps you on the edge.
+990,The Lion King,2021,Animation,7.7,A fast-paced story with intense action sequences.
+991,Casablanca,1980,Comedy,8.7,A suspenseful ride packed with unexpected twists.
+992,Parasite,2008,Sci-Fi,9.8,A visually stunning film with a heartfelt narrative.
+993,The Batman,2009,Romance,6.9,A powerful drama exploring human relationships.
+994,Black Panther,2009,Drama,8.3,An unforgettable journey of courage and discovery.
+995,Fight Club,2003,Thriller,7.9,A thrilling adventure that keeps you on the edge.
+996,Saving Private Ryan,1975,Adventure,9.0,A thrilling adventure that keeps you on the edge.
+997,The Godfather,1983,Comedy,6.6,A gripping story filled with emotion and depth.
+998,Forrest Gump,1961,Sci-Fi,9.5,A visually stunning film with a heartfelt narrative.
+999,Casablanca,1963,Romance,6.7,A fast-paced story with intense action sequences.
+1000,Good Will Hunting,1997,Animation,7.3,A powerful drama exploring human relationships.
